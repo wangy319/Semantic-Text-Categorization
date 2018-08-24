@@ -1,0 +1,4709 @@
+complet success 
+incorrect function 
+system cannot find file 
+system cannot find path 
+system cannot open file 
+access deni 
+handl invalid 
+storag control block destroy 
+not storag process command 
+storag control block address invalid 
+environ incorrect 
+made load program incorrect format 
+access code invalid 
+data invalid 
+not storag complet 
+system cannot find drive 
+directori cannot remov 
+system cannot move file disk drive 
+no file 
+media write protect 
+system cannot find devic 
+devic not readi 
+devic not recogn command 
+data error cyclic redund check ). 
+program issu command command length incorrect 
+drive cannot locat specif area track disk 
+disk diskett cannot access 
+drive cannot find sector 
+printer paper 
+system cannot write devic 
+system cannot read devic 
+devic attach system not function 
+process cannot access file process 
+process cannot access file process lock portion file 
+wrong diskett drive 
+file open share 
+reach end file 
+disk full 
+request not support 
+window cannot find network path verifi network path correct destin comput not busi turn window cannot find network path contact network administr 
+not connect duplic exist network join domain system control panel chang comput join workgroup choos workgroup 
+network path not found 
+network busi 
+network devic no longer 
+network bio command limit reach 
+network adapt hardwar error occur 
+server cannot 
+unexpect network error occur 
+remot adapt not compat 
+printer queue full 
+space store file wait print not server 
+file wait print delet 
+network no longer 
+network access deni 
+network type not correct 
+network cannot found 
+limit local comput network adapt card exceed 
+network bio session limit exceed 
+remot server paus process start 
+no connect can made remot comput time connect comput can accept 
+printer disk devic paus 
+file exist 
+directori file cannot creat 
+fail int 24 
+storag process request not 
+local devic 
+network password not correct 
+paramet incorrect 
+write fault occur network 
+system cannot start process time 
+cannot creat system semaphor 
+exclus semaphor own process 
+semaphor cannot close 
+semaphor cannot 
+cannot request exclus semaphor interrupt time 
+previou ownership semaphor end 
+insert diskett drive %1. 
+program stop altern diskett not insert 
+disk lock process 
+pipe end 
+system cannot open devic file 
+file long 
+not space disk 
+no intern file identifi 
+target intern file identifi incorrect 
+ioctl call made program not correct 
+verifi write switch paramet not correct 
+system not support command 
+function not support system 
+semaphor timeout period expir 
+data area pass system call small 
+filenam directori volum label syntax incorrect 
+system call level not correct 
+disk no volum label 
+modul not found 
+procedur not found 
+no child process wait 
+%1 cannot run win32 mode 
+file handl open disk partit raw disk i o 
+made move file pointer begin file 
+file pointer cannot devic file 
+join subst command cannot drive previous join drive 
+made join subst command drive join 
+made join subst command drive substitut 
+system delet join drive not join 
+system delet substitut drive not substitut 
+system join drive directori join drive 
+system substitut drive directori substitut drive 
+system join drive directori substitut drive 
+system subst drive directori join drive 
+system cannot join subst time 
+system cannot join substitut drive directori same drive 
+directori not subdirectori root directori 
+directori not empti 
+path substitut 
+not resourc process command 
+path cannot time 
+made join substitut drive directori drive target previou substitut 
+system trace inform not config sy file trace disallow 
+number semaphor event dosmuxsemwait not correct 
+dosmuxsemwait not execut semaphor 
+dosmuxsemwait list not correct 
+volum label enter exce label charact limit target file system 
+cannot creat thread 
+recipi process refus signal 
+segment discard cannot lock 
+segment unlock 
+address thread id not correct 
+argument not correct 
+path invalid 
+signal pend 
+no thread can creat system 
+unabl lock region file 
+ 
+lock request not outstand suppli cancel region 
+file system not support atom lock type 
+system detect segment number not correct 
+oper system cannot run %1. 
+cannot creat file file exist 
+flag pass not correct 
+system semaphor not found 
+oper system cannot run %1. 
+oper system cannot run %1. 
+oper system cannot run %1. 
+cannot run %1 win32 mode 
+oper system cannot run %1. 
+%1 not valid win32 
+oper system cannot run %1. 
+oper system cannot run %1. 
+oper system cannot run program 
+oper system not present configur run 
+oper system cannot run %1. 
+oper system cannot run program 
+code segment cannot greater equal 64k 
+oper system cannot run %1. 
+oper system cannot run %1. 
+system not find environ option enter 
+no process command subtre signal handler 
+filenam extens long 
+ring 2 stack 
+global filenam charact ?, enter incorrectli global filenam charact 
+signal post not correct 
+signal handler cannot 
+segment lock cannot realloc 
+dynam link modul attach program dynam link modul 
+cannot nest call loadmodul 
+version %1 not compat version window ' run check computer' system inform x86 32 bit x64 64 bit version program contact softwar publish 
+imag file %1 sign unabl modifi 
+imag file %1 strong sign unabl modifi 
+file check lock edit user 
+file check save 
+file type save retriev block 
+file size exce limit allow cannot save 
+access deni open file locat add web site trust site list brows web site select option login automat 
+not complet success file viru 
+file viru cannot open due natur viru file remov locat 
+pipe local 
+pipe state invalid 
+pipe instanc busi 
+pipe close 
+no process end pipe 
+data 
+session cancel 
+extend attribut invalid 
+extend attribut inconsist 
+wait time 
+no data 
+copi function cannot 
+directori invalid 
+extend attribut not fit buffer 
+extend attribut file mount file system corrupt 
+extend attribut tabl file full 
+extend attribut handl invalid 
+mount file system not support extend attribut 
+releas mutex not own caller 
+post made semaphor 
+part readprocessmemori writeprocessmemori request complet 
+oplock request deni 
+invalid oplock acknowledg receiv system 
+volum fragment complet 
+file cannot open process delet 
+short set not chang volum due global registri set 
+short name not enabl volum 
+secur stream volum inconsist state 
+file lock cannot process due invalid byte rang 
+subsystem need support imag type not present 
+file notif guid 
+system cannot find messag text messag number 0x%1 messag file %2. 
+scope not found 
+no action taken system reboot 
+shutdown fail 
+restart fail 
+maximum number session reach 
+thread background process mode 
+thread not background process mode 
+process background process mode 
+process not background process mode 
+access invalid address 
+user profil cannot load 
+arithmet result exceed 32 bit 
+process end pipe 
+wait process open end pipe 
+verifi found error current process 
+error occur abio subsystem 
+warn occur wx86 subsystem 
+error occur wx86 subsystem 
+made cancel timer apc subject thread not thread origin timer apc routin 
+unwind except code 
+invalid unalign stack encount unwind 
+invalid unwind target encount unwind 
+invalid object attribut ntcreateport invalid port attribut ntconnectport 
+length messag pass ntrequestport ntrequestwaitreplyport longer maximum messag allow port 
+made lower quota limit current usag 
+made attach devic attach devic 
+made execut instruct unalign address host system not support unalign instruct refer 
+profil not start 
+profil not stop 
+pass acl not minimum inform 
+number activ profil object maximum no start 
+cannot continu block i o 
+thread termin default call ntterminatethread null thread current process 
+mm error return not defin standard fsrtl filter convert error guarante filter 
+mm error return not defin standard fsrtl filter convert error guarante filter 
+mm error return not defin standard fsrtl filter convert error guarante filter 
+malform function tabl encount unwind 
+made assign protect file system file directori sid secur descriptor not translat guid store file system 
+made grow ldt set size size not number selector 
+start ldt inform not integr multipl selector size 
+user suppli invalid descriptor ldt descriptor 
+process thread action assign primari token perform process thread 
+made oper thread specif process thread not process 
+page file quota exceed 
+netlogon servic cannot start netlogon servic run domain conflict role 
+sam databas window server significantli synchron copi domain control complet synchron 
+ntcreatefil api fail error return place holder window lan manag redirector intern error map routin 
+privileg fail 
+exit ctrl c 
+miss system file 
+error 
+error 
+unabl creat page file 
+window cannot verifi digit signatur file recent hardwar softwar chang instal file sign incorrectli damag malici softwar unknown sourc 
+no page file 
+except 
+event pair synchron perform thread specif client server event pair object no event pair object thread 
+window server incorrect configur 
+illeg charact encount multi byte charact includ lead byte succeed trail byte unicod charact includ charact 0xffff 0xfffe 
+unicod charact not defin unicod charact instal system 
+page file cannot creat floppi diskett 
+system bio fail connect system interrupt devic bu devic connect 
+allow primari domain control domain 
+made acquir mutant maximum count exceed 
+volum access file system driver not load 
+registri file failur 
+unexpect failur debugactiveprocess 
+fatal system error 
+data not accept 
+ntvdm encount hard error 
+cancel timeout 
+repli messag mismatch 
+delay write fail 
+paramet s pass server client server share memori invalid data put share memori 
+stream not tini stream 
+request handl stack overflow code 
+intern of statu code indic alloc handl retri onod move extent stream convert larg stream 
+find object found object match id volum scope handl 
+bucket array grown retri transact 
+user kernel marshal buffer overflow 
+suppli variant structur invalid data 
+buffer ill form data 
+audit fail 
+timer resolut not previous current process 
+insuffici account inform log 
+invalid dll entrypoint 
+invalid servic callback entrypoint 
+ip address conflict system network 
+ip address conflict system network 
+low registri space 
+callback return system servic cannot execut no callback activ 
+password provid short meet polici user account 
+polici user account not chang password frequent 
+chang password past 
+compress format unsupport 
+hardwar profil configur invalid 
+plug play registri devic path invalid 
+quota list intern inconsist descriptor 
+window evalu notif 
+illeg system dll reloc 
+dll initi fail 
+valid process continu step 
+no match current index enumer 
+rang not ad rang list conflict 
+server process run sid client 
+group mark deni cannot enabl 
+except 
+except 
+interfac not support 
+system standbi fail 
+system file %1 corrupt replac 
+virtual memori minimum low 
+devic remov enumer restart 
+fatal system error 
+devic not start reboot 
+not power complet 
+error_multiple_fault_viol 
+system process shut 
+remov process debugport made port not process 
+version window not compat behavior version directori forest domain domain control 
+rang not found rang list 
+driver not load system boot safe mode 
+driver not load fail 's initi call 
+"%hs" encount error appli power read devic configur 
+creat fail contain mount point resolv volum devic object not attach 
+devic object paramet not valid devic object not attach volum file 
+machin check error occur check system eventlog addit inform 
+error [%2] process driver databas 
+system hive size exceed limit 
+driver not load previou version driver memori 
+volum shadow copi servic 
+system fail hibern error code %hs). hibern disabl system restart 
+not complet due file system limit 
+assert failur occur 
+error occur acpi subsystem 
+wow assert error 
+devic miss system bio mp tabl devic not 
+translat fail translat resourc 
+irq translat fail translat resourc 
+driver %2 return invalid id child devic (%3). 
+kernel debugg awaken 
+handl close 
+inform 
+warn level statu transact state exist registri tree transact commit previous abort 
+media chang 
+guid substitut 
+creat stop reach symbol link 
+long jump execut 
+plug play queri not success 
+frame consolid execut 
+registri hive recov 
+run execut code modul %hs. insecur altern %hs, secur modul %hs? 
+load execut code modul %hs. secur incompat previou releas oper system altern %hs, secur modul %hs? 
+debugg not handl except 
+debugg repli 
+debugg cannot provid handl 
+debugg termin thread 
+debugg termin process 
+debugg control c 
+debugg print except control c 
+debugg receiv rip except 
+debugg receiv control break 
+debugg command commun except 
+object exist 
+thread suspend 
+imag reloc 
+inform level statu registri tree transact state not exist creat 
+segment load 
+invalid current directori 
+redund read 
+redund write 
+machin type mismatch 
+partial data receiv 
+expedit data receiv 
+partial expedit data receiv 
+tdi event 
+tdi event pend 
+check file system %wz 
+fatal exit 
+registri key referenc predefin handl 
+page unlock 
+%h 
+page lock 
+popup %1 %2 
+error_already_win32 
+machin type mismatch 
+yield execut perform no thread run 
+resum flag timer api ignor 
+arbit defer arbitr resourc parent 
+insert cardbu devic cannot start configur error "%hs". 
+cpu multiprocessor system not same revis level processor oper system restrict featur capabl processor system problem occur system contact cpu manufactur mix processor support 
+system put hibern 
+system resum hibern 
+window detect system firmwar bio updat previou firmwar date %2, current firmwar date %3]. 
+devic driver leak lock i o page caus system degrad system automat enabl track code order catch culprit 
+system awoken 
+error_wait_1 
+error_wait_2 
+error_wait_3 
+error_wait_63 
+error_abandoned_wait_0 
+error_abandoned_wait_63 
+error_user_apc 
+error_kernel_apc 
+error_alert 
+elev 
+repars perform object manag file result symbol link 
+open creat complet oplock break underway 
+volum mount file system 
+success level statu transact state exist registri tree transact commit previous abort 
+notifi chang request complet due close handl made notifi chang request 
+connect failur primari transport 
+page fault transit fault 
+page fault demand fault 
+page fault demand fault 
+page fault demand fault 
+page fault satisfi read secondari storag devic 
+cach page lock 
+crash dump exist page file 
+buffer zero 
+repars perform object manag file result symbol link 
+devic succeed queri stop chang 
+translat translat resourc global space no translat perform 
+process termin no thread termin 
+process not part job 
+process part job 
+volum shadow copi servic 
+file system file system filter driver success complet fsfilter 
+interrupt vector connect 
+interrupt vector connect 
+block wait oplock 
+debugg handl except 
+debugg continu 
+except occur user mode callback kernel callback frame remov 
+compress disabl volum 
+data provid cannot fetch backward result 
+data provid cannot scroll backward result 
+data provid previous fetch data releas data 
+data provid not interpret flag column bind accessor 
+error occur process request 
+implement not capabl perform request 
+client compon not valid state compon instanc 
+version number not pars 
+iterator' start posit invalid 
+hardwar report uncorrect memori error 
+heal enabl 
+desktop heap encount error alloc session memori inform system event log 
+system power state transit %2 %3. 
+system power state transit %2 %3 enter %4. 
+thread dispatch mca except mca 
+access %1 monitor polici rule %2. 
+access %1 restrict administr polici rule %2. 
+valid hibern file invalid abandon 
+delay write fail 
+delay write fail 
+delay write fail 
+resourc devic conflict mcfg tabl 
+oplock handl handl 
+oplock level cannot grant oplock lower level 
+not complet success oplock broken caller exist oplock not broken 
+handl oplock close oplock broken 
+access control entri ace not condit 
+access control entri ace invalid condit 
+access extend attribut deni 
+i o abort thread exit request 
+overlap i o event not signal state 
+overlap i o progress 
+invalid access memori locat 
+error perform inpag 
+recurs deep stack overflow 
+cannot act messag 
+cannot complet function 
+invalid flag 
+volum not recogn file system 
+volum file extern alter open file no longer valid 
+cannot perform full screen mode 
+made refer token not exist 
+configur registri databas corrupt 
+configur registri key invalid 
+configur registri key not open 
+configur registri key not read 
+configur registri key not written 
+file registri databas recov log altern copi recoveri success 
+registri corrupt structur file registri data corrupt system' memori imag file corrupt file not recov altern copi log absent corrupt 
+i o initi registri fail unrecover registri not read write flush file system' imag registri 
+system load restor file registri file not registri file format 
+illeg registri key mark delet 
+system not alloc space registri log 
+cannot creat symbol link registri key subkey valu 
+cannot creat stabl subkey volatil parent key 
+notifi chang request complet inform not return caller' buffer caller enumer file find 
+stop control servic run servic depend 
+control not valid servic 
+servic not respond start control request time fashion 
+thread not creat servic 
+servic databas lock 
+instanc servic run 
+account invalid not exist password invalid account 
+servic cannot start disabl no enabl devic 
+circular servic depend 
+servic not exist instal servic 
+servic cannot accept control messag time 
+servic not start 
+servic process not connect servic control 
+except occur servic handl control request 
+databas not exist 
+servic return servic specif error code 
+process termin unexpectedli 
+depend servic group fail start 
+servic not start due logon failur 
+start servic hung start pend state 
+servic databas lock invalid 
+servic mark delet 
+servic exist 
+system run good configur 
+depend servic not exist mark delet 
+current boot accept good control 
+no start servic made boot 
+servic servic display 
+account servic account servic run same process 
+failur action can win32 servic not driver 
+servic run same process servic control manag 
+no recoveri program configur servic 
+execut program servic configur run not implement servic 
+servic cannot start safe mode 
+physic end tape reach 
+tape access reach filemark 
+begin tape partit encount 
+tape access reach end file 
+no data tape 
+tape not partit 
+access tape multivolum partit current block size incorrect 
+tape partit inform not found load tape 
+unabl lock media eject mechan 
+unabl unload media 
+media drive chang 
+i o bu reset 
+no media drive 
+no map unicod charact exist target multi byte code page 
+dynam link librari dll initi routin fail 
+system shutdown progress 
+unabl abort system shutdown no shutdown progress 
+request not perform i o devic error 
+no serial devic success initi serial driver unload 
+unabl open devic share interrupt request irq devic devic irq open 
+serial i o complet write serial port 
+serial i o complet timeout period expir 
+no id address mark found floppi disk 
+mismatch floppi disk sector id field floppi disk control track address 
+floppi disk control report error not recogn floppi disk driver 
+floppi disk control return inconsist result regist 
+access hard disk recalibr fail retri 
+access hard disk disk fail retri 
+access hard disk disk control reset need fail 
+physic end tape encount 
+not server storag process command 
+potenti deadlock condit detect 
+base address file offset not proper align 
+chang system power state veto driver 
+system bio fail chang system power state 
+made creat link file file system support 
+program newer version window 
+program not window ms do program 
+cannot start instanc program 
+program written earlier version window 
+librari file need run damag 
+no file 
+error occur send command 
+librari file need run cannot found 
+current process system allow handl manag object 
+messag can synchron oper 
+sourc element no media 
+destin element media 
+element not exist 
+element part magazin not present 
+devic reiniti due hardwar error 
+devic clean oper 
+devic door open 
+devic not connect 
+element not found 
+no match key index 
+properti not exist object 
+point pass getmousemovepoint not buffer 
+track workstat servic not run 
+volum id not found 
+unabl remov file replac 
+unabl move replac file file replac file replac retain origin 
+unabl move replac file file replac file replac renam backup 
+volum chang journal delet 
+volum chang journal not activ 
+file found not correct file 
+journal entri delet journal 
+system shutdown schedul 
+system shutdown cannot initi user log comput 
+devic invalid 
+devic not connect rememb connect 
+local devic rememb connect network 
+network path type incorrectli not exist network provid not retyp path contact network administr 
+network provid invalid 
+unabl open network connect profil 
+network connect profil corrupt 
+cannot enumer noncontain 
+extend error occur 
+format group invalid 
+format comput invalid 
+format event invalid 
+format domain invalid 
+format servic invalid 
+format network invalid 
+format share invalid 
+format password invalid 
+format messag invalid 
+format messag destin invalid 
+multipl connect server share same user user not allow disconnect previou connect server share 
+made establish session network server session establish server 
+workgroup domain comput network 
+network not present not start 
+cancel user 
+cannot perform file user map section open 
+remot comput refus network connect 
+network connect grace close 
+network transport endpoint address 
+address not network endpoint 
+nonexist network connect 
+invalid activ network connect 
+network locat cannot reach inform network troubleshoot window 
+network locat cannot reach inform network troubleshoot window 
+network locat cannot reach inform network troubleshoot window 
+no servic oper destin network endpoint remot system 
+request abort 
+network connect abort local system 
+not complet retri perform 
+connect server not made limit number concurr connect account reach 
+log unauthor time day account 
+account not author log station 
+network address not 
+servic regist 
+servic not exist 
+not perform user not authent 
+not perform user not log network servic not exist 
+continu work progress 
+made initi initi complet 
+no local devic 
+site not exist 
+domain control exist 
+support connect server 
+group polici framework call extens no 
+user not valid profil 
+not support comput run window server 2003 small busi server 
+server machin shut 
+remot system not inform network troubleshoot window 
+secur identifi provid not account domain 
+secur identifi provid not domain compon 
+apphelp dialog cancel prevent start 
+program block group polici inform contact system administr 
+program invalid regist caus uniniti regist error itanium specif 
+share offlin not exist 
+kerbero protocol encount error valid kdc certif smartcard logon inform system event log 
+kerbero protocol encount error util smartcard subsystem 
+system detect compromis secur ensur can contact server authent 
+machin lock cannot shut forc option 
+defin callback gave invalid data call 
+group polici framework call extens synchron foreground polici refresh 
+driver block load 
+dynam link librari dll referenc modul dll process' execut imag 
+window cannot open program disabl 
+window cannot open program licens enforc system tamper corrupt 
+transact recov fail 
+current thread convert fiber 
+current thread convert fiber 
+system detect overrun stack base buffer overrun potenti malici user gain control 
+data present paramet function can oper 
+debug object fail object process delet 
+delay load dll function address delay load dll fail 
+%1 16 bit not permiss execut 16 bit applic check permiss system administr 
+insuffici inform exist identifi failur 
+paramet pass c runtim function incorrect 
+occur valid data length file 
+servic start fail servic same process incompat servic sid type set servic restrict servic sid type can coexist same process servic restrict sid type servic sid type servic configur host process restart order start servic 
+process host driver devic termin 
+exceed implement defin limit 
+target process target thread' process protect process 
+servic notif client lag current state servic machin 
+file fail storag quota exceed 
+file fail storag polici block type file inform contact system administr 
+privileg servic function properli not exist servic account configur 
+thread involv appear unrespons 
+secur id not assign label object 
+not privileg group referenc assign caller 
+map account name secur id not 
+no system quota limit specif account 
+no encrypt key encrypt key return 
+password complex convert lan manag password lan manag password return null string 
+revis level unknown 
+revis level incompat 
+secur id not assign owner object 
+secur id not assign primari group object 
+made oper imperson token thread not imperson client 
+group not disabl 
+no logon server servic logon request 
+logon session not exist termin 
+privileg not exist 
+privileg not held client 
+provid not properli form account 
+account exist 
+account not exist 
+group exist 
+group not exist 
+user account member group group cannot delet member 
+user account not member group account 
+remain administr account cannot disabl delet 
+unabl updat password provid current password incorrect 
+unabl updat password provid password valu not allow password 
+unabl updat password provid password not meet length complex histori domain 
+logon failur unknown user bad password 
+logon failur user account restrict reason blank password not allow logon hour restrict polici restrict enforc 
+logon failur account logon time restrict violat 
+logon failur user not allow log comput 
+logon failur account password expir 
+logon failur account disabl 
+no map account name secur id 
+local user identifi luid time 
+no local user identifi luid 
+subauthor part secur id invalid 
+access control list acl structur invalid 
+secur id structur invalid 
+secur descriptor structur invalid 
+inherit access control list acl access control entri ace not built 
+server disabl 
+server enabl 
+provid invalid identifi author 
+no memori secur inform updat 
+attribut invalid incompat attribut group 
+imperson level not provid provid imperson level invalid 
+cannot open anonym level secur token 
+valid inform class invalid 
+type token inappropri 
+unabl secur object no secur 
+configur inform not read domain control machin unavail access deni 
+secur account manag sam local secur author lsa server wrong state secur 
+domain wrong state secur 
+allow primari domain control domain 
+domain not exist not contact 
+domain exist 
+made exceed limit number domain server 
+unabl complet catastroph media failur data structur corrupt disk 
+intern error occur 
+gener access type contain access mask map nongener type 
+secur descriptor not format absolut rel ). 
+action restrict logon process call process not regist logon process 
+cannot start logon session id 
+authent packag unknown 
+logon session not state consist 
+logon session id 
+logon request contain invalid logon type 
+unabl imperson name pipe data read pipe 
+transact state registri subtre incompat 
+intern secur databas corrupt encount 
+cannot built account 
+cannot built special group 
+cannot built special user 
+user cannot remov group group user' primari group 
+token primari token 
+local group not exist 
+account not member group 
+account member group 
+local group exist 
+logon failur user not grant logon type comput 
+maximum number secret store singl system exceed 
+length secret exce maximum length allow 
+local secur author databas intern inconsist 
+logon user' secur accumul secur id 
+logon failur user not grant logon type comput 
+cross encrypt password chang user password 
+member not ad remov local group member not exist 
+member not ad local group member wrong account type 
+secur id 
+cross encrypt password chang user password 
+acl no inherit compon 
+file directori corrupt unread 
+disk structur corrupt unread 
+no user session key logon session 
+servic access licens number connect no connect can made servic time connect servic can accept 
+logon failur target account incorrect 
+mutual authent fail server' password date domain control 
+time date differ client server 
+cannot perform current domain 
+invalid handl 
+invalid menu handl 
+invalid cursor handl 
+invalid acceler tabl handl 
+invalid hook handl 
+invalid handl multipl posit structur 
+cannot creat top level child 
+cannot find class 
+invalid belong thread 
+hot key regist 
+class exist 
+class not exist 
+class open window 
+invalid index 
+invalid icon handl 
+privat dialog word 
+list box identifi not found 
+no wildcard found 
+thread not clipboard open 
+hot key not regist 
+not valid dialog 
+control id not found 
+invalid messag combo box not edit control 
+not combo box 
+height 256 
+invalid devic dc handl 
+invalid hook procedur type 
+invalid hook procedur 
+cannot nonloc hook modul handl 
+hook procedur can global 
+journal hook procedur instal 
+hook procedur not instal 
+invalid messag singl select list box 
+lb_setcount non lazi list box 
+list box not support tab stop 
+cannot destroy object creat thread 
+child window cannot menu 
+not system menu 
+invalid messag box style 
+invalid system wide spi_ *) paramet 
+screen lock 
+handl window multipl posit structur same parent 
+not child 
+invalid gw_ command 
+invalid thread identifi 
+cannot process messag not multipl document interfac mdi 
+popup menu activ 
+not scroll bar 
+scroll bar rang cannot greater maxlong 
+cannot show remov 
+insuffici system resourc exist complet servic 
+insuffici system resourc exist complet servic 
+insuffici system resourc exist complet servic 
+insuffici quota complet servic 
+insuffici quota complet servic 
+page file small complet 
+menu item not found 
+invalid keyboard layout handl 
+hook type not allow 
+interact station 
+return timeout period expir 
+invalid monitor handl 
+incorrect size argument 
+symbol link cannot type disabl 
+not support current symbol link 
+window unabl pars xml data 
+error encount process xml digit signatur 
+restart 
+caller made connect request wrong rout compart 
+authip failur connect remot host 
+insuffici nvram resourc exist complet servic reboot 
+event log file corrupt 
+no event log file open event log servic not start 
+event log file full 
+event log file chang read oper 
+task invalid 
+task index invalid 
+thread join task 
+window instal servic not access can occur window instal not correctli instal contact support personnel assist 
+user cancel instal 
+fatal error instal 
+instal suspend incomplet 
+action valid product instal 
+featur id not regist 
+compon id not regist 
+unknown properti 
+handl invalid state 
+configur data product corrupt contact support personnel 
+compon qualifi not present 
+instal sourc product not verifi sourc exist can access 
+instal packag cannot instal window instal servic instal window servic pack newer version window instal servic 
+product uninstal 
+sql queri syntax invalid unsupport 
+record field not exist 
+devic remov 
+instal progress complet instal proceed instal 
+instal packag not open verifi packag exist can access contact vendor verifi valid window instal packag 
+instal packag not open contact vendor verifi valid window instal packag 
+error start window instal servic user interfac contact support personnel 
+error open instal log file verifi log file locat exist can write 
+languag instal packag not support system 
+error appli transform verifi transform path valid 
+instal forbidden system polici contact system administr 
+function not execut 
+function fail execut 
+invalid unknown tabl 
+data suppli wrong type 
+data type not support 
+window instal servic fail start contact support personnel 
+temp folder drive full inaccess free space drive verifi write permiss temp folder 
+instal packag not support processor type contact product vendor 
+compon not comput 
+updat packag not open verifi updat packag exist can access contact vendor verifi valid window instal updat packag 
+updat packag not open contact vendor verifi valid window instal updat packag 
+updat packag cannot process window instal servic instal window servic pack newer version window instal servic 
+version product instal instal version cannot continu configur remov exist version product add remov program control panel 
+invalid command line argument consult window instal sdk detail command line 
+administr permiss add remov configur server softwar termin servic remot session instal configur softwar server contact network administr 
+complet success system restart can effect 
+upgrad cannot instal window instal servic program upgrad miss upgrad updat version program verifi program upgrad exist comput correct upgrad 
+updat packag not permit softwar restrict polici 
+custom not permit softwar restrict polici 
+window instal not permit instal remot desktop connect 
+uninstal updat packag not support 
+updat not appli product 
+no valid sequenc found updat 
+updat remov disallow polici 
+xml updat data invalid 
+window instal not permit updat manag advertis product featur product instal appli updat 
+window instal servic not access safe mode comput not safe mode can system restor return machin previou good state 
+fail fast except occur except handler not invok process termin immedi 
+string bind invalid 
+bind handl not correct type 
+bind handl invalid 
+rpc protocol sequenc not support 
+rpc protocol sequenc invalid 
+string univers uniqu identifi uuid invalid 
+endpoint format invalid 
+network address invalid 
+no endpoint found 
+timeout invalid 
+object univers uniqu identifi uuid not found 
+object univers uniqu identifi uuid regist 
+type univers uniqu identifi uuid regist 
+rpc server listen 
+no protocol sequenc regist 
+rpc server not listen 
+manag type unknown 
+interfac unknown 
+no bind 
+no protocol sequenc 
+endpoint cannot creat 
+not resourc complet 
+rpc server unavail 
+rpc server busi complet 
+network option invalid 
+no remot procedur call activ thread 
+remot procedur call fail 
+remot procedur call fail not execut 
+remot procedur call rpc protocol error occur 
+access http proxi deni 
+transfer syntax not support rpc server 
+univers uniqu identifi uuid type not support 
+tag invalid 
+array bound invalid 
+bind not entri 
+syntax invalid 
+syntax not support 
+no network address construct univers uniqu identifi uuid ). 
+endpoint duplic 
+authent type unknown 
+maximum number call small 
+string long 
+rpc protocol sequenc not found 
+procedur number rang 
+bind not authent inform 
+authent servic unknown 
+authent level unknown 
+secur invalid 
+author servic unknown 
+entri invalid 
+server endpoint cannot 
+no endpoint endpoint mapper 
+no interfac export 
+entri incomplet 
+version option invalid 
+no member 
+noth unexport 
+interfac not found 
+entri exist 
+entri not found 
+servic unavail 
+network address famili invalid 
+not support 
+no secur imperson 
+intern error occur remot procedur call rpc ). 
+rpc server integ divis 
+address error occur rpc server 
+float point rpc server caus divis 
+float point underflow occur rpc server 
+float point overflow occur rpc server 
+list rpc server bind auto handl exhaust 
+unabl open charact translat tabl file 
+file charact translat tabl fewer 512 byte 
+null handl pass client host remot procedur call 
+handl chang remot procedur call 
+bind handl pass remot procedur call not match 
+stub unabl remot procedur call handl 
+null refer pointer pass stub 
+enumer rang 
+byte count small 
+stub receiv bad data 
+suppli user buffer not valid 
+disk media not recogn not format 
+workstat not trust secret 
+secur databas server not comput account workstat trust relationship 
+trust relationship primari domain trust domain fail 
+trust relationship workstat primari domain fail 
+network logon fail 
+remot procedur call progress thread 
+made logon network logon servic not start 
+user' account expir 
+redirector cannot unload 
+printer driver instal 
+port unknown 
+printer driver unknown 
+print processor unknown 
+separ file invalid 
+prioriti invalid 
+printer invalid 
+printer exist 
+printer command invalid 
+datatyp invalid 
+environ invalid 
+no bind 
+account interdomain trust account global user account local user account access server 
+account comput account global user account local user account access server 
+account server trust account global user account local user account access server 
+secur id sid domain inconsist trust inform domain 
+server cannot unload 
+imag file not section 
+type cannot found imag file 
+cannot found imag file 
+languag id cannot found imag file 
+not quota process command 
+no interfac regist 
+remot procedur call cancel 
+bind handl not inform 
+commun failur occur remot procedur call 
+authent level not support 
+no princip regist 
+error not valid window rpc error code 
+uuid valid comput alloc 
+secur packag specif error occur 
+thread not cancel 
+invalid encod decod handl 
+incompat version serial packag 
+incompat version rpc stub 
+rpc pipe object invalid corrupt 
+invalid rpc pipe object 
+unsupport rpc pipe version 
+http proxi server reject connect cooki authent fail 
+group member not found 
+endpoint mapper databas entri not creat 
+object univers uniqu identifi uuid nil uuid 
+time invalid 
+form invalid 
+form size invalid 
+printer handl wait 
+printer delet 
+state printer invalid 
+user' password chang log time 
+not find domain control domain 
+referenc account lock not log 
+object export not found 
+object not found 
+object resolv not found 
+data remain request buffer 
+invalid asynchron remot procedur call handl 
+invalid asynchron rpc call handl 
+rpc pipe object close 
+rpc call complet pipe process 
+no data rpc pipe 
+no site machin 
+file cannot access system 
+file cannot resolv system 
+entri not expect type 
+not object uuid export entri 
+interfac not export entri 
+profil entri not ad 
+profil element not ad 
+profil element not remov 
+group element not ad 
+group element not remov 
+printer driver not compat polici enabl comput block nt 4 0 driver 
+expir can no longer 
+current user' deleg trust creation quota exceed 
+total deleg trust creation quota exceed 
+current user' deleg trust delet quota exceed 
+logon failur machin log protect authent firewal account not allow authent machin 
+remot connect print spooler block polici machin 
+logon failur authent fail ntlm authent disabl 
+pixel format invalid 
+driver invalid 
+style class attribut invalid 
+metafil not support 
+transform not support 
+clip not support 
+color manag modul invalid 
+color profil invalid 
+tag not found 
+tag not present 
+tag present 
+color profil not devic 
+color profil not found 
+color space invalid 
+imag color manag not enabl 
+error delet color transform 
+color transform invalid 
+transform not match bitmap' color space 
+name color index not present profil 
+profil intend devic type devic 
+network connect made success user prompt password origin 
+network connect made success default credenti 
+usernam invalid 
+network connect not exist 
+network connect file open request pend 
+activ connect exist 
+devic activ process cannot disconnect 
+print monitor unknown 
+printer driver 
+spool file not found 
+startdocprint call not issu 
+addjob call not issu 
+print processor instal 
+print monitor instal 
+print monitor not function 
+print monitor 
+not allow job queu printer 
+success not effect system reboot 
+success not effect servic restart 
+no printer found 
+printer driver unreli 
+printer driver harm system 
+printer driver packag 
+unabl find core driver packag printer driver packag 
+fail system reboot roll back made 
+fail system reboot initi roll back made 
+printer driver not found system download 
+print job fail print print system updat job resubmit 
+reissu cach io 
+win encount error process command 
+local win cannot delet 
+import file fail 
+backup fail full backup 
+backup fail check directori back databas 
+not exist win databas 
+replic nonconfigur partner not allow 
+version suppli content inform not support 
+suppli content inform malform 
+data cannot found local peer cach 
+no data 
+suppli object not initi 
+suppli object initi 
+shutdown progress 
+suppli object invalid 
+element exist not replac 
+can not cancel complet 
+can not reqest carri 
+access data bound valid data 
+version not support 
+configur invalid 
+sku not licens 
+peerdist servic initi shortli 
+dhcp client obtain ip address network local interfac disabl dhcp client can obtain address 
+guid pass not recogn valid wmi data provid 
+instanc pass not recogn valid wmi data provid 
+data item id pass not recogn valid wmi data provid 
+wmi request not complet retri 
+wmi data provid not locat 
+wmi data provid refer instanc not regist 
+wmi data block event notif enabl 
+wmi data block no longer 
+wmi data servic not 
+wmi data provid fail carri request 
+wmi mof inform not valid 
+wmi registr inform not valid 
+wmi data block event notif disabl 
+wmi data item data block read 
+wmi data item data block not chang 
+media identifi not repres valid medium 
+librari identifi not repres valid librari 
+media pool identifi not repres valid media pool 
+drive medium not compat exist librari 
+medium exist offlin librari onlin 
+cannot perform offlin librari 
+librari drive media pool empti 
+librari drive media pool empti 
+no media media pool librari 
+disabl 
+media identifi not repres valid cleaner 
+drive cannot clean not support clean 
+object identifi not repres valid object 
+unabl read write databas 
+databas full 
+medium not compat devic media pool 
+not exist 
+identifi not valid 
+media not mount readi 
+devic not readi 
+oper administr refus request 
+drive identifi not repres valid drive 
+librari full no slot 
+transport cannot access medium 
+unabl load medium drive 
+unabl retriev drive statu 
+unabl retriev slot statu 
+unabl retriev statu transport 
+cannot transport 
+unabl open close inject eject port 
+unabl eject medium drive 
+cleaner slot reserv 
+cleaner slot not reserv 
+cleaner cartridg perform maximum number drive clean 
+unexpect medium identifi 
+remain item group cannot delet 
+messag provid exce maximum size allow paramet 
+volum system page file 
+media type cannot remov librari drive librari report can support media type 
+offlin media cannot mount system no enabl drive present can 
+cleaner cartridg present tape librari 
+cannot inject eject port not empti 
+file not comput 
+remot storag servic not oper time 
+remot storag servic encount media error 
+file directori not repars point 
+repars point attribut cannot conflict exist attribut 
+data present repars point buffer invalid 
+tag present repars point buffer invalid 
+mismatch tag request tag present repars point 
+singl instanc storag not volum 
+cannot complet resourc depend 
+cluster depend cannot found 
+cluster cannot made depend depend 
+cluster not onlin 
+cluster node not 
+cluster not 
+cluster not found 
+cluster shut 
+cluster node cannot evict cluster node node 
+object exist 
+object list 
+cluster group not request 
+cluster group not found 
+not complet cluster group not onlin 
+fail cluster node not owner node not owner 
+fail cluster node not owner group node not owner group 
+cluster not creat monitor 
+cluster not brought onlin monitor 
+not complet cluster onlin 
+cluster not delet brought offlin quorum 
+cluster not make quorum not capabl quorum 
+cluster softwar shut 
+group not correct state 
+properti store not effect time brought onlin 
+cluster not make quorum not belong share storag class 
+cluster not delet core 
+quorum fail onlin 
+quorum log not creat mount success 
+cluster log corrupt 
+record not written cluster log exce maximum size 
+cluster log exce maximum size 
+no checkpoint record found cluster log 
+minimum disk space need log not 
+cluster node fail control quorum own activ node 
+cluster network not 
+cluster node not 
+cluster node run 
+cluster fail 
+cluster node not valid 
+cluster node exist 
+node process join cluster 
+cluster node not found 
+cluster local node inform not found 
+cluster network exist 
+cluster network not found 
+cluster network interfac exist 
+cluster network interfac not found 
+cluster request not valid object 
+cluster network provid not valid 
+cluster node 
+cluster node not reachabl 
+cluster node not member cluster 
+cluster join not progress 
+cluster network not valid 
+cluster node 
+cluster ip address 
+cluster node not paus 
+no cluster secur 
+cluster network not configur intern cluster commun 
+cluster node 
+cluster node 
+cluster network onlin 
+cluster network offlin 
+cluster node member cluster 
+cluster network configur intern cluster commun activ cluster node intern commun capabl cannot remov network 
+cluster resourc depend network provid servic client client access capabl cannot remov network 
+cannot perform cluster quorum not bring quorum offlin modifi owner list 
+cluster quorum not allow depend 
+cluster node paus 
+cluster cannot brought onlin owner node cannot run 
+cluster node not readi 
+cluster node shut 
+cluster join abort 
+cluster join fail due incompat softwar version join node sponsor 
+cannot creat cluster reach limit number resourc can monitor 
+system configur chang cluster join form join form abort 
+type not found 
+node not support type due version inconsist due absenc dll node 
+not support dll due bad chang suppli dll 
+no authent packag regist rpc server 
+cannot bring group onlin owner group not prefer list group chang owner node group move group 
+join fail cluster databas sequenc number chang incompat locker node happen join cluster databas chang join 
+monitor not fail perform current state happen pend state 
+non locker code request reserv lock make global updat 
+quorum disk not locat cluster servic 
+back cluster databas possibl corrupt 
+df root exist cluster node 
+modifi properti fail conflict exist properti 
+incompat current membership state node 
+quorum not quorum log 
+membership engin shutdown cluster servic node 
+join fail cluster instanc id join node not match cluster instanc id sponsor node 
+match cluster network ip address not found 
+actual data type properti not match expect data type properti 
+cluster node evict cluster success node not clean determin cleanup step fail recov failov cluster event log event viewer 
+paramet valu 's properti conflict 
+comput cannot made member cluster 
+comput cannot made member cluster not correct version window instal 
+cluster cannot creat cluster cluster cluster 
+cluster configur action commit 
+cluster configur action not roll back 
+drive letter assign system disk node conflict drive letter assign disk node 
+node cluster run version window not support 
+comput account match network 
+no network adapt 
+cluster node poison 
+group unabl accept request move node 
+type cannot accept request busi perform 
+call cluster dll time 
+address not valid ipv6 address global ipv6 address match cluster network compat address not permit 
+intern cluster error occur call invalid function 
+paramet accept rang 
+network error occur send data node cluster number byte transmit 
+invalid cluster registri 
+input string charact not properli termin 
+input string charact not valid format data repres 
+intern cluster error occur cluster databas transact transact progress 
+intern cluster error occur commit cluster databas transact no transact progress 
+intern cluster error occur data not properli initi 
+error occur read stream data unexpect number byte return 
+error occur write stream data number byte not written 
+error occur deseri stream cluster data 
+properti valu conflict properti valu depend s ). 
+quorum cluster node not present form cluster 
+cluster network not valid ipv6 address not match configur address 
+cluster network not valid ipv6 tunnel check configur ip address ipv6 tunnel depend 
+quorum cannot resid storag group 
+depend nest deepli 
+call dll rais unhandl except 
+rh process fail initi 
+failov cluster featur not instal node 
+resourc onlin same node 
+node can not ad cluster maximum number node 
+cluster can not creat number node exce maximum allow limit 
+cluster fail enabl comput object exist domain 
+cluster cannot destroy non core group delet cluster can destroy 
+file share file share wit cannot host cluster node 
+evict node invalid time due quorum node evict result cluster shutdown 
+instanc type allow cluster 
+instanc type allow group 
+fail onlin due failur provid resourc 
+cannot onlin node 
+current cannot perform group time 
+directori file not locat cluster share volum 
+secur descriptor not meet cluster 
+share volum resourc configur cluster 
+group cannot directli manipul 
+back progress wait backup complet 
+path not belong cluster share volum 
+cluster share volum not local mount node 
+cluster watchdog termin 
+file not encrypt 
+file not decrypt 
+file encrypt user not abil decrypt 
+no valid encrypt recoveri polici configur system 
+encrypt driver not load system 
+file encrypt encrypt driver load 
+no ef key defin user 
+file not encrypt 
+file not defin ef export format 
+file read 
+directori disabl encrypt 
+server not trust remot encrypt 
+recoveri polici configur system invalid recoveri certif 
+encrypt algorithm sourc file bigger key buffer destin file 
+disk partit not support file encrypt 
+machin disabl file encrypt 
+newer system decrypt encrypt file 
+remot server invalid respons file open client side encrypt 
+client side encrypt not support remot server claim support 
+file encrypt open client side encrypt mode 
+encrypt file creat ef provid 
+smb client cse fsctl non cse file 
+block polici inform contact system administr 
+list server workgroup not 
+task schedul servic configur run system account function properli individu task configur run account 
+log servic encount invalid log sector 
+log servic encount log sector invalid block pariti 
+log servic encount remap log sector 
+log servic encount partial incomplet log block 
+log servic encount access data activ log rang 
+log servic user marshal buffer exhaust 
+log servic encount read marshal area invalid read 
+log servic encount invalid log restart area 
+log servic encount invalid log block version 
+log servic encount invalid log block 
+log servic encount read log invalid read mode 
+log servic encount log stream no restart area 
+log servic encount corrupt metadata file 
+log servic encount metadata file not creat log file system 
+log servic encount metadata file inconsist data 
+log servic encount erron alloc dispos reserv space 
+log servic cannot delet log file file system contain 
+log servic reach maximum allow contain alloc log file 
+log servic read write backward past start log 
+log polici not instal polici same type present 
+log polici question not instal time request 
+instal polici log invalid 
+polici log question prevent complet 
+log space cannot reclaim log pin archiv tail 
+log record not record log file 
+number reserv log record adjust number reserv log record invalid 
+reserv log space adjust log space invalid 
+exist archiv tail base activ log invalid 
+log space exhaust 
+log not size 
+log multiplex no direct write physic log allow 
+fail log dedic log 
+archiv 
+log archiv progress 
+non ephemer log log ephemer 
+log contain can read written 
+log client regist stream 
+log client not regist stream 
+request made handl log full condit 
+log servic encount error read log contain 
+log servic encount error write log contain 
+log servic encount error open log contain 
+log servic encount invalid contain state action 
+log servic not correct state action 
+log space cannot reclaim log pin 
+log metadata flush fail 
+secur log contain inconsist 
+record append log reserv made log not flush 
+log pin due reserv consum log space free reserv record make space 
+transact handl not valid 
+made transact no longer activ 
+not valid transact object current state 
+caller call respons api respons not expect tm not issu request caller 
+late transact abort 
+late transact commit 
+transact manag unabl success initi transact oper not support 
+resourcemanag made no updat transact 
+manag prepar transact not success join 
+transact object superior enlist caller creat superior singl superior enlist 
+rm regist protocol exist 
+propag transact fail 
+propag protocol not regist crm 
+buffer pass pushtransact pulltransact not valid format 
+current transact thread not valid handl transact object 
+transact object not open not found 
+resourcemanag object not open not found 
+enlist object not open not found 
+transactionmanag object not open not found 
+object not creat open transactionmanag not onlin transactionmanag brought fulli onlin call recovertransactionmanag recov end logfil object transact resourcemanag namespac can open addit error write record logfil can transactionmanag offlin 
+transactionmanag unabl creat object contain logfil ob namespac transactionmanag unabl recov 
+call creat superior enlist transact object not complet transact object enlist subordin branch transact root transact can enlist superior 
+transact manag manag close handl no longer valid 
+not perform superior enlist enlist not creat complet respons notificationmask 
+not perform record log long can occur condit enlist transact combin recoveryinform log behalf enlist long 
+implicit transact not support 
+kernel transact manag abort forget transact block forward progress 
+transactionmanag ident suppli not match record transactionmanager' log file 
+snapshot cannot continu transact manag cannot frozen current state 
+transact cannot enlist enlistmentmask transact complet preprepar phase order ensur correct resourcemanag switch write mode ceas cach data transact enlist subsequ transact phase succeed 
+transact not superior enlist 
+commit transact complet portion transact tree not commit success due heurist data modifi transact not commit result transact inconsist check consist data 
+function reserv transact 
+transact support manag not start shut due error 
+metadata rm corrupt rm not function 
+directori not manag 
+remot server share not support transact file oper 
+log size invalid 
+object file stream link handl delet transact savepoint rollback 
+file minivers not found transact file open 
+file minivers found invalid transact savepoint rollback 
+minivers open transact creat 
+not open minivers modifi access 
+not creat minivers stream 
+remot server mismatch version number fid file open transact 
+handl invalid transact presenc memori map file open handl transact end roll back savepoint 
+no transact metadata file 
+log data corrupt 
+file can't recov handl open 
+transact outcom unavail manag respons disconnect 
+request reject enlist question not superior enlist 
+transact manag consist recoveri not need 
+transact manag start 
+file cannot open transact ident depend outcom unresolv transact 
+cannot perform transact depend fact properti not chang 
+involv singl file transact manag not allow 
+txf directori empti succeed 
+leav transact manag inconsist state not allow 
+not complet transact manag not log 
+rollback not schedul previous schedul rollback execut queu execut 
+transact metadata attribut file directori corrupt unread 
+encrypt not complet transact activ 
+object not allow open transact 
+creat space transact manager' log fail failur statu record event log 
+memori map creat map section remot file transact not support 
+transact metadata present file cannot supersed 
+transact scope not enter scope handler not initi 
+promot order manag enlist transact disallow 
+file open modif unresolv transact open execut transact reader 
+request thaw frozen transact ignor transact not previous frozen 
+transact cannot frozen freez progress 
+target volum not snapshot volum valid volum mount snapshot 
+savepoint fail file open transact not permit 
+window discov corrupt file file repair data loss occur 
+spars not complet transact activ file 
+call creat transactionmanag object fail tm ident store logfil not match tm ident pass argument 
+i o section object float result transact end no valid data 
+transact manag cannot accept transact work due transient condit low resourc 
+transact manag tranact outstand not abort transact manger shut 
+not complet due bad cluster disk 
+compress not complet transact activ file 
+not complet volum dirti run chkdsk 
+link track not complet transact activ 
+cannot perform transact 
+handl no longer properli transact open transact manag subsequ forc restart close handl open 
+not perform manag not enlist transact 
+session invalid 
+protocol driver invalid 
+protocol driver not found system path 
+termin connect driver not found system path 
+registri key event log not creat session 
+servic same exist system 
+close pend session 
+no free output buffer 
+modem inf file not found 
+modem not found modem inf 
+modem not accept command verifi configur modem match attach modem 
+modem not respond command verifi modem properli cabl power 
+carrier detect fail carrier drop due disconnect 
+dial tone not detect time verifi phone cabl properli attach function 
+busi signal detect remot site callback 
+voic detect remot site callback 
+transport driver error 
+session cannot found 
+session 
+task can't complet remot desktop servic busi minut user log 
+made connect session video mode not support current client 
+enabl do graphic mode do graphic mode not support 
+interact logon privileg disabl contact administr 
+can perform system consol result driver system dll direct consol access 
+client fail respond server connect messag 
+disconnect consol session not support 
+reconnect disconnect session consol not support 
+request control session remot deni 
+session access deni 
+termin connect driver invalid 
+session cannot control remot 
+session not configur remot control 
+request connect termin server reject termin server client licens number user call system administr obtain uniqu licens number 
+request connect termin server reject termin server client licens number not enter copi termin server client contact system administr 
+number connect comput limit connect connect contact system administr 
+client not licens system logon request deni 
+system licens expir logon request deni 
+remot control not termin session not remot control 
+remot control consol termin display mode chang chang display mode remot control session not support 
+activ reset maximum number time instal activ timer not clear 
+remot login disabl 
+not proper encrypt level access session 
+user %s\\% log comput current user administr can log comput 
+user %s\\% log consol comput not permiss log time resolv issu contact %s\\% log 
+unabl log account restrict 
+rdp protocol compon %2 detect error protocol stream disconnect client 
+client drive map servic connect termin connect 
+client drive map servic disconnect termin connect 
+termin server secur layer detect error protocol stream disconnect client 
+target session incompat current session 
+window can't connect session problem occur window video subsystem connect contact server administr assist 
+file replic servic api call incorrectli 
+file replic servic cannot start 
+file replic servic cannot stop 
+file replic servic api termin request event log inform 
+file replic servic termin request event log inform 
+file replic servic cannot contact event log inform 
+file replic servic cannot satisfi request user insuffici privileg event log inform 
+file replic servic cannot satisfi request authent rpc not event log inform 
+file replic servic cannot satisfi request user insuffici privileg domain control event log inform 
+file replic servic cannot satisfi request authent rpc not domain control event log inform 
+file replic servic cannot commun file replic servic domain control event log inform 
+file replic servic domain control cannot commun file replic servic comput event log inform 
+file replic servic cannot popul system volum intern error event log inform 
+file replic servic cannot popul system volum intern timeout event log inform 
+file replic servic cannot process request system volum busi previou request 
+file replic servic cannot stop replic system volum intern error event log inform 
+file replic servic detect invalid paramet 
+error occur instal directori servic inform event log 
+directori servic evalu group membership local 
+directori servic attribut not exist 
+attribut syntax directori servic invalid 
+attribut type directori servic not defin 
+directori servic attribut exist 
+directori servic busi 
+directori servic unavail 
+directori servic unabl alloc rel identifi 
+directori servic exhaust pool rel identifi 
+not perform directori servic not master type 
+directori servic unabl initi subsystem alloc rel identifi 
+not satisfi constraint class object 
+directori servic can leaf object 
+directori servic cannot rdn attribut object 
+directori servic detect modifi object class object 
+cross domain move not perform 
+unabl contact global catalog server 
+polici object share can modifi root 
+polici object not exist 
+polici inform directori servic 
+domain control promot activ 
+domain control promot not activ 
+oper error occur 
+protocol error occur 
+time limit request exceed 
+size limit request exceed 
+administr limit request exceed 
+compar respons fals 
+compar respons true 
+authent method not support server 
+secur authent method server 
+inappropri authent 
+authent mechan unknown 
+referr return server 
+server not support critic extens 
+request secur connect 
+inappropri match 
+constraint violat occur 
+no object server 
+alia problem 
+invalid dn syntax 
+object leaf object 
+alia dereferenc problem 
+server unwil process request 
+loop detect 
+name violat 
+result larg 
+affect multipl dsa 
+server not oper 
+local error occur 
+encod error occur 
+decod error occur 
+search filter cannot recogn 
+paramet illeg 
+method not support 
+no result return 
+control not support server 
+referr loop detect client 
+preset referr limit exceed 
+search sort control 
+search result exceed offset rang 
+root object head name root object cannot instanti parent 
+add replica cannot perform name writeabl order creat replica 
+refer attribut not defin schema occur 
+maximum size object exceed 
+made add object directori 
+made add object class not rdn defin schema 
+made add object rdn not rdn defin schema 
+none attribut found object 
+user buffer small 
+attribut not present object 
+illeg modifi aspect modif not permit 
+object larg 
+instanc type not valid 
+perform master dsa 
+object class attribut 
+attribut miss 
+made modifi object includ attribut not legal class 
+attribut present object 
+attribut not present no valu 
+multipl valu attribut can 
+attribut not accept rang valu 
+exist 
+attribut cannot remov not present object 
+attribut cannot remov not present object 
+root object cannot subref 
+chain not permit 
+chain evalu not permit 
+not perform object' parent uninstanti delet 
+parent alia not permit alias leaf object 
+object parent same type master replica 
+cannot perform child object exist can perform leaf object 
+directori object not found 
+alias object miss 
+object bad syntax 
+not permit alia refer alia 
+alia cannot dereferenc 
+scope 
+cannot continu object process remov 
+dsa object cannot delet 
+directori servic error occur 
+can perform intern master dsa object 
+object class dsa 
+insuffici access right 
+object cannot ad parent not list superior 
+access attribut not permit attribut own secur account manag sam ). 
+part 
+long 
+long 
+directori servic encount error pars 
+directori servic cannot attribut type 
+not identifi object identifi phantom 
+secur descriptor short 
+secur descriptor invalid 
+fail creat delet object 
+parent subref exist 
+object name 
+not permit add attribut own system 
+class object structur cannot instanti abstract class 
+schema object not found 
+local object guid dead aliv exist 
+cannot perform back link 
+cross refer name not found 
+not perform directori servic shut 
+directori servic request invalid 
+role owner attribut not read 
+fsmo fail current fsmo holder not contact 
+modif dn name not permit 
+attribut cannot modifi own system 
+replic can function 
+class not defin 
+class not subclass 
+refer invalid 
+cross refer exist 
+not permit delet master cross refer 
+subtre notif support nc head 
+notif filter complex 
+schema updat fail duplic rdn 
+schema updat fail duplic oid 
+schema updat fail duplic mapi identifi 
+schema updat fail duplic schema id guid 
+schema updat fail duplic ldap display 
+schema updat fail rang lower rang upper 
+schema updat fail syntax mismatch 
+schema delet fail attribut 
+schema delet fail attribut 
+schema updat fail attribut not exist 
+schema updat fail attribut not exist 
+schema updat fail class aux class list not exist not auxiliari class 
+schema updat fail class poss superior not exist 
+schema updat fail class subclassof list not exist not satisfi hierarchi rule 
+schema updat fail rdn att id wrong syntax 
+schema delet fail class auxiliari class 
+schema delet fail class class 
+schema delet fail class poss superior 
+schema updat fail recalcul valid cach 
+tree delet not finish request made continu delet tree 
+delet not perform 
+cannot read govern class identifi schema record 
+attribut schema bad syntax 
+attribut not cach 
+class not cach 
+attribut not remov cach 
+class not remov cach 
+distinguish attribut not read 
+no superior refer configur directori servic directori servic unabl issu referr object forest 
+instanc type attribut not retriev 
+intern error occur 
+databas error occur 
+attribut governsid miss 
+expect attribut miss 
+name miss cross refer 
+secur check error occur 
+schema not load 
+schema alloc fail check machin run low memori 
+fail obtain syntax attribut schema 
+global catalog verif fail global catalog not not support part directori not 
+replic fail schema mismatch server involv 
+dsa object not found 
+name not found 
+name not found cach 
+child object not retriev 
+modif not permit secur reason 
+cannot replac hidden record 
+hierarchi file invalid 
+build hierarchi tabl fail 
+directori configur paramet miss registri 
+count address book indic fail 
+alloc hierarchi tabl fail 
+directori servic encount intern failur 
+directori servic encount unknown failur 
+root object class 'top' 
+directori server shut cannot ownership float singl master role 
+directori servic miss mandatori configur inform unabl determin ownership float singl master role 
+directori servic unabl transfer ownership float singl master role server 
+replic fail 
+invalid paramet replic 
+directori servic busi complet replic time 
+distinguish replic invalid 
+name replic invalid 
+distinguish replic exist 
+replic system encount intern error 
+replic encount databas inconsist 
+server replic not contact 
+replic encount object invalid instanc type 
+replic fail alloc memori 
+replic encount error mail system 
+replic refer inform target server exist 
+replic refer inform target server not exist 
+name cannot remov replic server 
+replic encount databas error 
+name process remov not replic server 
+replic access deni 
+not support version directori servic 
+replic remot procedur call cancel 
+sourc server reject replic request 
+destin server reject replic request 
+replic fail due collis object name 
+replic sourc reinstal 
+replic fail parent object miss 
+replic preempt 
+replic synchron abandon lack updat 
+replic termin system shut 
+synchron fail destin dc wait synchron partial attribut sourc condit normal recent schema chang modifi partial attribut destin partial attribut not subset sourc partial attribut 
+replic synchron fail master replica sync partial replica 
+server replic contact server unabl contact addit server need complet 
+version directori servic schema sourc forest not compat version directori servic comput 
+schema updat fail attribut same link identifi exist 
+translat gener process error 
+translat not find insuffici 
+translat input map output 
+translat input found not output format 
+translat unabl resolv complet domain found 
+translat unabl pure syntact map client wire 
+modif construct attribut not allow 
+om object class incorrect attribut syntax 
+replic request post wait repli 
+directori servic none 
+ldap display class attribut non ascii charact 
+search support base search 
+search fail retriev attribut databas 
+schema updat add backward link attribut no forward link 
+sourc destin cross domain move not agre object' epoch number sourc destin not latest version object 
+sourc destin cross domain move not agre object' current sourc destin not latest version object 
+sourc destin cross domain move ident caller local move cross domain move 
+sourc destin cross domain move not agreement name context forest sourc destin not latest version partit contain 
+destin cross domain move not authorit destin name 
+sourc destin cross domain move not agre ident sourc object sourc destin not latest version sourc object 
+object move domain delet destin server sourc server not latest version sourc object 
+exclus access pdc fsmo progress 
+cross domain move fail version move object exist sourc destin domain destin object remov restor system consist state 
+object not move domain boundari cross domain move class disallow object special characterist e.g. trust account restrict rid prevent move 
+can't move object membership domain boundari move violat membership condit account group remov object account group membership retri 
+name head child name head not interior node 
+directori cannot valid propos name not hold replica name propos name ensur domain name master role held server configur global catalog server server date replic partner appli window 2000 domain name master 
+destin domain nativ mode 
+cannot perform server not infrastructur contain domain interest 
+cross domain move non empti account group not allow 
+cross domain move non empti group not allow 
+search flag attribut invalid anr bit valid attribut unicod teletex string 
+tree delet start object nc head descend not allow 
+directori servic fail lock tree prepar tree delet tree 
+directori servic fail identifi list object delet tree delet 
+secur account manag initi fail error %1. 
+administr can modifi membership list administr group 
+cannot chang primari group id domain control account 
+made modifi base schema 
+ad mandatori attribut exist class delet mandatori attribut exist class ad option attribut special class top not backlink attribut directli inherit ad delet auxiliari class not allow 
+schema updat not allow dc dc not schema fsmo role owner 
+object class cannot creat schema contain can creat attribut schema class schema object schema contain 
+replica child instal fail objectvers attribut schema contain sourc dc attribut miss schema contain credenti suppli not permiss read 
+replica child instal fail read objectvers attribut schema section file schema ini system32 directori 
+group type invalid 
+cannot nest global group mix domain group secur enabl 
+cannot nest local group mix domain group secur enabl 
+global group cannot local group member 
+global group cannot univers group member 
+univers group cannot local group member 
+global group cannot cross domain member 
+local group cannot cross domain local group member 
+group primari member cannot chang secur disabl group 
+schema cach load fail convert string default sd class schema object 
+dsa configur global catalog server allow hold domain name master fsmo role appli window 2000 server 
+dsa unabl proceed dn lookup failur 
+process chang dn host object servic princip valu not sync 
+secur descriptor attribut not read 
+object not found object key found 
+syntax link attribut ad incorrect forward link can syntax 2 5 5 1 2 5 5 7 2 5 5 14 backlink can syntax 2 5 5 1 
+secur account manag boot password 
+secur account manag boot key floppi disk 
+directori servic cannot start 
+directori servic not start 
+connect client server packet privaci 
+sourc domain not same forest destin 
+destin domain forest 
+destin domain audit enabl 
+locat dc sourc domain 
+sourc object group user 
+sourc object' sid exist destin forest 
+sourc destin object same type 
+secur account manag initi fail error %1. 
+schema inform not includ replic request 
+replic not complet due schema incompat 
+replic not complet due previou schema incompat 
+replic updat not appli sourc destin not receiv inform recent cross domain move 
+domain not delet exist domain control host domain 
+can perform global catalog server 
+local group can member local group same domain 
+foreign secur princip cannot member univers group 
+attribut not allow replic gc secur reason 
+checkpoint pdc not taken modif process 
+sourc domain audit enabl 
+secur princip object can creat insid domain name context 
+servic princip spn not construct provid hostnam not format 
+filter pass construct attribut 
+unicodepwd attribut enclos doubl quot 
+comput not join domain exceed maximum number comput account allow creat domain contact system administr limit reset increas 
+secur reason run destin dc 
+secur reason sourc dc nt4sp4 greater 
+critic directori servic system object cannot delet tree delet oper tree delet partial perform 
+directori servic not start error %1. 
+secur account manag initi fail error %1. 
+version oper system incompat current ad ds forest function level ad ld configur function level upgrad version oper system server can ad ds domain control add ad ld instanc ad ds forest ad ld configur 
+version oper system instal incompat current domain function level upgrad version oper system server can domain control domain 
+version oper system instal server no longer support current ad ds forest function level ad ld configur function level rais ad ds forest function level ad ld configur function level server can ad ds domain control ad ld instanc forest configur 
+version oper system instal server no longer support current domain function level rais domain function level server can domain control domain 
+version oper system instal server incompat function level domain forest 
+function level domain forest cannot rais exist domain control domain forest lower incompat function level 
+forest function level cannot rais domain mix domain mode domain forest nativ mode rais forest function level 
+sort order not support 
+exist uniqu identifi 
+machin account creat pre nt4 account recreat 
+databas version store 
+unabl continu multipl conflict control 
+unabl find valid secur descriptor refer domain partit 
+schema updat fail link identifi reserv 
+schema updat fail no link identifi 
+account group cannot univers group member 
+renam move oper name head read object not allow 
+move oper object schema name not allow 
+system flag object not object move renam 
+object not allow chang grandpar contain move not forbidden object restrict sibl contain 
+unabl resolv complet referr forest gener 
+action not support standard server 
+not access partit directori servic locat remot server make server run partit question 
+directori cannot valid propos name partit not hold replica can contact replica name propos name ensur parent name properli regist dn replica name reachabl domain name master 
+thread limit request exceed 
+global catalog server not closest site 
+ds cannot deriv servic princip spn mutual authent target server server object local ds databas no serverrefer attribut 
+directori servic fail enter singl user mode 
+directori servic cannot pars script syntax error 
+directori servic cannot process script error 
+directori servic cannot server involv replic epoch relat domain renam progress ). 
+directori servic bind renegoti due chang server extens inform 
+not allow disabl cross ref 
+schema updat fail no valu msd intid 
+schema updat fail duplic msd intid retri 
+schema delet fail attribut rdnattid 
+directori servic fail author request 
+directori servic cannot process script invalid 
+remot creat cross refer fail domain name master fsmo 's error extend data 
+cross refer local same 
+ds cannot deriv servic princip spn mutual authent target server server' domain delet forest 
+writeabl nc prevent dc demot 
+object non uniqu identifi cannot retriev 
+insuffici attribut creat object object not exist delet garbag collect 
+group cannot convert due attribut restrict group type 
+cross domain move non empti basic group not allow 
+cross domain move non empti queri base group not allow 
+fsmo role ownership not verifi directori partit not replic success replic partner 
+target contain redirect object contain cannot special contain 
+directori servic cannot domain renam progress 
+directori servic detect child partit partit partit hierarchi creat top method 
+directori servic cannot replic server time replic server exceed tombston lifetim 
+not allow object system contain 
+ldap server network send queue fill client not process result 's request fast no request process client catch client not catch disconnect 
+schedul replic not place system busi execut request schedul replic queue overload reduc number partner decreas schedul replic frequenc 
+time cannot determin branch replic polici hub domain control retri time account replic latenc 
+site set object site not exist 
+local account store not secret materi account 
+not find writabl domain control domain 
+server object domain control not exist 
+ntd set object domain control not exist 
+search not support asq search 
+audit event not gener 
+search flag attribut invalid subtre index bit valid singl valu attribut 
+search flag attribut invalid tupl index bit valid attribut unicod string 
+address book nest deepli fail build hierarchi tabl 
+date ness vector corrupt 
+request replic secret deni 
+schema updat fail mapi identifi reserv 
+schema updat fail no mapi identifi 
+replic fail attribut local krbtgt object miss 
+domain trust domain exist forest 
+flat trust domain exist forest 
+user princip upn invalid 
+oid map group cannot member 
+oid cannot found 
+replic fail target object refer link recycl 
+dn server unabl interpret format 
+dn server failur 
+dn not exist 
+dn request not support server 
+dn refus 
+dn not exist exist 
+dn rr not exist exist 
+dn rr exist not exist 
+dn server not authorit zone 
+dn updat prereq not zone 
+dn signatur fail verifi 
+dn bad key 
+dn signatur valid expir 
+no record found dn queri 
+bad dn packet 
+no dn packet 
+dn error check rcode 
+unsecur dn packet 
+invalid dn type 
+invalid ip address 
+invalid properti 
+dn 
+record type not uniqu 
+dn not compli rfc specif 
+dn fulli qualifi dn 
+dn dot multi label ). 
+dn singl part 
+dn invalid charact 
+dn numer 
+not permit dn root server 
+record not creat part dn namespac deleg server 
+dn server not find root hint 
+dn server found root hint not consist adapt 
+small paramet 
+larg paramet 
+not allow dn server load zone background 
+not permit dn server run read dc 
+no data allow exist underneath dname record 
+credenti deleg 
+resolut polici tabl corrupt dn resolut fail fix contact network administr 
+dn zone not exist 
+dn zone inform not 
+invalid dn zone 
+invalid dn zone configur 
+dn zone no start author soa record 
+dn zone no server ns record 
+dn zone lock 
+dn zone creation fail 
+dn zone exist 
+dn automat zone exist 
+invalid dn zone type 
+secondari dn zone master ip address 
+dn zone not secondari 
+secondari ip address 
+win initi fail 
+win server 
+nbtstat initi call fail 
+invalid delet start author soa 
+condit forward zone exist 
+zone configur master dn server ip address 
+cannot perform zone shutdown 
+primari dn zone datafil 
+invalid datafil dn zone 
+fail open datafil dn zone 
+fail write datafil dn zone 
+failur read datafil dn zone 
+dn record not exist 
+dn record format error 
+node creation failur dn 
+unknown dn record type 
+dn record time 
+not dn zone 
+cname loop detect 
+node cname dn record 
+cname record exist 
+record dn zone root 
+dn record exist 
+secondari dn zone data error 
+not creat dn cach data 
+dn not exist 
+not creat pointer ptr record 
+dn domain undelet 
+directori servic unavail 
+dn zone exist directori servic 
+dn server not creat read boot file directori servic integr dn zone 
+node dname dn record 
+dname record exist 
+alia loop detect cname dname record 
+dn axfr zone transfer complet 
+dn zone transfer fail 
+ad local win server 
+secur updat call continu updat request 
+tcp ip network protocol not instal 
+no dn server configur local system 
+directori partit not exist 
+directori partit exist 
+dn server not enlist directori partit 
+dn server enlist directori partit 
+directori partit not time wait minut 
+directori partit fail domain control hold domain name master role unabl servic request not run window server 2003 
+block interrupt call wsacancelblockingcal 
+file handl suppli not valid 
+made access socket forbidden access permiss 
+system detect invalid pointer address pointer argument call 
+invalid argument suppli 
+open socket 
+non block socket not complet immedi 
+block execut 
+non block socket progress 
+not socket 
+address omit socket 
+messag datagram socket larger intern messag buffer network limit buffer receiv datagram smaller datagram 
+protocol socket function call not support semant socket type 
+unknown invalid unsupport option level getsockopt setsockopt call 
+protocol not configur system no implement exist 
+support socket type not exist address famili 
+not support type object referenc 
+protocol famili not configur system no implement exist 
+address incompat protocol 
+usag socket address protocol network address port permit 
+address not valid 
+socket encount dead network 
+socket unreach network 
+connect broken due aliv activ detect failur progress 
+establish connect abort softwar host machin 
+exist connect forcibl close remot host 
+socket not perform system lack suffici buffer space queue full 
+connect request made connect socket 
+request send receiv data disallow socket not connect send datagram socket sendto call no address suppli 
+request send receiv data disallow socket shut direct previou shutdown call 
+refer kernel object 
+connect fail connect parti not properli respond period time establish connect fail connect host fail respond 
+no connect made target machin activ refus 
+cannot translat 
+compon long 
+socket fail destin host 
+socket unreach host 
+cannot remov directori not empti 
+window socket implement limit number applic simultan 
+ran quota 
+ran disk quota 
+file handl refer no longer 
+item not local 
+wsastartup cannot function time underli system provid network servic unavail 
+window socket version not support 
+not call wsastartup wsastartup fail 
+return wsarecv wsarecvfrom remot parti initi grace shutdown sequenc 
+no result can return wsalookupservicenext 
+call wsalookupserviceend made call process call cancel 
+procedur call tabl invalid 
+servic provid invalid 
+servic provid not load initi 
+system call fail 
+no servic servic cannot found space 
+class not found 
+no result can return wsalookupservicenext 
+call wsalookupserviceend made call process call cancel 
+databas queri fail activ refus 
+no host 
+temporari error hostnam resolut mean local server not receiv respons authorit server 
+non recover error occur databas lookup 
+valid no data type found 
+reserv arriv 
+path arriv 
+no sender 
+no receiv 
+reserv confirm 
+error due lack resourc 
+reject administr reason bad credenti 
+unknown conflict style 
+problem part filterspec providerspecif buffer gener 
+problem part flowspec 
+gener qo error 
+invalid unrecogn servic type found flowspec 
+invalid inconsist flowspec found qo structur 
+invalid qo provid specif buffer 
+invalid qo filter style 
+invalid qo filter type 
+incorrect number qo filterspec flowdescriptor 
+object invalid objectlength field qo provid specif buffer 
+incorrect number flow descriptor qo structur 
+unrecogn object found qo provid specif buffer 
+invalid polici object found qo provid specif buffer 
+invalid qo flow descriptor found flow descriptor list 
+invalid inconsist flowspec found qo provid specif buffer 
+invalid filterspec found qo provid specif buffer 
+invalid shape discard mode object found qo provid specif buffer 
+invalid shape rate object found qo provid specif buffer 
+reserv polici element found qo provid specif buffer 
+no host secur 
+base ipsec polici not ad 
+quick mode polici exist 
+quick mode polici not found 
+quick mode polici 
+main mode polici exist 
+main mode polici not found 
+main mode polici 
+main mode filter exist 
+main mode filter not found 
+transport mode filter exist 
+transport mode filter not exist 
+main mode authent list exist 
+main mode authent list not found 
+main mode authent list 
+default main mode polici not found 
+default main mode authent list not found 
+default quick mode polici not found 
+tunnel mode filter exist 
+tunnel mode filter not found 
+main mode filter pend delet 
+transport filter pend delet 
+tunnel filter pend delet 
+main mode polici pend delet 
+main mode authent bundl pend delet 
+quick mode polici pend delet 
+main mode polici success ad offer not support 
+quick mode polici success ad offer not support 
+error_ipsec_ike_neg_status_begin 
+ike authent credenti unaccept 
+ike secur attribut unaccept 
+ike negoti progress 
+gener process error 
+negoti time 
+ike fail find valid machin certif contact network secur administr instal valid certif certif store 
+ike sa delet peer establish complet 
+ike sa delet establish complet 
+negoti request sat queue long 
+negoti request sat queue long 
+negoti request sat queue long 
+negoti request sat queue long 
+no respons peer 
+negoti long 
+negoti long 
+unknown error occur 
+certif revoc check fail 
+invalid certif key usag 
+invalid certif type 
+ike negoti fail machin certif not privat key ipsec certif privat key contact network secur administr replac certif privat key 
+simultan rekey detect 
+failur diffi hellman comput 
+process critic payload 
+invalid header 
+no polici configur 
+fail verifi signatur 
+fail authent kerbero 
+peer' certif not public key 
+error process error payload 
+error process sa payload 
+error process propos payload 
+error process transform payload 
+error process ke payload 
+error process id payload 
+error process cert payload 
+error process certif request payload 
+error process hash payload 
+error process signatur payload 
+error process nonc payload 
+error process notifi payload 
+error process delet payload 
+error process vendorid payload 
+invalid payload receiv 
+soft sa load 
+soft sa torn 
+invalid cooki receiv 
+peer fail send valid machin certif 
+certif revoc check peer' certif fail 
+polici invalid sa form polici 
+no main mode ike polici 
+fail enabl tcb privileg 
+fail load secur dll 
+fail obtain secur function tabl dispatch address sspi 
+fail queri kerbero packag obtain max token size 
+fail obtain kerbero server credenti isakmp error_ipsec_ik servic kerbero authent not function reason lack domain membership normal comput member workgroup 
+fail determin sspi princip isakmp error_ipsec_ik servic querycredentialsattribut ). 
+fail obtain spi inbound sa ipsec driver common driver not correct filter check polici verifi filter 
+filter invalid 
+memori alloc fail 
+fail add secur associ ipsec driver common ike negoti long complet problem persist reduc load fault machin 
+invalid polici 
+invalid doi 
+invalid situat 
+diffi hellman failur 
+invalid diffi hellman group 
+error encrypt payload 
+error decrypt payload 
+polici match error 
+unsupport id 
+hash verif fail 
+invalid hash algorithm 
+invalid hash size 
+invalid encrypt algorithm 
+invalid authent algorithm 
+invalid certif signatur 
+load fail 
+delet rpc call 
+temporari state creat reinit not real failur 
+lifetim receiv respond lifetim notifi window 2000 configur minimum fix polici peer machin 
+recipi cannot handl version ike header 
+key length certif small configur secur 
+max number establish mm sa peer exceed 
+ike receiv polici disabl negoti 
+reach maximum quick mode limit main mode main mode start 
+main mode sa lifetim expir peer main mode delet 
+main mode sa assum invalid peer stop respond 
+certif chain trust root ipsec polici 
+receiv unexpect messag id 
+receiv invalid authent offer 
+do cooki notifi initi 
+ike servic shut 
+not verifi bind cga address certif 
+error process natoa payload 
+paramet main mode invalid quick mode 
+quick mode sa expir ipsec driver 
+dynam ad ikeext filter detect 
+error_ipsec_ike_neg_status_end 
+nap reauth succeed delet dummi nap ikev2 tunnel 
+error assign ip address intiat tunnel mode 
+configur payload miss 
+negoti run secur principl issu connect progress 
+sa delet due ikev1 authip exist suppress check 
+incom sa request drop due peer ip address rate limit 
+peer not support mobik 
+sa establish not author 
+sa establish not author not suffici strong pkinit base credenti 
+sa establish not author enter updat credenti smartcard 
+sa establish not author not suffici strong pkinit base credenti relat certif account map failur sa 
+error_ipsec_ike_neg_status_extended_end 
+spi packet not match valid ipsec sa 
+packet receiv ipsec sa lifetim expir 
+packet receiv ipsec sa not match packet characterist 
+packet sequenc number replay check fail 
+ipsec header trailer packet invalid 
+ipsec integr check fail 
+ipsec drop clear text packet 
+ipsec drop incom esp packet authent firewal mode drop benign 
+ipsec drop packet due do throttl 
+ipsec do protect match explicit block rule 
+ipsec do protect receiv ipsec specif multicast packet not allow 
+ipsec do protect receiv incorrectli format packet 
+ipsec do protect fail state 
+ipsec do protect fail creat state maximum number entri allow polici reach 
+ipsec do protect receiv ipsec negoti packet key modul not allow polici 
+ipsec do protect not enabl 
+ipsec do protect fail creat intern ip rate limit queue maximum number queue allow polici reach 
+section not present activ 
+fail start side side configur incorrect event log command line sxstrace exe tool detail 
+bind data format invalid 
+referenc assembl not instal system 
+manifest file not begin tag format inform 
+manifest file syntax error 
+activ disabl activ 
+lookup key not found activ activ 
+compon version conflict compon version activ 
+type activ section not match queri api 
+lack system resourc isol activ disabl current thread execut 
+process default activ fail process default activ 
+encod group identifi not recogn 
+encod not recogn 
+manifest refer invalid uri 
+manifest refer depend assembl not instal 
+manifest assembl refer depend assembl not instal 
+manifest attribut assembl ident not valid 
+manifest miss default namespac specif assembl element 
+manifest default namespac assembl element not urn schema microsoft asm v1 ". 
+privat manifest probe cross path unsupport repars point 
+compon referenc directli indirectli manifest file same 
+compon referenc directli indirectli manifest class same 
+compon referenc directli indirectli manifest same server clsid 
+compon referenc directli indirectli manifest proxi same interfac iid 
+compon referenc directli indirectli manifest same type librari tlbid 
+compon referenc directli indirectli manifest same progid 
+compon referenc directli indirectli manifest version same compon not permit 
+component' file not match verif inform present compon manifest 
+polici manifest syntax error 
+manifest pars error string liter expect no open quot charact found 
+manifest pars error incorrect syntax comment 
+manifest pars error start invalid charact 
+manifest pars error contain invalid charact 
+manifest pars error string liter contain invalid charact 
+manifest pars error invalid syntax xml declar 
+manifest pars error invalid charact found text content 
+manifest pars error white space miss 
+manifest pars error charact expect 
+manifest pars error semi colon charact expect 
+manifest pars error unbalanc parenthes 
+manifest pars error intern error 
+manifest pars error whitespac not allow locat 
+manifest pars error end file reach invalid state current encod 
+manifest pars error miss parenthesi 
+manifest pars error singl doubl close quot charact (\ \") miss 
+manifest pars error multipl colon not allow 
+manifest pars error invalid charact decim digit 
+manifest pars error invalid charact hexadecim digit 
+manifest pars error invalid unicod charact platform 
+manifest pars error expect whitespac 
+manifest pars error end tag not expect locat 
+manifest pars error tag not close %1. 
+manifest pars error duplic attribut 
+manifest pars error top level element allow xml document 
+manifest pars error invalid top level document 
+manifest pars error invalid xml declar 
+manifest pars error xml document top level element 
+manifest pars error unexpect end file 
+manifest pars error paramet entiti cannot insid markup declar intern subset 
+manifest pars error element not close 
+manifest pars error end element miss charact 
+manifest pars error string liter not close 
+manifest pars error comment not close 
+manifest pars error declar not close 
+manifest pars error cdata section not close 
+manifest pars error namespac prefix not allow start reserv string xml ". 
+manifest pars error system not support encod 
+manifest pars error switch current encod encod not support 
+manifest pars error 'xml' reserv lower case 
+manifest pars error standalon attribut '' 'no' 
+manifest pars error standalon attribut cannot extern entiti 
+manifest pars error invalid version number 
+manifest pars error miss equal sign attribut attribut 
+assembl protect error unabl recov assembl 
+assembl protect error public key assembl short allow 
+assembl protect error catalog assembl not valid not match assembly' manifest 
+hresult not translat win32 error code 
+assembl protect error catalog assembl miss 
+suppli assembl ident miss attribut present 
+suppli assembl ident attribut name charact not permit xml name 
+referenc assembl not found 
+activ activ stack run thread execut corrupt 
+isol metadata process thread corrupt 
+activ deactiv not recent activ 
+activ deactiv not activ current thread execut 
+activ deactiv deactiv 
+compon isol facil termin process 
+kernel mode compon releas refer activ 
+activ system default assembl not gener 
+attribut ident not legal rang 
+attribut ident not legal rang 
+ident definit same attribut 
+ident string malform due trail comma unnam attribut miss attribut miss attribut 
+string local substitut content malform dollar sign ($) left parenthesi dollar sign substitution' parenthesi not found 
+public key token not correspond public key 
+substitut string no map 
+compon lock make request 
+compon store corrupt 
+advanc instal fail setup servic 
+charact encod xml declar not match encod document 
+ident manifest ident content 
+compon ident 
+assembl not deploy 
+file not part assembl 
+size manifest exce maximum allow 
+set not regist 
+member transact not present 
+smi primit instal fail setup servic 
+gener command execut return result failur 
+compon miss file verif inform manifest 
+channel path invalid 
+queri invalid 
+publish metadata cannot found 
+templat event definit cannot found error %1). 
+publish invalid 
+event data rais publish not compat event templat definit publisher' manifest 
+channel not found check channel configur 
+xml text not form extend error detail 
+caller subscrib direct channel not allow event direct channel directli logfil cannot subscrib 
+configur error 
+queri result stale invalid due log clear roll queri result creat user handl code releas queri result object reissu queri 
+queri result invalid posit 
+regist msxml support valid 
+express can chang scope evalu node not part chang scope 
+can't step term not repres element 
+left hand side argument binari oper attribut node variabl hand side argument constant 
+step involv node test case predic algebra express test node node identifi preceed node can evalu 
+data type unsupport 
+syntax error occur posit %1!d! 
+oper unsupport implement filter 
+token encount unexpect 
+cannot perform enabl direct channel channel disabl perform 
+channel properti %1!s! invalid invalid type valid rang can't updat not support type channel 
+publish properti %1!s! invalid invalid type valid rang can't updat not support type publish 
+channel fail activ 
+xpath express exceed support complex symplifi split simpl express 
+messag present messag not found string messag tabl 
+messag id desir messag not found 
+substitut string insert index (%1) not found 
+descript string paramet refer (%1) not found 
+maximum number replac reach 
+event definit not found event id (%1). 
+local specif desir messag not present 
+compat 
+compat 
+channel index %1!d! queri can't open 
+publish disabl not avaiabl occur publish process uninstal upgrad 
+creat numer type valid rang 
+subscript fail activ 
+log subscript disabl state can not forward event log enabl subscript can activ 
+forward event local machin queri subscript can't target log subscript 
+credenti store save credenti full 
+credenti subscript can't found credenti store 
+no activ channel found queri 
+loader fail find mui file 
+loader fail load mui file file fail pass valid 
+rc manifest corrupt garbag data unsupport version miss item 
+rc manifest invalid cultur 
+rc manifest invalid ultimatefallback 
+loader cach load mui entri 
+user stop enumer 
+ui languag instal fail 
+local instal fail 
+monitor return ddc ci capabl string not compli access bu 3 0 ddc ci 1 1 mcc 2 revis 1 specif 
+monitor' vcp version 0xdf vcp code return invalid version 
+monitor not compli mcc specif claim support 
+mcc version monitor' mccs_ver capabl not match mcc version monitor report vcp version 0xdf vcp code 
+monitor configur api work monitor support mcc 1 0 specif mcc 2 0 specif mcc 2 0 revis 1 specif 
+intern monitor configur api error occur 
+monitor return invalid monitor technolog type crt plasma lcd tft exampl monitor technolog type error impli monitor violat mcc 2 0 mcc 2 0 revis 1 specif 
+caller setmonitorcolortemperatur color temperatur current monitor not support error impli monitor violat mcc 2 0 mcc 2 0 revis 1 specif 
+system devic cannot identifi due multipl indistinguish devic potenti match identif criteria 
+system devic cannot found 
+hash gener hash version hash type not enabl server 
+hash server not no longer valid 
+catastroph failur 
+not implement 
+ran memori 
+argument invalid 
+no interfac support 
+invalid pointer 
+invalid handl 
+abort 
+unspecifi error 
+gener access deni error 
+not implement 
+ran memori 
+argument invalid 
+no interfac support 
+invalid pointer 
+invalid handl 
+abort 
+unspecifi error 
+gener access deni error 
+data complet not 
+thread local storag failur 
+share memori alloc failur 
+memori alloc failur 
+unabl initi class cach 
+unabl initi rpc servic 
+cannot thread local storag channel control 
+not alloc thread local storag channel control 
+user suppli memori alloc unaccept 
+ole servic mutex exist 
+ole servic file map exist 
+unabl map view file ole servic 
+failur launch ole servic 
+call coiniti time singl thread 
+remot activ not allow 
+remot activ server provid invalid 
+class configur run secur id caller 
+ole1 servic dde window disabl 
+runa specif domain >\< user simpli user 
+server process not start pathnam incorrect 
+server process not start configur ident pathnam incorrect unavail 
+server process not start configur ident incorrect check usernam password 
+client not allow launch server 
+servic provid server not start 
+comput unabl commun comput provid server 
+server not respond launch 
+registr inform server inconsist incomplet 
+registr inform interfac inconsist incomplet 
+not support 
+dll load 
+microsoft softwar instal error encount 
+activ not occur client 
+activ server paus 
+activ server not paus 
+compon compon disabl 
+common languag runtim not 
+thread pool reject submit asynchron work 
+server start not finish initi time fashion 
+unabl complet call no secur insid iobjectcontrol activ 
+provid tracker configur invalid 
+provid thread pool configur invalid 
+provid side side configur invalid 
+server princip spn obtain secur negoti malform 
+invalid oleverb structur 
+invalid advis flag 
+can't enumer data miss 
+implement advis 
+no connect connect id 
+run object 
+no cach oper 
+uniniti object 
+link object' sourc class chang 
+not monik object 
+not bind sourc 
+object static not allow 
+user cancel save dialog 
+invalid rectangl 
+compobj dll ole2 dll initi 
+invalid handl 
+object not inplac activ state 
+not convert object 
+not object not storag 
+invalid formatetc structur 
+invalid dvtargetdevic structur 
+invalid stdgmedium structur 
+invalid statdata structur 
+invalid lindex 
+invalid tyme 
+invalid clipboard format 
+invalid aspect s 
+tdsize paramet dvtargetdevic structur invalid 
+object support iviewobject interfac 
+revok drop target not regist 
+regist drop target 
+invalid handl 
+class not support aggreg class object remot 
+classfactori cannot suppli class 
+class not licens 
+error draw view 
+not read key registri 
+not write key registri 
+not find key registri 
+invalid registri 
+class not regist 
+interfac not regist 
+thread model entri not valid 
+catid not exist 
+descript not found 
+no packag softwar instal data activ directori meet criteria 
+delet break referenti integr softwar instal data activ directori 
+clsid not found softwar instal data activ directori 
+softwar instal data activ directori corrupt 
+no softwar instal data activ directori 
+no softwar instal data object activ directori 
+softwar instal data object activ directori exist 
+path softwar instal data activ directori not correct 
+network error interrupt 
+size object exce maximum size administr 
+schema softwar instal data activ directori not match schema 
+error occur softwar instal data activ directori 
+cach not updat 
+no verb ole object 
+invalid verb ole object 
+undo not 
+space tool not 
+olestream method fail 
+olestream put method fail 
+content olestream not correct format 
+error window gdi call convert bitmap dib 
+content istorag not correct format 
+content istorag miss standard stream 
+error window gdi call convert dib bitmap 
+openclipboard fail 
+emptyclipboard fail 
+setclipboard fail 
+data clipboard invalid 
+closeclipboard fail 
+monik connect manual 
+exceed deadlin 
+monik gener 
+unavail 
+invalid syntax 
+no object monik 
+bad extens file 
+intermedi fail 
+monik not bindabl 
+monik not bound 
+monik cannot open file 
+user input succeed 
+monik class no invers 
+monik not refer storag 
+no common prefix 
+monik not enumer 
+coiniti not call 
+coiniti call 
+class object cannot determin 
+invalid class string 
+invalid interfac string 
+not found 
+cannot run 
+error program 
+dll class not found 
+error dll 
+wrong os os version 
+object not regist 
+object regist 
+object not connect server 
+launch regist class factori 
+object releas 
+event invok not subscrib 
+event unabl invok subscrib 
+event deliv no subscrib 
+syntax error occur evalu queri string 
+invalid field queri string 
+unexpect except rais 
+unexpect intern error detect 
+owner sid user subscript exist 
+user suppli compon subscrib rais except 
+interfac method fire event 
+subscript cannot store event class exist 
+not object remov 
+not instal 
+cannot modifi delet object not ad admin sdk 
+cannot modifi delet object ad admin sdk 
+event class subscript invalid partit 
+owner perus subscript not log system 
+singl phase manag enlist transact 
+retain commit abort not support 
+transact fail commit unknown reason transact abort 
+cannot call commit transact object call not initi transact 
+commit heurist abort 
+abort heurist commit 
+state commit abort heurist decis 
+state commit abort heurist decis 
+isol level not valid support 
+transact manag support asynchron method 
+unabl enlist transact 
+semant retent isol retain commit abort boundari cannot support transact implement isoflag not equal 
+no present enlist 
+transact fail commit due failur optimist concurr control manag 
+transact implicitli explicitli commit abort 
+invalid combin flag 
+manag id not transact transact manag 
+method call wrong state 
+unit work not match unit work expect manag 
+enlist transact exist 
+import object transact not found 
+transact cooki invalid 
+transact statu doubt commun failur occur transact manag manag fail 
+time time out not support 
+progress transact 
+transact abort 
+transact manag return log full error 
+transact manag not 
+connect transact manag lost 
+request establish connect transact manag deni 
+manag reenlist determin transact statu time 
+transact manag fail establish connect tip transact manag 
+transact manag encount protocol error tip transact manag 
+transact manag not propag transact tip transact manag 
+transact manag destin machin not 
+transact manag disabl support tip 
+transact manag disabl support remot network transact 
+partner transact manag disabl support remot network transact 
+transact manag disabl support xa transact 
+msdtc unabl read configur inform 
+msdtc unabl load dtc proxi dll 
+local transact abort 
+msdtc transact manag unabl push transact destin transact manag due commun problem firewal present except msdtc process machin cannot find netbio name support network transact not enabl transact manag 
+msdtc transact manag unabl pull transact sourc transact manag due commun problem firewal present except msdtc process machin cannot find netbio name support network transact not enabl transact manag 
+msdtc transact manag disabl support sna lu 6 2 transact 
+xact_e_clerknotfound 
+xact_e_clerkexist 
+xact_e_recoveryinprogress 
+xact_e_transactionclos 
+xact_e_invalidlsn 
+xact_e_replayrequest 
+request connect transact coordin deni 
+maximum number enlist transact reach 
+manag same identifi regist transact coordin 
+prepar request not elig singl phase optim 
+recoverycomplet call manag 
+interfac call made incorrect current state protocol 
+xa_open call fail xa 
+xa_recov call fail xa 
+logic unit work cannot found 
+logic unit work exist 
+subordin creation fail logic unit work not connect 
+transact identifi exist 
+ 
+lu recoveri process 
+remot session lost 
+recov 
+mismatch drive recoveri 
+error occur xa 
+asynchron begun outcom not 
+xact_s_defect 
+method call succeed transact read 
+transact success abort coordin transact number enlist resourc abort outright not support abort retain semant 
+no made call sink chanc sink make 
+sink content wish transact proceed made resourc call 
+sink moment wish transact proceed made return event sink sink chanc 
+transact success abort abort non retain 
+abort progress 
+manag perform singl phase commit transact 
+local transact not abort 
+manag coordin manag transact 
+root transact want commit transact abort 
+made method call compon transact abort process abort 
+no mt object 
+compon configur synchron method call deadlock occur 
+compon configur synchron thread time wait enter 
+made method call compon transact commit abort 
+role not configur 
+unabl talk microsoft distribut transact coordin 
+unexpect error occur activ 
+activ fail check event log inform 
+activ fail due catalog configur error 
+activ fail activ not complet amount time 
+activ fail initi function fail check event log inform 
+jit current not 
+current transact not 
+compon thread model chang instal instal compon 
+ii intrins not start work ii 
+write cooki fail 
+databas gener databas specif error 
+compon creat object pool work 
+compon creat object construct work correctli 
+compon synchron not configur 
+txisol level properti compon creat stronger txisolationlevel root compon transact creation fail 
+compon make cross call invoc entertransactionscopeand exittransactionscop not allow cross call cannot made insid transact scope 
+compon made call entertransactionscop not make call exittransactionscop return 
+registri databas provid inform 
+success static 
+macintosh clipboard format 
+success drop place 
+drag drop cancel 
+default cursor 
+data same formatetc 
+view frozen 
+formatetc not support 
+same cach 
+cach s not updat 
+invalid verb ole object 
+verb number valid verb cannot 
+invalid handl pass 
+messag long truncat display 
+unabl convert olestream istorag 
+monik reduc 
+common prefix monik 
+common prefix input monik 
+common prefix monik 
+monik regist run object tabl 
+task readi run schedul time 
+task run 
+task not run schedul time disabl 
+task not run 
+no run schedul task 
+properti need run task schedul not 
+run task termin user 
+task no trigger exist trigger disabl not 
+event trigger run time 
+trigger not found 
+properti need run task not 
+no run instanc task 
+task schedul servic not instal comput 
+task object not open 
+object invalid task object not task object 
+no account inform found task schedul secur databas task 
+unabl establish exist account 
+corrupt detect task schedul secur databas databas reset 
+task schedul secur servic window nt 
+task object version unsupport invalid 
+task configur unsupport combin account set run time option 
+task schedul servic not run 
+task xml unexpect node 
+task xml element attribut unexpect namespac 
+task xml incorrectli format rang 
+task xml miss element attribut 
+task xml malform 
+task regist not trigger start task 
+task regist fail start batch logon privileg enabl task princip 
+task xml node same type 
+task cannot start trigger' end boundari 
+instanc task run 
+task not run user not log 
+task imag corrupt tamper 
+task schedul servic not 
+task schedul servic busi handl request 
+task schedul servic run task task not run due constraint task definit 
+task schedul servic ask task run 
+task disabl 
+task properti not compat previou version window 
+task set not task start demand 
+creat class object fail 
+ole servic not bind object 
+rpc commun fail ole servic 
+bad path object 
+server execut fail 
+ole servic not commun object server 
+monik path not normal 
+object server stop ole servic contact 
+invalid root block pointer 
+alloc chain contain invalid link pointer 
+alloc size larg 
+not interfac 
+machin not found cach 
+activ display present clsid key 
+activ runa activ activ 
+class not configur support elev activ 
+unknown interfac 
+member not found 
+paramet not found 
+type mismatch 
+unknown 
+no name argument 
+bad variabl type 
+except occur 
+present rang 
+invalid index 
+unknown languag 
+memori lock 
+invalid number paramet 
+paramet not option 
+invalid calle 
+not support collect 
+divis 
+buffer small 
+buffer small 
+field not defin record 
+format invalid type librari 
+format invalid type librari 
+error access ole registri 
+librari not regist 
+bound unknown type 
+qualifi disallow 
+invalid forward refer refer uncompil type 
+type mismatch 
+element not found 
+ambigu 
+exist librari 
+unknown lcid 
+function not defin dll 
+wrong modul kind 
+size not exceed 64k 
+duplic id inherit hierarchi 
+incorrect inherit depth standard ole hmember 
+type mismatch 
+invalid number argument 
+i o error 
+error creat uniqu tmp file 
+error load type librari dll 
+inconsist properti function 
+circular depend type modul 
+unabl 
+%1 not found 
+path %1 not found 
+insuffici resourc open file 
+access deni 
+invalid object 
+insuffici memori complet 
+invalid pointer error 
+no entri return 
+disk write protect 
+error occur seek 
+disk error occur write 
+disk error occur read 
+share violat occur 
+lock violat occur 
+%1 exist 
+invalid paramet error 
+insuffici disk space complet 
+illeg write non simpl properti simpl properti 
+api call exit abnorm 
+file %1 not valid compound file 
+%1 not valid 
+unexpect error occur 
+function not implement 
+invalid flag error 
+object busi 
+storag chang commit 
+object ceas exist 
+can't save 
+compound file %1 produc incompat version storag 
+compound file %1 produc newer version storag 
+share exe equival 
+illeg call non file base storag 
+illeg call object extant marshal 
+docfil corrupt 
+ole32 dll load wrong address 
+compound file larg current implement 
+compound file not creat stgm_simpl flag 
+file download abort abnorm file incomplet 
+file download termin 
+underli file convert compound file format 
+storag block data 
+storag retri immedi 
+notifi event sink not influenc storag 
+multipl open prevent consolid commit succeed ). 
+consolid storag file fail commit succeed ). 
+consolid storag file inappropri commit succeed ). 
+gener copi protect error 
+copi protect error dvd css authent fail 
+copi protect error sector not valid css key 
+copi protect error dvd session key not establish 
+copi protect error read fail sector encrypt 
+copi protect error current dvd' region not correspond region set drive 
+copi protect error drive' region set perman number user reset exhaust 
+call reject calle 
+call cancel messag filter 
+caller dispatch intertask sendmessag call cannot call postmessag 
+caller dispatch asynchron call cannot make outgo call behalf call 
+illeg call insid messag filter 
+connect termin bogu state cannot connect valid 
+calle server not server ]) not disappear connect invalid call execut 
+caller client disappear calle server process call 
+data packet marshal paramet data incorrect 
+call not transmit properli messag queue full not empti yield 
+client caller cannot marshal paramet data low memori 
+client caller cannot unmarshal return data low memori 
+server calle cannot marshal return data low memori 
+server calle cannot unmarshal paramet data low memori 
+receiv data invalid server client data 
+paramet invalid cannot marshal 
+no outgo call same channel dde convers 
+calle server not server ]) not disappear connect invalid call not execut 
+system call fail 
+not alloc memori event ...) 
+make call thread singl thread mode 
+interfac not regist server object 
+rpc not call server not return result call server 
+server threw except 
+cannot chang thread mode 
+method call not exist server 
+object invok disconnect client 
+object invok chose not process call 
+messag filter busi 
+messag filter reject call 
+call control interfac call invalid data 
+outgo call cannot made dispatch input synchron call 
+call interfac marshal thread 
+coiniti not call current thread 
+version ole client server machin not match 
+ole receiv packet invalid header 
+ole receiv packet invalid extens 
+object interfac not exist 
+object not exist 
+ole request wait repli 
+ole wait retri request 
+call cannot access call complet 
+imperson unsecur call not support 
+secur initi interfac marshal unmarshal cannot chang initi 
+no secur packag instal machin user not log no compat secur packag client server 
+access deni 
+remot call not allow process 
+marshal interfac data packet objref invalid unknown format 
+no call custom marshal call client side call 
+return timeout period expir 
+no synchron object wait 
+full subject issuer chain ssl princip expect server 
+princip not valid msstd 
+unabl imperson dcom client 
+unabl obtain server' secur 
+unabl open access token current thread 
+unabl obtain user info access token 
+client call iaccesscontrol :: isaccesspermit not truste provid method 
+unabl obtain client' secur blanket 
+unabl discretionari acl secur descriptor 
+system function accesscheck return fals 
+netaccessdel netaccessadd return error code 
+truste string provid user not conform domain >\< syntax not "*" string 
+secur identifi provid user invalid 
+unabl convert wide charact truste string multibyt truste string 
+unabl find secur identifi correspond truste string provid user 
+system function lookupaccountsid fail 
+unabl find truste correspond secur identifi provid user 
+system function lookupaccountnam fail 
+unabl reset serial handl 
+unabl obtain window directori 
+path long 
+unabl gener uuid 
+unabl creat file 
+unabl close serial handl file handl 
+number ace acl exce system limit 
+not deny_access ace arrang front grant_access ace stream 
+version acl format stream not support implement iaccesscontrol 
+unabl open access token server process 
+unabl decod acl stream provid user 
+iaccesscontrol object not initi 
+call cancel disabl 
+intern error occur 
+event not audit 
+sid filter remov sid 
+busi rule script disabl call 
+bad uid 
+bad hash 
+bad key 
+bad length 
+bad data 
+invalid signatur 
+bad version provid 
+invalid algorithm 
+invalid flag 
+invalid type 
+key not valid state 
+hash not valid state 
+key not exist 
+insuffici memori 
+object exist 
+access deni 
+object not found 
+data encrypt 
+invalid provid 
+invalid provid type 
+provider' public key invalid 
+keyset not exist 
+provid type not defin 
+provid type regist invalid 
+keyset not defin 
+keyset regist invalid 
+provid type not match regist 
+digit signatur file corrupt 
+provid dll fail initi correctli 
+provid dll not found 
+keyset paramet invalid 
+intern error occur 
+base error occur 
+provid not action acquir silent 
+secur token not storag space addit contain 
+profil user temporari profil 
+key paramet not csp fix paramet 
+suppli handl invalid 
+paramet incorrect 
+buffer suppli function small 
+not support 
+no data 
+suppli buffer overlap incorrectli 
+data not decrypt 
+intern consist check fail 
+input user 
+cryptograph provid not support hmac 
+not memori complet request 
+handl invalid 
+function not support 
+target unknown unreach 
+local secur author cannot contact 
+secur packag not exist 
+caller not owner desir credenti 
+secur packag fail initi cannot instal 
+token suppli function invalid 
+secur packag not marshal logon buffer logon fail 
+messag qualiti protect not support secur packag 
+secur not imperson client 
+logon fail 
+credenti suppli packag not recogn 
+no credenti secur packag 
+messag signatur suppli verif alter 
+messag suppli verif sequenc 
+no author contact authent 
+function complet success call complet 
+function complet success completetoken call 
+function complet success completetoken function call complet 
+logon complet no network author logon made local inform 
+secur packag not exist 
+expir can no longer 
+expir can no longer 
+suppli messag incomplet signatur not verifi 
+credenti suppli not complet not verifi not initi 
+buffer suppli function small 
+credenti suppli not complet not verifi addit inform can return 
+data renegoti peer 
+target princip incorrect 
+no lsa mode 
+clock client server machin skew 
+certif chain issu author not trust 
+messag receiv unexpect badli format 
+unknown error occur process certif 
+receiv certif expir 
+data not encrypt 
+data not decrypt 
+client server cannot commun not possess common algorithm 
+secur not establish due failur qualiti servic e.g. mutual authent deleg ). 
+secur delet complet consid logon failur 
+client negoti server user user send tgt repli 
+unabl accomplish task local machin not ip address 
+suppli credenti handl not match credenti secur 
+crypto system checksum function invalid function unavail 
+number maximum ticket referr exceed 
+local machin kerbero kdc domain control not 
+end secur negoti strong crypto not support local machin 
+kdc repli contain princip 
+expect find pa data hint etyp not found 
+client certif not valid upn not match client logon request contact administr 
+smartcard logon not 
+system shutdown progress 
+invalid request kdc 
+kdc unabl gener referr servic 
+encrypt type not support kdc 
+unsupport preauthent mechan present kerbero packag 
+cannot complet comput trust deleg current user account configur deleg 
+client' suppli sspi channel bind incorrect 
+receiv certif map multipl account 
+sec_e_no_kerb_key 
+certif not valid usag 
+system detect compromis secur ensur can contact server authent 
+smartcard certif authent revok contact system administr addit inform event log 
+untrust certif author detect process smartcard certif authent contact system administr 
+revoc statu smartcard certif authent not determin contact system administr 
+smartcard certif authent not trust contact system administr 
+smartcard certif authent expir contact system administr 
+kerbero subsystem encount error servic user protocol request made domain control not support servic user 
+made server make kerbero constrain deleg request target server' realm not support misconfigur server' allow deleg list contact administr 
+revoc statu domain control certif smartcard authent not determin addit inform system event log contact system administr 
+untrust certif author detect process domain control certif authent addit inform system event log contact system administr 
+domain control certif smartcard logon expir contact system administr content system event log 
+domain control certif smartcard logon revok contact system administr content system event log 
+signatur perform user can authent 
+paramet pass function invalid 
+client polici not credenti deleg target server 
+client polici not credenti deleg target server nltm authent 
+recipi reject renegoti request 
+secur not exist 
+pku2u protocol encount error util certif 
+ident server comput not verifi 
+error occur perform cryptograph messag 
+unknown cryptograph algorithm 
+object identifi poorli format 
+invalid cryptograph messag type 
+unexpect cryptograph messag encod 
+cryptograph messag not expect authent attribut 
+hash not correct 
+index not valid 
+content cryptograph messag decrypt 
+content cryptograph messag not decrypt 
+envelop data messag not recipi 
+invalid control type 
+invalid issuer serial number 
+cannot find origin signer 
+cryptograph messag not attribut 
+stream cryptograph messag not readi return data 
+stream cryptograph messag data complet decod 
+protect data protect 
+length output data insuffici 
+error occur encod decod 
+error occur read write file 
+cannot find object properti 
+object properti exist 
+no provid store object 
+certif sign 
+previou certif crl delet 
+cannot find object 
+certif not properti refer privat key 
+cannot find certif privat key decrypt 
+cannot find certif privat key decrypt 
+not cryptograph messag cryptograph messag not format correctli 
+sign cryptograph messag not signer signer index 
+final closur pend addit free close 
+certif revok 
+no dll export function found verifi revoc 
+revoc function unabl check revoc certif 
+revoc function unabl check revoc revoc server offlin 
+certif not revoc server' databas 
+string non numer charact 
+string non printabl charact 
+string charact not 7 bit ascii charact 
+string invalid x500 attribut key oid delimit 
+dwvaluetyp cert_name_valu not charact string cert_rdn_encoded_blob cert_tdn_octed_str 
+put cannot continu file resiz signatur present complet sign 
+cryptograph fail due local secur option set 
+no dll export function found verifi subject usag 
+call function unabl usag check subject 
+server offlin call function unabl complet usag check 
+subject not found certif trust list ctl ). 
+none signer cryptograph messag certif trust list trust 
+public key' algorithm paramet miss 
+oss certif encod decod error code base 
+oss asn 1 error output buffer small 
+oss asn 1 error sign integ encod unsign integ 
+oss asn 1 error unknown asn 1 data type 
+oss asn 1 error output buffer small decod data truncat 
+oss asn 1 error invalid data 
+oss asn 1 error invalid argument 
+oss asn 1 error encod decod version mismatch 
+oss asn 1 error memori 
+oss asn 1 error encod decod error 
+oss asn 1 error intern error 
+oss asn 1 error invalid data 
+oss asn 1 error invalid data 
+oss asn 1 error unsupport ber indefinit length encod 
+oss asn 1 error access violat 
+oss asn 1 error invalid data 
+oss asn 1 error invalid data 
+oss asn 1 error invalid data 
+oss asn 1 error intern error 
+oss asn 1 error multi thread conflict 
+oss asn 1 error invalid data 
+oss asn 1 error invalid data 
+oss asn 1 error invalid data 
+oss asn 1 error encod decod function not implement 
+oss asn 1 error trace file error 
+oss asn 1 error function not implement 
+oss asn 1 error program link error 
+oss asn 1 error trace file error 
+oss asn 1 error trace file error 
+oss asn 1 error invalid data 
+oss asn 1 error invalid data 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error program link error 
+oss asn 1 error system error 
+oss asn 1 error trace file error 
+asn1 certif encod decod error code base asn1 error valu offset crypt_e_asn1_error 
+asn1 intern encod decod error 
+asn1 unexpect end data 
+asn1 corrupt data 
+asn1 larg 
+asn1 constraint violat 
+asn1 memori 
+asn1 buffer overflow 
+asn1 function not support pdu 
+asn1 bad argument function call 
+asn1 bad real 
+asn1 bad tag met 
+asn1 bad choic 
+asn1 bad encod rule 
+asn1 bad unicod utf8 ). 
+asn1 bad pdu type 
+asn1 not implement 
+asn1 skip unknown extens s ). 
+asn1 end data expect 
+request subject invalid long 
+request not exist 
+request' current statu not 
+properti empti 
+certif authority' certif invalid data 
+certif servic suspend databas restor 
+certif encod length potenti incompat older enrol softwar 
+deni user multipl role assign certif author configur enforc role separ 
+deni can perform certif manag allow manag certif current request 
+cannot archiv privat key certif author not configur key archiv 
+cannot archiv privat key certif author not verifi key recoveri certif 
+request incorrectli format encrypt privat key unauthent attribut outermost signatur 
+secur princip permiss manag ca 
+request invalid renew certif attribut 
+made open certif author databas session activ session server configur addit session 
+memori refer caus data align fault 
+permiss certif author not current user enrol certif 
+permiss certif templat not current user enrol type certif 
+contact domain control cannot support sign ldap traffic updat domain control configur certif servic ssl activ directori access 
+request deni certif manag ca administr 
+enrol polici server cannot locat 
+certif templat not support ca 
+request no certif templat inform 
+request conflict templat inform 
+request miss subject altern extens 
+request miss privat key archiv server 
+request miss smime capabl extens 
+request made behalf subject caller certif templat configur signatur author request 
+request templat version newer support templat version 
+templat miss signatur polici attribut 
+request miss signatur polici inform 
+request miss signatur 
+signatur not includ issuanc polici request miss valid signatur 
+request miss signatur issuanc polici 
+upn unavail cannot ad subject altern 
+activ directori guid unavail cannot ad subject altern 
+dn unavail cannot ad subject altern 
+request includ privat key archiv server key archiv not enabl certif templat 
+public key not meet minimum size certif templat 
+email unavail cannot ad subject subject altern 
+certif templat enabl certif author not found 
+certif templat renew period longer certif valid period templat reconfigur ca certif renew 
+certif templat ra signatur ra signatur allow 
+key not export 
+cannot add root ca certif local store 
+key archiv hash attribut not found respons 
+unexpect key archiv hash attribut found respons 
+key archiv hash mismatch request respons 
+sign certif cannot includ smime extens 
+system level error occur verifi trust 
+certif signer messag invalid not found 
+counter signatur invalid 
+signatur certif cannot verifi 
+timestamp signatur certif not verifi malform 
+digit signatur object not verifi 
+certificate' basic constraint extens not observ 
+certif not meet authenticod tm financi extens 
+refer part file proper rang 
+not retriev object file 
+not find head tabl file 
+magic number head tabl incorrect 
+offset tabl incorrect valu 
+duplic tabl tag tag alphabet order 
+tabl not start long word boundari 
+tabl not header inform 
+tabl overlap 
+pad byte tabl pad byte not 0 
+file small tabl 
+tabl checksum incorrect 
+file checksum incorrect 
+signatur not correct attribut polici 
+file not pass hint check 
+file not opentyp file 
+fail file open map read write ). 
+call cryptoapi function fail 
+bad version number file 
+structur dsig tabl incorrect 
+check fail partial constant tabl 
+kind structur error 
+credenti confirm 
+unknown trust provid 
+trust verif action not support trust provid 
+form subject not support trust provid 
+subject not trust action 
+error due problem asn 1 encod process 
+error due problem asn 1 decod process 
+read write extens attribut visa versa 
+unspecifi cryptograph failur 
+size data not determin 
+size indefinit size data not determin 
+object not read write size data 
+no signatur present subject 
+certif not valid period verifi current system clock timestamp sign file 
+valid period certif chain not nest correctli 
+certif can end entiti ca visa versa 
+path length constraint certif chain violat 
+certif unknown extens mark 'critical' 
+certif purpos ca 
+parent certif fact not issu child certif 
+certif miss empti import field subject issuer 
+certif chain process termin root certif not trust trust provid 
+certif chain not built trust root author 
+gener trust failur 
+certif explicitli revok issuer 
+certif path termin test root not trust current polici set 
+revoc process not continu certif s not check 
+certificate' cn not match pass 
+certif not valid usag 
+certif explicitli mark untrust user 
+certif chain process correctli ca certif not trust polici provid 
+certif invalid polici 
+certif invalid not includ permit list explicitli exclud 
+non empti line encount inf start section 
+section marker inf not complet not exist line 
+inf section encount exce maximum section length 
+syntax inf invalid 
+style inf 
+section not found inf 
+line not found inf 
+file affect instal file queue not back uninstal 
+inf devic inform element not instal class 
+inf devic inform element not match instal class 
+exist devic found duplic devic manual instal 
+no driver select devic inform element 
+devic registri key not exist 
+devic instanc invalid 
+instal class not present invalid 
+devic instanc cannot creat exist 
+cannot perform devic inform element not regist 
+devic properti code invalid 
+inf driver list built not exist 
+devic instanc not exist hardwar tree 
+icon repres instal class cannot load 
+class instal registri entri invalid 
+class instal default action perform instal request 
+not file copi 
+hardwar profil not exist 
+no devic inform element select devic inform 
+cannot perform devic inform lock 
+cannot perform devic inform element lock 
+path not applic devic inf 
+no class instal paramet devic inform element 
+cannot perform file queue lock 
+servic instal section inf invalid 
+no class driver list devic inform element 
+instal fail function driver not devic instanc 
+present no default devic interfac design interfac class 
+cannot perform devic interfac activ 
+cannot perform devic interfac remov system 
+interfac instal section inf invalid 
+interfac class not exist system 
+refer string suppli interfac devic invalid 
+machin not conform unc name convent 
+gener remot commun error occur 
+machin select remot commun not time 
+plug play servic not remot machin 
+properti page provid registri entri invalid 
+devic interfac not present system 
+device' instal addit work instal complet 
+device' instal invalid 
+no compat driver devic 
+no icon repres devic devic type 
+logic configur inf invalid 
+class instal deni request instal upgrad devic 
+filter driver instal devic invalid 
+driver select devic not support version window 
+driver select devic not support window 
+parti inf not digit signatur inform 
+invalid made devic instal file queue verif digit signatur rel platform 
+devic cannot disabl 
+devic not dynam remov 
+cannot copi target 
+driver not intend platform 
+not allow wow64 
+involv unsign file copi roll back system restor point 
+inf copi window inf directori improp manner 
+secur configur editor sce api disabl embed product 
+unknown except encount 
+problem encount access plug play registri databas 
+not support remot machin 
+file not instal oem inf 
+devic present instal inf 
+devic instal obsolet 
+file not verifi not catalog sign authenticod tm ). 
+authenticod tm signatur verif not support inf 
+inf sign authenticod tm catalog trust publish 
+publish authenticod tm sign catalog not establish trust 
+publish authenticod tm sign catalog not establish trust 
+softwar test complianc window logo version window not compat version 
+file valid catalog sign authenticod tm ). 
+instal devic cannot instal time 
+problem encount add driver store 
+instal devic forbidden system polici contact system administr 
+instal driver forbidden system polici contact system administr 
+inf wrong type 
+hash file not present catalog file file corrupt victim tamper 
+problem encount delet driver store 
+unrecover stack overflow encount 
+no instal compon detect 
+intern consist check fail 
+action cancel scardcancel request 
+suppli handl invalid 
+suppli paramet not properli interpret 
+registri startup inform miss invalid 
+not memori complet command 
+intern consist timer expir 
+data buffer receiv return data small return data 
+reader not recogn 
+user timeout expir 
+smart card cannot access connect outstand 
+smart card no smart card devic 
+smart card not recogn 
+system not dispos media manner 
+protocol incompat protocol smart card 
+reader smart card not readi accept command 
+suppli paramet valu not properli interpret 
+action cancel system log shut 
+intern commun error detect 
+intern error detect sourc unknown 
+atr obtain registri not valid atr string 
+made end non exist transact 
+reader not 
+abort server exit 
+pci receiv buffer small 
+reader driver not meet minim support 
+reader driver not produc uniqu reader 
+smart card not meet minim support 
+smart card manag not run 
+smart card manag shut 
+unexpect card error occur 
+no primari provid can found smart card 
+order object creation not support 
+smart card not support featur 
+identifi directori not exist smart card 
+identifi file not exist smart card 
+suppli path not repres smart card directori 
+suppli path not repres smart card file 
+access deni file 
+smartcard not memori store inform 
+error smart card file object pointer 
+suppli pin incorrect 
+unrecogn error code return layer compon 
+certif not exist 
+certif not obtain 
+cannot find smart card reader 
+commun error smart card detect retri 
+key contain not exist smart card 
+smart card manag busi complet 
+smart card pin cach expir 
+smart card pin cannot cach 
+smart card read cannot written 
+reader cannot commun smart card due atr configur conflict 
+smart card not respond reset 
+power remov smart card commun not 
+smart card reset share state inform invalid 
+smart card remov commun not 
+access deni secur violat 
+card cannot access wrong pin present 
+card cannot access maximum number pin entri reach 
+end smart card file reach 
+action cancel user 
+no pin present smart card 
+item not found cach 
+cach item delet cach 
+cach item exce maximum item size defin cach 
+error occur access object errorinfo collect detail 
+object' properti miss invalid 
+object not found catalog 
+object regist 
+error occur write file 
+error occur read file 
+invalid version number file 
+file path invalid 
+instal 
+role exist 
+error occur copi file 
+user not valid 
+user file not valid 
+component' clsid miss corrupt 
+component' progid miss corrupt 
+unabl authent level updat request 
+ident password not valid 
+file clsid iid not match dll 
+interfac inform miss chang 
+dllregisterserv fail compon instal 
+no server file share 
+dll not load 
+regist typelib id not valid 
+instal directori not found 
+error occur compon registrar 
+file not exist 
+dll not load 
+getclassobject fail dll 
+dll not support compon list typelib 
+typelib not load 
+file not compon compon inform 
+object object disabl 
+delet function disabl object 
+server catalog version not support 
+compon move disallow sourc destin system lock 
+compon move fail destin no longer exist 
+system unabl regist typelib 
+cannot perform system 
+compon registrar referenc file not 
+compon same dll instal 
+servic not instal 
+properti set invalid conflict 
+object add renam exist 
+compon exist 
+registr file corrupt 
+properti larg 
+object not found registri 
+object not poolabl 
+clsid same guid id instal machin 
+role assign compon interfac method not exist 
+compon order start 
+not enabl platform 
+proxi not export 
+fail start librari proxi 
+system not export 
+cannot subscrib compon compon import 
+event class cannot subscrib compon 
+librari applic proxi incompat 
+function valid base partit 
+cannot start disabl 
+partit comput 
+partit invalid check visibl charact 
+partit cannot delet default partit user 
+partit cannot export compon partit same file 
+applic import compon cannot instal non base partit 
+not uniqu cannot resolv id 
+partit not uniqu cannot resolv partit id 
+registri databas not initi 
+registri databas not open 
+registri databas detect system error 
+registri databas run 
+version registri databas cannot migrat 
+schema version migrat not found registri databas 
+type mismatch binari 
+binari unknown invalid type provid 
+type mismatch binari 
+cannot paus resum 
+catalog server threw except execut 
+applic mark queu can invok queue monik 
+interfac mark queu order creat queu compon instanc queue monik 
+msmq not instal 
+unabl marshal interfac not support ipersiststream 
+messag improperli format damag transit 
+unauthent messag receiv accept authent messag 
+messag requeu move user not qc trust user role 
+cannot creat duplic type distribut transact coordin 
+object insert updat not belong valid parent collect 
+object cannot found 
+not run 
+partit s not valid 
+applic run nt servic not pool recycl 
+user assign local partit 
+librari applic not recycl 
+applic run nt servic not recycl 
+process recycl 
+paus process not recycl 
+librari applic not nt servic 
+progid provid copi invalid progid regist clsid 
+partit default not member partit 
+recycl process not paus 
+access partit deni 
+file (*. msi file can instal partit 
+applic legaci compon not export 1 0 format 
+legaci compon not exist non base partit 
+compon cannot move copi system proxi non changeabl 
+compon cannot move copi system proxi non changeabl 
+privat compon cannot move copi librari base partit 
+base partit exist partit set cannot remov 
+ala event class compon cannot alias 
+access deni compon privat 
+safer level invalid 
+user cannot write system registri 
+partit disabl 
+io complet filter 
+handler not defin filter 
+defin object 
+asynchron request not valid 
+disallow fast io path 
+invalid request made cannot retriev time 
+post worker thread process not safe time lead system deadlock 
+filter manag not initi filter regist make filter manag load driver 
+filter not readi attach volum not finish initi fltstartfilt not call ). 
+filter cleanup specif time remov system complet lower driver 
+filter manag intern error cannot recov fail result filter return invalid pre callback 
+object action process delet action cannot complet time 
+non page pool type 
+duplic handler definit provid 
+callback data queue disabl 
+not attach filter volum time 
+not detach filter volum time 
+instanc exist altitud volum 
+instanc exist volum 
+system not find filter 
+system not find volum 
+system not find instanc 
+no regist alloc definit found request 
+invalid paramet registr 
+not found filter manager' cach not retriev file system 
+devic object not exist volum 
+volum mount 
+transact enlist transact 
+specifiec attach object 
+no waiter present filter' repli messag 
+display driver stop respond 
+desktop composit disabl 
+desktop composit api not support remot 
+no dwm redirect surfac 
+dwm not queu present 
+adapt luid not found 
+gdi redirect surfac return 
+monitor descriptor not obtain 
+format obtain monitor descriptor not support releas 
+checksum obtain monitor descriptor invalid 
+monitor descriptor invalid standard time block 
+wmi data block registr fail msmonitorclass wmi subclass 
+provid monitor descriptor block corrupt not monitor' detail serial number 
+provid monitor descriptor block corrupt not monitor' user friendli 
+no monitor descriptor data offset size region 
+monitor descriptor invalid detail time block 
+monitor descriptor invalid manufactur date 
+exclus mode ownership need creat unmanag primari alloc 
+driver dma buffer space order complet 
+display adapt handl invalid 
+display adapt state reset 
+driver stack match expect driver model 
+present happen end chang desktop mode 
+noth present due desktop occlus 
+not present due denial desktop access 
+not present color convert 
+kernel driver detect version mismatch user mode driver 
+buffer not big entir dataset partial data popul size buffer caller provid buffer size partial popul buffer' content interfac specif ). 
+present redirect disabl desktop window manag subsystem ). 
+previou exclus vidpn sourc owner releas ownership 
+not video memori complet 
+probe lock underli memori alloc 
+alloc busi 
+object referenc reach maximum refer count can't refer 
+problem solv due exist condit problem 
+problem solv due exist condit problem immedi 
+alloc invalid 
+no unswizzl apertur 
+current alloc can't unswizzl apertur 
+request fail pin alloc can't evict 
+alloc can't 's current segment locat 
+lock alloc can't current command buffer 
+alloc referenc close perman 
+invalid alloc instanc referenc 
+invalid alloc handl referenc 
+alloc referenc belong current devic 
+alloc lost content 
+gpu except detect devic devic not schedul 
+vidpn topolog invalid 
+vidpn topolog valid not support model display adapt 
+vidpn topolog valid not support display adapt time due current alloc resourc 
+vidpn handl invalid 
+video present sourc invalid 
+video present target invalid 
+vidpn modal not support e.g. pin mode not cofunct ). 
+no mode pin vidpn sourc target 
+vidpn sourc mode invalid 
+vidpn target mode invalid 
+video signal frequenc invalid 
+video signal activ region invalid 
+video signal total region invalid 
+video present sourc mode invalid 
+video present target mode invalid 
+pin mode remain vidpn' cofunct modal enumer 
+video present path vidpn' topolog 
+mode mode 
+video present sourc invalid 
+video present target invalid 
+video present sourc video present sourc 
+video present target video present target 
+vidpn present path invalid 
+miniport no recommend augment vidpn' topolog 
+monitor frequenc rang invalid 
+monitor frequenc rang invalid 
+frequenc rang not monitor frequenc rang 
+mode not prefer mode 
+frequenc rang monitor frequenc rang 
+mode stale reacquir mode 
+monitor sourc mode invalid 
+monitor sourc mode invalid 
+miniport not recommend request provid function vidpn current display adapt configur 
+id mode mode 
+system fail determin mode support display adapt monitor connect 
+number video present target greater equal number video present sourc 
+present path not vidpn' topolog 
+display adapt video present sourc 
+display adapt video present target 
+monitor descriptor invalid 
+monitor descriptor invalid 
+descriptor not monitor descriptor 
+descriptor monitor descriptor 
+id monitor descriptor descriptor 
+video present target subset type invalid 
+resourc not relat defin interfac semant 
+id video present sourc sourc 
+id video present target target 
+vidpn sourc cannot no vidpn target connect 
+newli arriv monitor not display adapt 
+display adapt question not vidpn manag 
+vidpn manag display adapt question not activ vidpn 
+vidpn topolog stale reacquir topolog 
+no monitor connect video present target 
+sourc not part vidpn' topolog 
+primari surfac size invalid 
+visibl region size invalid 
+stride invalid 
+pixel format invalid 
+color basi invalid 
+pixel access mode invalid 
+target not part vidpn' topolog 
+fail acquir display mode manag interfac 
+vidpn sourc own dmm client cannot client releas 
+vidpn activ cannot access 
+vidpn present path import ordin invalid 
+vidpn present path content geometri transform invalid 
+content geometri transform not support respect vidpn present path 
+gamma ramp invalid 
+gamma ramp not support respect vidpn present path 
+multi sampl not support respect vidpn present path 
+mode not mode 
+data e.g. mode frequenc rang descriptor topolog .) empti 
+data e.g. mode frequenc rang descriptor topolog .) not element 
+vidpn topolog recommend reason invalid 
+vidpn present path content type invalid 
+vidpn present path copi protect type invalid 
+no unassign mode can exist time vidpn sourc target 
+content transform not pin vidpn present path 
+scanlin order type invalid 
+topolog not allow vidpn 
+import ordin topolog 
+primari surfac privat format attribut current primari surfac 
+mode prune algorithm invalid 
+monitor capabl origin invalid 
+monitor frequenc rang constraint invalid 
+maximum support number present path reach 
+miniport augment cancel sourc vidpn' topolog 
+client type not recogn 
+client vidpn not adapt e.g. no user mode initi mode place adapt ). 
+display adapt child devic extern devic connect 
+display adapt child devic not support descriptor exposur 
+child devic presenc not reliabl detect 
+display adapt not link adapt 
+lead adapt link configur not enumer 
+chain adapt link configur not enumer 
+chain link adapt not readi start unknown failur 
+made start lead link display adapt chain link not start 
+made power lead link display adapt chain link power 
+adapt link found inconsist state not adapt expect pnp power state 
+start leadlink adapt defer temporarili 
+driver start not same driver post display adapt 
+display adapt poll children frequent same poll level 
+start adapt defer temporarili 
+display adapt quiescent state 
+driver not support opm 
+driver not support copp 
+driver not support uab 
+encrypt paramet invalid 
+gdi display devic pass function not activ video output 
+intern error caus fail 
+function fail caller pass invalid opm user mode handl 
+certif not return certif buffer pass function small 
+video output not creat frame buffer span mode 
+video output not creat frame buffer theater mode 
+function fail display adapter' hardwar function scan fail valid graphic hardwar 
+hdcp system renew messag pass function not compli section 5 hdcp 1 1 specif 
+video output cannot enabl high bandwidth digit content protect hdcp system not support hdcp 
+video output cannot enabl analogu copi protect acp not support acp 
+video output cannot enabl content gener manag system analogu cgm protect technolog not support cgm 
+iopmvideooutput :: getinform method cannot return version srm success pass srm video output 
+iopmvideooutput :: configur method cannot enabl output protect technolog output' screen resolut high 
+iopmvideooutput :: configur method cannot enabl hdcp display adapter' hdcp hardwar physic output 
+oper system asynchron destroy opm video output oper system' state chang error typic occur monitor pdo video output remov monitor pdo video output stop video output' session non consol session video output' desktop inact desktop 
+method fail session chang type no iopmvideooutput method can call session chang type type session consol disconnect remot 
+iopmvideooutput :: coppcompatiblegetinform iopmvideooutput :: getinform iopmvideooutput :: configur method fail error return caller copp specif command video output opm semant 
+iopmvideooutput :: getinform iopmvideooutput :: coppcompatiblegetinform method return error pass sequenc number not expect sequenc number pass omac invalid 
+method fail unexpect error occur insid display driver 
+iopmvideooutput :: coppcompatiblegetinform iopmvideooutput :: getinform iopmvideooutput :: configur method fail error return caller opm specif command video output copp semant 
+iopmvideooutput :: coppcompatiblegetinform iopmvideooutput :: configur method fail display driver not support opm_get_acp_and_cgmsa_sign opm_set_acp_and_cgmsa_sign guid 
+iopmvideooutput :: configur function return error code pass sequenc number not expect sequenc number pass omac invalid 
+monitor connect video output not i2c bu 
+no devic i2c bu address 
+error occur transmit data devic i2c bu 
+error occur receiv data devic i2c bu 
+monitor not support vcp code 
+data receiv monitor invalid 
+function fail monitor return invalid time statu byte oper system ddc ci time report time messag command time report monitor 
+monitor return ddc ci capabl string not compli access bu 3 0 ddc ci 1 1 mcc 2 revis 1 specif 
+intern monitor configur api error occur 
+fail ddc ci messag invalid command field 
+error occur field length ddc ci messag contain invalid 
+error occur checksum field ddc ci messag not match message' comput checksum error impli data corrupt transmit monitor comput 
+function fail invalid monitor handl pass 
+oper system asynchron destroy monitor correspond handl oper system' state chang error typic occur monitor pdo handl remov monitor pdo handl stop display mode chang occur display mode chang occur window send wm_displaychang window messag applic 
+continu vcp code' current greater maximum error code monitor return invalid 
+monitor' vcp version 0xdf vcp code return invalid version 
+monitor not compli mcc specif claim support 
+mcc version monitor' mccs_ver capabl not match mcc version monitor report vcp version 0xdf vcp code 
+monitor configur api work monitor support mcc 1 0 specif mcc 2 0 specif mcc 2 0 revis 1 specif 
+monitor return invalid monitor technolog type crt plasma lcd tft exampl monitor technolog type error impli monitor violat mcc 2 0 mcc 2 0 revis 1 specif 
+setmonitorcolortemperatur 's caller pass color temperatur current monitor not support error impli monitor violat mcc 2 0 mcc 2 0 revis 1 specif 
+function can program run local consol session cannot program run remot desktop session termin server session 
+function cannot find actual gdi display devic correspond gdi display devic 
+function fail gdi display devic not attach window desktop 
+function not support gdi mirror display devic gdi mirror display devic not physic monitor 
+function fail invalid pointer paramet pass pointer paramet invalid null point invalid address point kernel mode address not correctli align 
+function fail gdi devic not monitor 
+array pass function cannot hold data function copi array 
+intern error caus fail 
+function fail current session chang type function cannot call current session chang type type session consol disconnect remot 
+error mask convert tpm hardwar error win error 
+authent fail 
+index pcr dir regist incorrect 
+paramet bad 
+complet success audit fail 
+clear disabl flag clear oper physic access 
+activ trust platform modul tpm ). 
+enabl trust platform modul tpm ). 
+target command disabl 
+fail 
+ordin unknown inconsist 
+abil instal owner disabl 
+key handl cannot interpret 
+key handl point invalid key 
+unaccept encrypt scheme 
+migrat author fail 
+pcr inform not interpret 
+no room load key 
+no storag root key srk 
+encrypt blob invalid not creat tpm 
+trust platform modul tpm owner 
+tpm insuffici intern resourc action 
+random string short 
+tpm not space 
+name pcr not match current pcr 
+params argument command incorrect 
+no exist sha 1 thread 
+calcul unabl proceed exist sha 1 thread encount error 
+tpm hardwar devic report failur intern test restart comput resolv problem problem continu replac tpm hardwar motherboard 
+author key 2 key function fail author 
+tag command invalid 
+io error occur transmit inform tpm 
+encrypt process problem 
+decrypt process not complet 
+invalid handl 
+tpm not endors key ek instal 
+usag key not allow 
+submit entiti type not allow 
+command receiv wrong sequenc rel tpm_init subsequ tpm_startup 
+sign data cannot includ addit der inform 
+key properti tpm_key_parm not support tpm 
+migrat properti key incorrect 
+signatur encrypt scheme key incorrect not permit situat 
+size data blob paramet bad inconsist referenc key 
+mode paramet bad caparea subcaparea tpm_getcap phsicalpres paramet tpm_physicalpres migrationtyp tpm_createmigrationblob 
+physicalpres physicalpresencelock bit wrong 
+tpm cannot version capabl 
+tpm not wrap transport session 
+tpm audit construct fail underli command return failur code 
+tpm audit construct fail underli command return success 
+reset pcr regist not resett attribut 
+reset pcr regist local local modifi not part command transport 
+make ident blob not properli type 
+save identifi type not match actual 
+tpm execut command fip mode 
+command invalid famili id 
+permiss manipul nv storag not 
+sign command 
+wrong load nv key 
+nv_loadkey blob owner blob author 
+nv area lock not writtabl 
+local incorrect 
+nv area read can't written 
+no protect write nv area 
+famili count not match 
+nv area written 
+nv area attribut conflict 
+structur tag version invalid inconsist 
+key control tpm owner can evict tpm owner 
+counter handl incorrect 
+write not complet write area 
+gap save count larg 
+maximum number nv write owner exceed 
+no oper authdata 
+point not load 
+deleg administr lock 
+manag famili deleg famili 
+deleg tabl manag not enabl 
+command execut exclus transport session 
+save owner evict control key 
+daa command no resourc availbl execut command 
+consist check daa paramet inputdata0 fail 
+consist check daa paramet inputdata1 fail 
+consist check daa_issuerset fail 
+consist check daa_tpmspecif fail 
+atom process submit daa command not expect process 
+issuer' valid check detect inconsist 
+consist check w fail 
+handl incorrect 
+deleg not correct 
+blob invalid 
+context held tpm 
+migrat author signatur valid failur 
+migrat destin not authent 
+migrat sourc incorrect 
+incorrect migrat author 
+revok ek ek not revoc 
+bad signatur cmk ticket 
+no room list addit context 
+command block 
+handl not found 
+tpm return duplic handl command resubmit 
+command transport block 
+command transport not support 
+tpm busi respond command immedi command resubmit time 
+selftestful not run 
+tpm execut full selftest 
+tpm defend dictionari attack time period 
+intern softwar error detect 
+input paramet bad 
+output pointer bad 
+handl not refer valid 
+output buffer small 
+error occur commun tpm 
+paramet invalid 
+tb servic not run not start 
+not creat open context 
+virtual not creat open virtual resourc 
+tb servic start not run 
+physic presenc interfac not support 
+command cancel 
+input output buffer larg 
+compat trust platform modul tpm secur devic cannot found comput 
+tb servic disabl 
+no tcg event log 
+command buffer not correct state 
+command buffer not data satisfi request 
+command buffer cannot data 
+output paramet null invalid 
+input paramet invalid 
+not memori satisfi request 
+buffer small 
+intern error detect 
+caller not right 
+author inform invalid 
+handl not valid 
+error occur commun tb 
+tpm return unexpect result 
+messag larg encod scheme 
+encod blob not recogn 
+key size not valid 
+encrypt fail 
+key paramet structur not valid 
+suppli data not valid migrat author blob 
+pcr index invalid 
+data not valid deleg blob 
+paramet not valid 
+data not valid key blob 
+pcr data invalid 
+format owner auth data invalid 
+random number gener not pass fip rng check 
+tcg event log not data 
+entri tcg event log invalid 
+tcg separ not found 
+digest tcg log entri not match hash data 
+buffer small 
+not clean 
+handl invalid 
+invalid paramet 
+error occur commun tpm 
+no entri key found 
+virtual handl match virtual handl 
+pointer return handl locat null invalid 
+paramet invalid 
+rpc subsystem not initi 
+tb schedul not run 
+command cancel 
+not memori fulfil request 
+list empti iter reach end list 
+item not found list 
+tpm not space load 
+tpm context 
+tpm command fail 
+tb not recogn ordin 
+no longer 
+type not match 
+no resourc can unload 
+no entri can ad hash tabl 
+tb not creat open context 
+virtual not creat open virtual resourc 
+physic presenc interfac not support 
+tb not compat version tpm found system 
+no tcg event log 
+gener error detect acquir bios' respons physic presenc command 
+user fail confirm tpm request 
+bio failur prevent success execut tpm e.g. invalid tpm request bio commun error tpm ). 
+bio not support physic presenc interfac 
+data collector not found 
+data collector depend 
+unabl start data collector folder 
+not free disk space start data collector 
+data collector exist 
+properti ignor 
+properti conflict 
+current configur data collector data collector 
+user account order commit current data collector properti 
+data collector not run 
+conflict detect list includ exclud api not same api includ list exclud list 
+execut path refer network share unc path 
+execut path configur api trace 
+execut path not exist verifi path correct 
+data collector exist 
+wait data collector start notif time 
+wait data collector start time 
+wait report gener tool finish time 
+duplic item not allow 
+execut trace full path execut not filenam 
+session provid invalid 
+event log channel microsoft window diagnosi pla oper enabl 
+event log channel microsoft window taskschedul enabl 
+execut rule manag fail 
+error occur compress extract data 
+drive lock bitlock drive encrypt unlock drive control panel 
+drive not encrypt 
+bio not correctli commun trust platform modul tpm ). contact comput manufactur bio upgrad instruct 
+bio not correctli commun master boot record mbr ). contact comput manufactur bio upgrad instruct 
+tpm measur miss bootabl cd dvd comput remov restart comput turn bitlock problem persist ensur master boot record date 
+boot sector drive not compat bitlock drive encrypt bootrec exe tool window recoveri environ updat repair boot manag bootmgr ). 
+boot manag oper system not compat bitlock drive encrypt bootrec exe tool window recoveri environ updat repair boot manag bootmgr ). 
+secur key protector perform 
+bitlock drive encrypt not enabl drive turn bitlock 
+bitlock drive encrypt cannot action condit occur request issu same time wait moment action 
+activ directori domain servic forest not attribut class host bitlock drive encrypt trust platform modul inform contact domain administr verifi bitlock activ directori schema extens instal 
+type data obtain activ directori not expect bitlock recoveri inform miss corrupt 
+size data obtain activ directori not expect bitlock recoveri inform miss corrupt 
+attribut read activ directori not valu bitlock recoveri inform miss corrupt 
+attribut not verifi log domain account abil write inform activ directori object 
+attribut cannot found activ directori domain servic contact domain administr verifi bitlock activ directori schema extens instal 
+bitlock metadata encrypt drive not valid can repair drive restor access 
+drive cannot encrypt not free space delet unnecessari data drive creat addit free space 
+drive cannot encrypt system boot inform creat separ partit system drive boot inform partit oper system drive encrypt oper system drive 
+drive cannot encrypt file system not support 
+file system size larger partit size partit tabl drive corrupt tamper bitlock reformat partit 
+drive cannot encrypt 
+data not valid 
+data drive not automat unlock current comput cannot unlock automat 
+initi trust platform modul tpm can bitlock drive encrypt 
+cannot perform oper system drive 
+buffer suppli function insuffici return data increas buffer size run function 
+read fail convert drive drive not convert enabl bitlock 
+write fail convert drive drive not convert enabl bitlock 
+bitlock key protector cannot delet key drive 
+cluster configur not support bitlock drive encrypt 
+drive configur automat unlock current comput 
+oper system drive not protect bitlock drive encrypt 
+bitlock drive encrypt suspend drive bitlock key protector configur drive effect disabl drive automat unlock unencrypt clear key 
+drive lock not key protector encrypt bitlock protect suspend enabl bitlock lock drive 
+bitlock cannot trust platform modul tpm protect data drive tpm protect can oper system drive 
+bitlock metadata encrypt drive cannot updat lock updat process process 
+author data storag root key srk trust platform modul tpm not incompat bitlock initi tpm bitlock 
+drive encrypt algorithm cannot sector size 
+drive cannot unlock key provid confirm provid correct key 
+drive not oper system drive 
+bitlock drive encrypt cannot turn oper system drive auto unlock featur disabl fix data drive remov data drive comput 
+system partit boot sector not trust platform modul tpm measur bootrec exe tool window recoveri environ updat repair boot sector 
+bitlock drive encrypt oper system drive format ntf file system order encrypt convert drive ntf turn bitlock 
+group polici set recoveri password encrypt drive 
+drive encrypt algorithm key cannot previous encrypt drive encrypt drive bitlock drive encrypt remov previou encrypt turn bitlock 
+bitlock drive encrypt cannot encrypt drive encrypt key not add key protector encrypt drive 
+bitlock drive encrypt detect bootabl media cd dvd comput remov media restart comput configur bitlock 
+key protector cannot ad key protector type allow drive 
+recoveri password file not found rel path recoveri password save fulli qualifi path environ variabl configur comput can path 
+key protector not found drive key protector 
+recoveri key provid corrupt cannot access drive altern recoveri method recoveri password data recoveri agent backup version recoveri key recov access drive 
+format recoveri password provid invalid bitlock recoveri password 48 digit verifi recoveri password correct format 
+random number gener check test fail 
+group polici set fip complianc prevent local recoveri password gener bitlock drive encrypt oper fip compliant mode bitlock recoveri option can recoveri key store usb drive recoveri data recoveri agent 
+group polici set fip complianc prevent recoveri password save activ directori oper fip compliant mode bitlock recoveri option can recoveri key store usb drive recoveri data recoveri agent check group polici set configur 
+drive fulli decrypt complet 
+key protector cannot 
+no key protector exist drive hardwar test 
+bitlock startup key recoveri password cannot found usb devic verifi correct usb devic usb devic plug comput activ usb port restart comput problem persist contact comput manufactur bio upgrad instruct 
+bitlock startup key recoveri password file provid corrupt invalid verifi correct startup key recoveri password file 
+bitlock encrypt key cannot obtain startup key recoveri password verifi correct startup key recoveri password 
+trust platform modul tpm disabl tpm enabl initi valid ownership can bitlock drive encrypt 
+bitlock configur drive cannot manag comput oper safe mode safe mode bitlock drive encrypt can recoveri purpos 
+trust platform modul tpm not unlock drive system boot inform chang pin not provid correctli verifi drive not tamper system boot inform caus trust sourc verifi drive safe access bitlock recoveri consol unlock drive suspend resum bitlock updat system boot inform bitlock associ drive 
+bitlock encrypt key cannot obtain trust platform modul tpm ). 
+bitlock encrypt key cannot obtain trust platform modul tpm pin 
+boot chang bitlock drive encrypt enabl 
+boot configur data bcd set chang bitlock drive encrypt enabl 
+group polici set fip complianc prohibit unencrypt key prevent bitlock suspend drive contact domain administr inform 
+drive cannot encrypt bitlock drive encrypt file system not extend end drive repartit drive 
+bitlock drive encrypt cannot enabl oper system drive contact comput manufactur bio upgrad instruct 
+version window not includ bitlock drive encrypt bitlock drive encrypt upgrad oper system 
+bitlock drive encrypt cannot critic bitlock system file miss corrupt window startup repair restor file comput 
+drive cannot lock drive 
+access token current thread not imperson token 
+bitlock encrypt key cannot obtain verifi trust platform modul tpm enabl ownership taken comput not tpm verifi usb drive insert 
+restart comput continu bitlock drive encrypt 
+drive encrypt cannot occur boot debug enabl bcdedit command line tool turn boot debug 
+no action taken bitlock drive encrypt raw access mode 
+bitlock drive encrypt cannot enter raw access mode drive drive 
+path boot configur data bcd bitlock drive encrypt integr protect incorrect verifi correct bcd set 
+bitlock drive encrypt can recoveri purpos comput run window recoveri environ 
+auto unlock master key not oper system drive 
+system firmwar fail enabl clear system memori comput restart 
+hidden drive cannot encrypt 
+bitlock encrypt key ignor drive transient state 
+public key base protector not allow drive 
+bitlock drive encrypt perform drive complet oper continu 
+version window not support featur bitlock drive encrypt featur upgrad oper system .. 
+group polici set bitlock startup option conflict cannot appli contact system administr inform 
+group polici set not permit creation recoveri password 
+group polici set creation recoveri password 
+group polici set not permit creation recoveri key 
+group polici set creation recoveri key 
+group polici set not permit pin startup choos bitlock startup option 
+group polici set pin startup choos bitlock startup option 
+group polici set not permit startup key choos bitlock startup option 
+group polici set startup key choos bitlock startup option 
+group polici set not permit startup key pin choos bitlock startup option 
+group polici set startup key pin choos bitlock startup option 
+group polici not permit tpm startup choos bitlock startup option 
+group polici set tpm startup choos bitlock startup option 
+pin provid not meet minimum maximum length 
+key protector not support version bitlock drive encrypt drive upgrad drive add key protector 
+group polici set not permit creation password 
+group polici set creation password 
+group polici set fip complianc prevent password gener contact system administr inform 
+password cannot ad oper system drive 
+bitlock object identifi oid drive appear invalid corrupt manag bde reset oid drive 
+drive small protect bitlock drive encrypt 
+select discoveri drive type incompat file system drive bitlock discoveri drive creat fat format drive 
+select discoveri drive type not allow computer' group polici set verifi group polici set creation discoveri drive bitlock 
+group polici set not permit user certif smart card bitlock drive encrypt 
+group polici set valid user certif smart card bitlock drive encrypt 
+group polici set smart card base key protector bitlock drive encrypt 
+group polici set not permit bitlock protect fix data drive automat unlock 
+group polici set not permit bitlock protect remov data drive automat unlock 
+group polici set not permit configur bitlock drive encrypt remov data drive 
+group polici set not permit turn bitlock drive encrypt remov data drive contact system administr turn bitlock 
+group polici set not permit turn bitlock drive encrypt remov data drive contact system administr turn bitlock 
+password not meet minimum password length default password 8 charact length check system administr password length organ 
+password not meet complex system administr ad upper lowercas charact number symbol 
+drive cannot encrypt reserv window system recoveri option 
+bitlock drive encrypt cannot appli drive conflict group polici set bitlock cannot configur automat unlock fix data drive user recoveri option disabl bitlock protect fix data drive automat unlock key valid occur system administr resolv set conflict enabl bitlock 
+bitlock drive encrypt cannot appli drive conflict group polici set bitlock cannot configur automat unlock remov data drive user recoveri option disabl bitlock protect remov data drive automat unlock key valid occur system administr resolv set conflict enabl bitlock 
+enhanc key usag eku attribut certif not permit bitlock drive encrypt bitlock not certif eku attribut configur object identifi oid match oid configur bitlock 
+bitlock drive encrypt cannot appli drive configur group polici set certif provid drive encrypt sign current group polici set not permit sign certif obtain certif certif author enabl bitlock 
+bitlock encrypt cannot appli drive conflict group polici set write access drive not protect bitlock deni usb startup key cannot system administr resolv polici conflict enabl bitlock 
+bitlock drive encrypt fail recov abruptli termin convers due convers log corrupt media write protect 
+virtual size big 
+bitlock drive encrypt cannot appli drive conflict group polici set recoveri option oper system drive store recoveri inform activ directori domain servic cannot gener recoveri password not permit system administr resolv polici conflict enabl bitlock 
+bitlock drive encrypt cannot appli drive conflict group polici set recoveri option fix data drive store recoveri inform activ directori domain servic cannot gener recoveri password not permit system administr resolv polici conflict enabl bitlock 
+bitlock drive encrypt cannot appli drive conflict group polici set recoveri option remov data drive store recoveri inform activ directori domain servic cannot gener recoveri password not permit system administr resolv polici conflict enabl bitlock 
+key usag ku attribut certif not permit bitlock drive encrypt bitlock not certif ku attribut configur key encipher key agreement 
+privat key certif cannot author privat key author not provid provid author invalid 
+remov data recoveri agent certif certif snap 
+drive encrypt version bitlock drive encrypt includ window vista window server 2008 not support organiz identifi organiz identifi drive upgrad drive encrypt latest version manag bde upgrad command 
+drive cannot lock automat unlock comput remov automat unlock protector lock drive 
+default bitlock key deriv function sp800 56a ecc smart card not support smart card group polici set fip complianc prevent bitlock key deriv function encrypt fip compliant smart card fip restrict environ 
+bitlock encrypt key not obtain trust platform modul tpm enhanc pin pin numer 
+tpm pin invalid charact 
+manag inform store drive contain unknown type version window access drive latest version 
+callout not exist 
+filter condit not exist 
+filter not exist 
+layer not exist 
+provid not exist 
+provid not exist 
+sublay not exist 
+object not exist 
+object guid luid exist 
+object referenc object cannot delet 
+call not allow dynam session 
+call made wrong session cannot complet 
+call made explicit transact 
+call not allow explicit transact 
+explicit transact forcibl cancel 
+session cancel 
+call not allow read transact 
+call time wait acquir transact lock 
+collect network diagnost event disabl 
+not support layer 
+call allow kernel mode caller 
+call associ object incompat lifetim 
+object built cannot delet 
+maximum number callout reach 
+notif not deliv messag queue maximum capac 
+traffic paramet not match secur associ 
+call not allow current secur associ state 
+pointer null 
+enumer not valid 
+flag field invalid 
+network mask not valid 
+fwp_rang not valid 
+time interv not valid 
+array element length 
+displaydata field cannot null 
+action type not allow action type filter 
+filter weight not valid 
+filter condit match type not compat operand 
+fwp_valu fwpm_condition_valu wrong type 
+integ allow rang 
+reserv field non 
+filter cannot multipl condit oper singl field 
+polici cannot same key modul 
+action type not compat layer 
+action type not compat sublay 
+raw provid not compat layer 
+raw provid not compat callout 
+authent method not compat polici type 
+diffi hellman group not compat polici type 
+ike polici cannot extend mode polici 
+enumer templat subscript match object 
+provid wrong type 
+paramet incorrect 
+maximum number sublay reach 
+notif function callout return error 
+ipsec authent transform not valid 
+ipsec cipher transform not valid 
+packet drop no icmp 
+ipsec cipher transform not compat polici 
+combin ipsec transform type not valid 
+polici cannot same auth method 
+function call complet asynchron 
+no messag channel 
+input data not expect format not expect 
+not complet object fault state due previou error 
+not complet lead numer overflow 
+not allow due current state object 
+abort 
+access deni remot endpoint 
+not complet time allot 
+abandon 
+quota exceed 
+inform not languag 
+secur verif not success receiv data 
+address 
+address not valid 
+remot endpoint not exist not locat 
+remot endpoint not servic locat 
+remot endpoint not process request 
+remot endpoint not reachabl 
+not support remot endpoint 
+remot endpoint unabl process request due overload 
+messag fault receiv remot endpoint 
+connect remot endpoint termin 
+http proxi server not process request 
+access deni http proxi server 
+featur not platform 
+http proxi server http authent scheme 'basic' 
+http proxi server http authent scheme 'digest' 
+http proxi server http authent scheme 'ntlm' 
+http proxi server http authent scheme 'negotiate' 
+remot endpoint http authent scheme 'basic' 
+remot endpoint http authent scheme 'digest' 
+remot endpoint http authent scheme 'ntlm' 
+remot endpoint http authent scheme 'negotiate' 
+endpoint address url invalid 
+unrecogn error occur window web servic framework 
+secur token reject server expir 
+secur fail window web servic framework 
+bind network interfac close 
+invalid version 
+invalid characterist tabl 
+fail find network interfac network interfac not readi 
+fail open network interfac 
+network interfac encount intern unrecover failur 
+multicast list network interfac full 
+made add duplic multicast address list 
+made remov multicast address ad 
+netowork interfac abort request 
+network interfac can not process request reset 
+netword interfac not support request 
+made send invalid packet network interfac 
+network interfac not readi complet 
+length buffer submit not valid 
+data not valid 
+length buffer submit small 
+network interfac not support oid object identifi 
+network interfac remov 
+network interfac not support media type 
+made remov token ring group address compon 
+made map file can not found 
+error occur ndi map file 
+made map file alreay map 
+alloc hardwar fail compon 
+i o fail network media disconnect wireless access point rang 
+network address request invalid 
+request not valid target devic 
+offload network interfac paus 
+network interfac not found 
+revis number structur not support 
+port not exist network interfac 
+current state port network interfac not support 
+miniport adapt low power state 
+wireless local area network interfac auto configur mode support paramet chang 
+wireless local area network interfac busi can not 
+wireless local area network interfac power support 
+list wake lan pattern full 
+list low power protocol offload full 
+request complet ndi statu indic 
+tcp connect not offload local polici set 
+tcp connect not offload chimney offload target 
+ip path object not offload state 
+hypervisor not support hypercal code not support 
+hypervisor not support encod hypercal input regist not support 
+hypervisor not beacus paramet invalid align 
+hypervisor not beacus invalid paramet 
+access object deni 
+hypervisor not partit enter invalid state 
+not allow current state 
+hypervisor not recogn partit properti 
+partit properti rang violat invari 
+not memori hypervisor pool complet 
+maximum partit depth exceed partit hierarchi 
+partit partit id not exist 
+hypervisor not vp index invalid 
+hypervisor not port identifi invalid 
+hypervisor not connect identifi invalid 
+not buffer suppli send messag 
+previou virtual interrupt not acknowledg 
+previou virtual interrupt acknowledg 
+partit not valid state save restor 
+hypervisor not complet featur synthet interrupt control synic disabl 
+hypervisor not object purpos not permit complet 
+proxim domain inform invalid 
+retriev debug data fail none 
+physic connect debugg not record receiv activ 
+not resourc complet 
+hypervisor featur not user 
+no hypervisor present system 
+handler virtual infrastructur driver regist restart virtual machin fix problem problem persist restart physic comput 
+number regist handler virtual infrastructur driver exceed maximum restart virtual machin fix problem problem persist restart physic comput 
+messag queue virtual infrastructur driver full cannot accept messag restart virtual machin fix problem problem persist restart physic comput 
+no handler exist handl messag virtual infrastructur driver restart virtual machin fix problem problem persist restart physic comput 
+partit messag queue virtual infrastructur driver invalid restart virtual machin fix problem problem persist restart physic comput 
+partit virtual infrastructur driver exce maximum 
+messag queue virtual infrastructur driver exce maximum 
+cannot creat partit virtual infrastructur driver partit same exist 
+virtual infrastructur driver encount error partit not exist restart virtual machin fix problem problem persist restart physic comput 
+virtual infrastructur driver encount error not find partit restart virtual machin fix problem problem persist restart physic comput 
+messag queue same exist virtual infrastructur driver 
+memori block page virtual infrastructur driver cannot map page map limit reach restart virtual machin fix problem problem persist restart physic comput 
+memori block virtual infrastructur driver cannot destroy 
+cannot unlock page array guest oper system memori address not match previou lock request restart virtual machin fix problem problem persist restart physic comput 
+non uniform memori access numa node set not match system numa topolog order start virtual machin modifi numa configur detail inform http :// microsoft fwlink /? linkid 92362 
+non uniform memori access numa node index not match valid index system numa topolog 
+memori block virtual infrastructur driver messag queue 
+handl not valid memori block handl virtual infrastructur driver 
+request exceed memori block page limit virtual infrastructur driver restart virtual machin fix problem problem persist restart physic comput 
+handl not valid messag queue handl virtual infrastructur driver 
+handl not valid page rang handl virtual infrastructur driver 
+cannot instal client notif no messag queue virtual infrastructur driver memori block 
+request lock map memori block page fail virtual infrastructur driver memori block limit reach restart virtual machin fix problem problem persist restart physic comput 
+handl not valid parent partit map handl virtual infrastructur driver 
+notif cannot creat memori block 
+messag queue virtual infrastructur driver close restart virtual machin fix problem problem persist restart physic comput 
+cannot add virtual processor partit maximum reach 
+cannot stop virtual processor immedi pend intercept 
+invalid state virtual processor restart virtual machin fix problem problem persist restart physic comput 
+maximum number kernel mode client virtual infrastructur driver reach restart virtual machin fix problem problem persist restart physic comput 
+kernel mode interfac virtual infrastructur driver initi restart virtual machin fix problem problem persist restart physic comput 
+cannot reset memori block properti virtual infrastructur driver restart virtual machin fix problem problem persist restart physic comput 
+memori map i o page rang no longer exist restart virtual machin fix problem problem persist restart physic comput 
+lock unlock request invalid guest oper system memori address restart virtual machin fix problem problem persist restart physic comput 
+cannot destroy reus reserv page virtual infrastructur driver restart virtual machin fix problem problem persist restart physic comput 
+reserv page virtual infrastructur driver small lock request restart virtual machin fix problem problem persist restart physic comput 
+cannot lock map memori block page virtual infrastructur driver lock reserv page page restart virtual machin fix problem problem persist restart physic comput 
+cannot creat memori block virtual infrastructur driver number page exceed limit restart virtual machin fix problem problem persist restart physic comput 
+cannot restor virtual machin save state data cannot read delet save state data start virtual machin 
+cannot restor virtual machin item read save state data not recogn delet save state data start virtual machin 
+cannot restor virtual machin save state hypervisor incompat delet save state data start virtual machin 
+virtual machin run memori alloc multipl numa node not problem perform virtual machin unusu slow experienc perform problem modifi numa configur detail inform http :// microsoft fwlink /? linkid 92362 
+regener not copi data activ plex due bad sector 
+disk not fulli migrat target pack not reimport fix hardwar problem 
+configur databas full 
+configur data disk corrupt 
+configur disk not insync memori configur 
+major disk fail updat configur 
+disk non simpl volum 
+same disk migrat list 
+disk dynam 
+disk id invalid no disk disk id 
+disk invalid disk cannot complet invalid disk 
+disk s cannot remov remain voter 
+disk invalid disk layout 
+disk layout non basic partit basic parit invalid disk layout 
+disk layout partit not cylind align 
+disk layout partit samller minimum size 
+disk layout primari partit logic drive invalid disk layout 
+disk layout maximum number support partit 
+disk miss cannot complet miss disk 
+disk not empti 
+not usabl space 
+forc revector bad sector fail 
+disk invalid sector size 
+disk volum exist disk 
+disk volum layout extent member plex 
+disk volum layout extent plex 
+dynam disk not support system 
+extent volum 
+volum retain can extend contigu extent extent grow volum not contigu volum 
+volum extent not public region disk 
+specif volum extent not sector align 
+parit overlap ebr track extend partit mbr disk ). 
+extent length cannot construct volum length 
+system not support fault toler volum 
+interleav length invalid 
+maximum number regist user 
+member sync activ member not regener 
+same member index 
+member index greater equal number member volum plex 
+member miss cannot regener 
+member not detach cannot replac member not detach 
+member regener 
+disk belong pack fail 
+no regist user notif task number irrelev regist user 
+notif user not exist fail unregist user notif 
+notif reset notif current user invalid unregist regist notif 
+number member invalid 
+number plex invalid 
+sourc target pack ident 
+pack id invalid no pack pack id 
+pack invalid pack cannot complet invalid pack 
+pack invalid 
+pack offlin 
+pack quorum healthi disk 
+pack not quorum healthi disk 
+disk unsupport partit style mbr gpt partit style support 
+fail updat disk' partit layout 
+plex sync activ plex not regener 
+same plex index 
+plex index greater equal number plex volum 
+plex activ plex volum plex cannot remov volum offlin 
+plex miss 
+plex regener 
+plex type invalid 
+support raid 5 plex 
+support simpl plex 
+size field vm_volume_layout input structur incorrectli 
+pend request notif wait exist request return request notif 
+transact process 
+unexpect layout chang occur volum manag 
+volum miss disk 
+volum id invalid no volum volum id 
+volum length invalid 
+size volum not multipl sector size 
+support mirror volum 
+volum not retain partit 
+volum offlin 
+volum retain partit 
+number extent invalid 
+disk particip volum same sector size 
+boot disk experienc failur 
+configur pack offlin 
+configur pack onlin 
+pack not primari pack 
+disk fail updat content log 
+number disk plex invalid 
+number disk plex member invalid 
+not support mirror volum 
+support simpl span plex 
+pack no valid log copi 
+primari pack present 
+number disk invalid 
+system not support mirror volum 
+system not support raid 5 volum 
+bcd entri not import correctli bcd store 
+entri enumer exceed allow threshold 
+bcd entri not synchron correctli firmwar 
+virtual hard disk corrupt virtual hard disk drive footer miss 
+virtual hard disk corrupt virtual hard disk drive footer checksum not match disk checksum 
+virtual hard disk corrupt virtual hard disk drive footer virtual hard disk corrupt 
+system not recogn file format virtual hard disk 
+version not support version file format 
+virtual hard disk corrupt spars header checksum not match disk checksum 
+system not support version virtual hard disk version spars header not support 
+virtual hard disk corrupt spars header virtual hard disk corrupt 
+fail write virtual hard disk fail system fail alloc block virtual hard disk 
+virtual hard disk corrupt block alloc tabl virtual hard disk corrupt 
+system not support version virtual hard disk block size invalid 
+virtual hard disk corrupt block bitmap not match block data present virtual hard disk 
+chain virtual hard disk broken system cannot locat parent virtual hard disk differenc disk 
+chain virtual hard disk corrupt mismatch identifi parent virtual hard disk differenc disk 
+chain virtual hard disk corrupt time stamp parent virtual hard disk not match time stamp differenc disk 
+fail read metadata virtual hard disk 
+fail write metadata virtual hard disk 
+size virtual hard disk not valid 
+file size virtual hard disk not valid 
+virtual disk support provid file not found 
+disk not virtual disk 
+chain virtual hard disk inaccess process not grant access right parent virtual hard disk differenc disk 
+chain virtual hard disk corrupt mismatch virtual size parent virtual hard disk differenc disk 
+chain virtual hard disk corrupt differenc disk parent chain 
+chain virtual hard disk inaccess error open virtual hard disk chain 
+not complet due virtual disk system limit virtual disk support ntf volum uncompress unencrypt 
+cannot perform virtual disk type 
+cannot perform virtual disk current state 
+sector size physic disk virtual disk resid not support 
+virtual storag subsystem gener error 
+cancel 
+error occur run powershel script 
+error occur interact powershel runtim 
+error occur script diagnost manag host 
+troubleshoot pack not verifi complet verif 
+troubleshoot pack cannot execut system 
+script diagnost disabl group polici 
+trust valid troubleshoot pack fail 
+troubleshoot pack cannot execut system 
+version troubleshoot pack not support 
+cannot load 
+troubleshoot pack report inform root ad root 
+not activ 
+bad sim insert 
+data class not avaial 
+access point apn access string incorrect 
+max activ context reach 
+devic packet detach state 
+provid not visibl 
+radio power 
+mbn subscript not activ 
+sim not insert 
+voic call progress 
+visibl provid cach invalid 
+devic not regist 
+provid not found 
+pin not support 
+pin 
+pin disabl 
+gener failur 
+profil invalid 
+default profil exist 
+sm encod not support 
+sm filter not support 
+invalid sm memori index 
+sm languag not support 
+sm memori failur occur 
+sm network timeout happen 
+unknown smsc address 
+sm format not support 
+sm not allow 
+devic sm memori full 
+object not creat 
+shutdown call object object own 
+method cannot call type callback 
+object seal chang no longer allow 
+ 
+cannot determin 
+callback return invalid output paramet 
+callback return success code s_ok s_fals 
+paramet own object own object 
+item match search criteria 
+float point overflow occur 
+method can call thread creat object 
+storyboard schedul 
+storyboard not play 
+start keyfram occur end keyfram 
+not determin end keyfram time start keyfram reach 
+repeat portion storyboard overlap 
+transit ad storyboard 
+transit not ad storyboard 
+transit eclips begin transit storyboard 
+time earlier time pass updat 
+client connect timer 

@@ -1,0 +1,4709 @@
+complet success 
+incorrect funct 
+system cannot find fil 
+system cannot find path 
+system cannot op fil 
+access deny 
+handl invalid 
+stor control block destroy 
+not stor process command 
+stor control block address invalid 
+environ incorrect 
+mad load program incorrect form 
+access cod invalid 
+dat invalid 
+not stor complet 
+system cannot find driv 
+direct cannot remov 
+system cannot mov fil disk driv 
+no fil 
+med writ protect 
+system cannot find dev 
+dev not ready 
+dev not recogn command 
+dat er cyc redund check ). 
+program issu command command leng incorrect 
+driv cannot loc spec are track disk 
+disk disket cannot access 
+driv cannot find sect 
+print pap 
+system cannot writ dev 
+system cannot read dev 
+dev attach system not funct 
+process cannot access fil process 
+process cannot access fil process lock port fil 
+wrong disket driv 
+fil op shar 
+reach end fil 
+disk ful 
+request not support 
+window cannot find network path ver network path correct destin comput not busy turn window cannot find network path contact network admin 
+not connect duply ex network join domain system control panel chang comput join workgroup choos workgroup 
+network path not found 
+network busy 
+network dev no long 
+network bio command limit reach 
+network adapt hardw er occur 
+serv cannot 
+unexpect network er occur 
+remot adapt not compat 
+print queu ful 
+spac stor fil wait print not serv 
+fil wait print delet 
+network no long 
+network access deny 
+network typ not correct 
+network cannot found 
+limit loc comput network adapt card excess 
+network bio sess limit excess 
+remot serv paus process start 
+no connect can mad remot comput tim connect comput can acceiv 
+print disk dev paus 
+fil ex 
+direct fil cannot cre 
+fail int 24 
+stor process request not 
+loc dev 
+network password not correct 
+paramet incorrect 
+writ fault occur network 
+system cannot start process tim 
+cannot cre system semaph 
+exclud semaph own process 
+semaph cannot clos 
+semaph cannot 
+cannot request exclud semaph interrupt tim 
+prevy own semaph end 
+insert disket driv %1. 
+program stop altern disket not insert 
+disk lock process 
+pip end 
+system cannot op dev fil 
+fil long 
+not spac disk 
+no intern fil ident 
+target intern fil ident incorrect 
+ioctl cal mad program not correct 
+ver writ switch paramet not correct 
+system not support command 
+funct not support system 
+semaph timeout period expir 
+dat are pass system cal smal 
+filenam direct volum label syntax incorrect 
+system cal level not correct 
+disk no volum label 
+mod not found 
+proc not found 
+no child process wait 
+%1 cannot run win32 mod 
+fil handl op disk partit raw disk i o 
+mad mov fil point begin fil 
+fil point cannot dev fil 
+join subst command cannot driv prevy join driv 
+mad join subst command driv join 
+mad join subst command driv substitut 
+system delet join driv not join 
+system delet substitut driv not substitut 
+system join driv direct join driv 
+system substitut driv direct substitut driv 
+system join driv direct substitut driv 
+system subst driv direct join driv 
+system cannot join subst tim 
+system cannot join substitut driv direct sam driv 
+direct not subdirect root direct 
+direct not empty 
+path substitut 
+not resourc process command 
+path cannot tim 
+mad join substitut driv direct driv target prevy substitut 
+system trac inform not config sys fil trac disallow 
+numb semaph ev dosmuxsemwait not correct 
+dosmuxsemwait not execut semaph 
+dosmuxsemwait list not correct 
+volum label ent excess label charact limit target fil system 
+cannot cre thread 
+recipy process refus sign 
+seg discard cannot lock 
+seg unlock 
+address thread id not correct 
+argu not correct 
+path invalid 
+sign pend 
+no threads can cre system 
+un lock reg fil 
+ 
+lock request not outstand supply cancel reg 
+fil system not support atom lock typ 
+system detect seg numb not correct 
+op system cannot run %1. 
+cannot cre fil fil ex 
+flag pass not correct 
+system semaph not found 
+op system cannot run %1. 
+op system cannot run %1. 
+op system cannot run %1. 
+cannot run %1 win32 mod 
+op system cannot run %1. 
+%1 not valid win32 
+op system cannot run %1. 
+op system cannot run %1. 
+op system cannot run program 
+op system not pres config run 
+op system cannot run %1. 
+op system cannot run program 
+cod seg cannot gre eq 64k 
+op system cannot run %1. 
+op system cannot run %1. 
+system not find environ opt ent 
+no process command subt sign handl 
+filenam extend long 
+ring 2 stack 
+glob filenam charact ?, ent incorrect glob filenam charact 
+sign post not correct 
+sign handl cannot 
+seg lock cannot realloc 
+dynam link mod attach program dynam link mod 
+cannot nest cal loadmod 
+vert %1 not compat vert window ' run check computer's system inform x86 32 bit x64 64 bit vert program contact softw publ 
+im fil %1 sign un mod 
+im fil %1 strong sign un mod 
+fil check lock edit us 
+fil check sav 
+fil typ sav retriev block 
+fil siz excess limit allow cannot sav 
+access deny op fil loc ad web sit trust sit list brows web sit select opt login autom 
+not complet success fil vir 
+fil vir cannot op due nat vir fil remov loc 
+pip loc 
+pip stat invalid 
+pip inst busy 
+pip clos 
+no process end pip 
+dat 
+sess cancel 
+extend attribut invalid 
+extend attribut inconsist 
+wait tim 
+no dat 
+cop funct cannot 
+direct invalid 
+extend attribut not fit buff 
+extend attribut fil mount fil system corrupt 
+extend attribut tabl fil ful 
+extend attribut handl invalid 
+mount fil system not support extend attribut 
+releas mutex not own cal 
+post mad semaph 
+part readprocessmem writeprocessmem request complet 
+oplock request deny 
+invalid oplock acknowledg receiv system 
+volum frag complet 
+fil cannot op process delet 
+short set not chang volum due glob reg set 
+short nam not en volum 
+sec stream volum inconsist stat 
+fil lock cannot process due invalid byt rang 
+subsystem nee support im typ not pres 
+fil not guid 
+system cannot find mess text mess numb 0x%1 mess fil %2. 
+scop not found 
+no act tak system reboot 
+shutdown fail 
+restart fail 
+maxim numb sess reach 
+thread background process mod 
+thread not background process mod 
+process background process mod 
+process not background process mod 
+access invalid address 
+us profil cannot load 
+arithmet result excess 32 bit 
+process end pip 
+wait process op end pip 
+ver found er cur process 
+er occur abio subsystem 
+warn occur wx86 subsystem 
+er occur wx86 subsystem 
+mad cancel tim apc subject thread not thread origin tim apc routin 
+unwind exceiv cod 
+invalid unalign stack encount unwind 
+invalid unwind target encount unwind 
+invalid object attribut ntcreateport invalid port attribut ntconnectport 
+leng mess pass ntrequestport ntrequestwaitreplyport long maxim mess allow port 
+mad low quot limit cur us 
+mad attach dev attach dev 
+mad execut instruct unalign address host system not support unalign instruct ref 
+profil not start 
+profil not stop 
+pass ac not minim inform 
+numb act profil object maxim no start 
+cannot continu block i o 
+thread termin default cal ntterminatethread nul thread cur process 
+mm er return not defin standard fsrtl filt convert er guarantee filt 
+mm er return not defin standard fsrtl filt convert er guarantee filt 
+mm er return not defin standard fsrtl filt convert er guarantee filt 
+malform funct tabl encount unwind 
+mad assign protect fil system fil direct sid sec describ not transl guid stor fil system 
+mad grow ldt set siz siz not numb select 
+start ldt inform not integr multipl select siz 
+us supply invalid describ ldt describ 
+process threads act assign prim tok perform process threads 
+mad op thread spec process thread not process 
+pag fil quot excess 
+netlogon serv cannot start netlogon serv run domain conflict rol 
+sam databas window serv sign synchron cop domain control complet synchron 
+ntcreatefile ap fail er return plac hold window lan man redirect intern er map routin 
+privileg fail 
+exit ctrl c 
+miss system fil 
+er 
+er 
+un cre pag fil 
+window cannot ver digit sign fil rec hardw softw chang instal fil sign incorrect dam malicy softw unknown sourc 
+no pag fil 
+exceiv 
+ev pair synchron perform thread spec cli serv ev pair object no ev pair object thread 
+window serv incorrect config 
+illeg charact encount mult byt charact includ lead byt success trail byt unicod charact includ charact 0xffff 0xfffe 
+unicod charact not defin unicod charact instal system 
+pag fil cannot cre floppy disket 
+system bio fail connect system interrupt dev bus dev connect 
+allow prim domain control domain 
+mad acquir mut maxim count excess 
+volum access fil system driv not load 
+reg fil fail 
+unexpect fail debugactiveprocess 
+fat system er 
+dat not acceiv 
+ntvdm encount hard er 
+cancel timeout 
+reply mess mismatch 
+delay writ fail 
+paramet s pass serv cli serv shar mem invalid dat put shar mem 
+stream not tiny stream 
+request handl stack overflow cod 
+intern of stat cod ind alloc handl retry onod mov ext stream convert larg stream 
+find object found object match id volum scop handl 
+bucket array grown retry transact 
+us kernel marshal buff overflow 
+supply vary structure invalid dat 
+buff il form dat 
+audit fail 
+tim resolv not prevy cur process 
+insufficy account inform log 
+invalid dll entrypoint 
+invalid serv callback entrypoint 
+ip address conflict system network 
+ip address conflict system network 
+low reg spac 
+callback return system serv cannot execut no callback act 
+password provid short meet policy us account 
+policy us account not chang password frequ 
+chang password past 
+compress form unsupport 
+hardw profil config invalid 
+plug play reg dev path invalid 
+quot list intern inconsist describ 
+window evalu not 
+illeg system dll reloc 
+dll init fail 
+valid process continu step 
+no match cur index enum 
+rang not ad rang list conflict 
+serv process run sid cli 
+group mark deny cannot en 
+exceiv 
+exceiv 
+interfac not support 
+system standby fail 
+system fil %1 corrupt replac 
+virt mem minim low 
+dev remov enum restart 
+fat system er 
+dev not start reboot 
+not pow complet 
+error_multiple_fault_violation 
+system process shut 
+remov process debugport mad port not process 
+vert window not compat behavy vert direct forest domain domain control 
+rang not found rang list 
+driv not load system boot saf mod 
+driv not load fail 's init cal 
+"%hs" encount er apply pow read dev config 
+cre fail contain mount point resolv volum dev object not attach 
+dev object paramet not valid dev object not attach volum fil 
+machin check er occur check system eventlog addit inform 
+er [%2] process driv databas 
+system hiv siz excess limit 
+driv not load prevy vert driv mem 
+volum shadow cop serv 
+system fail hibern er cod %hs). hibern dis system restart 
+not complet due fil system limit 
+assert fail occur 
+er occur acp subsystem 
+wow assert er 
+dev miss system bio mps tabl dev not 
+transl fail transl resourc 
+irq transl fail transl resourc 
+driv %2 return invalid id child dev (%3). 
+kernel debug awak 
+handl clos 
+inform 
+warn level stat transact stat ex reg tre transact commit prevy abort 
+med chang 
+guid substitut 
+cre stop reach symbol link 
+long jump execut 
+plug play query not success 
+fram consolid execut 
+reg hiv recov 
+run execut cod mod %hs. insec altern %hs, sec mod %hs? 
+load execut cod mod %hs. sec incompat prevy releas op system altern %hs, sec mod %hs? 
+debug not handl exceiv 
+debug reply 
+debug cannot provid handl 
+debug termin thread 
+debug termin process 
+debug control c 
+debug print exceiv control c 
+debug receiv rip exceiv 
+debug receiv control break 
+debug command commun exceiv 
+object ex 
+thread suspend 
+im reloc 
+inform level stat reg tre transact stat not ex cre 
+seg load 
+invalid cur direct 
+redund read 
+redund writ 
+machin typ mismatch 
+part dat receiv 
+expedit dat receiv 
+part expedit dat receiv 
+tdi ev 
+tdi ev pend 
+check fil system %wz 
+fat exit 
+reg key ref predefin handl 
+pag unlock 
+%hs 
+pag lock 
+popup %1 %2 
+error_already_win32 
+machin typ mismatch 
+yield execut perform no thread run 
+resum flag tim ap ign 
+arbit defer arbit resourc par 
+insert cardb dev cannot start config er "%hs". 
+cpu multiprocess system not sam revid level process op system restrict feat cap process system problem occ system contact cpu manufact mix process support 
+system put hibern 
+system resum hibern 
+window detect system firmw bio upd prevy firmw dat %2, cur firmw dat %3]. 
+dev driv leak lock i o pag caus system degrad system autom en track cod ord catch culprit 
+system awok 
+error_wait_1 
+error_wait_2 
+error_wait_3 
+error_wait_63 
+error_abandoned_wait_0 
+error_abandoned_wait_63 
+error_user_apc 
+error_kernel_apc 
+error_alerted 
+elev 
+repars perform object man fil result symbol link 
+op cre complet oplock break underway 
+volum mount fil system 
+success level stat transact stat ex reg tre transact commit prevy abort 
+not chang request complet due clos handl mad not chang request 
+connect fail prim transport 
+pag fault transit fault 
+pag fault demand fault 
+pag fault demand fault 
+pag fault demand fault 
+pag fault satisfy read second stor dev 
+cach pag lock 
+crash dump ex pag fil 
+buff zero 
+repars perform object man fil result symbol link 
+dev success query stop chang 
+transl transl resourc glob spac no transl perform 
+process termin no threads termin 
+process not part job 
+process part job 
+volum shadow cop serv 
+fil system fil system filt driv success complet fsfilter 
+interrupt vect connect 
+interrupt vect connect 
+block wait oplock 
+debug handl exceiv 
+debug continu 
+exceiv occur us mod callback kernel callback fram remov 
+compress dis volum 
+dat provid cannot fetch backward result 
+dat provid cannot scroll backward result 
+dat provid prevy fetch dat releas dat 
+dat provid not interpret flag column bind access 
+er occur process request 
+impl not cap perform request 
+cli compon not valid stat compon inst 
+vert numb not pars 
+iterator's start posit invalid 
+hardw report uncorrect mem er 
+heal en 
+desktop heap encount er alloc sess mem inform system ev log 
+system pow stat transit %2 %3. 
+system pow stat transit %2 %3 ent %4. 
+thread dispatch mca exceiv mca 
+access %1 monit policy rul %2. 
+access %1 restrict admin policy rul %2. 
+valid hibern fil invalid abandon 
+delay writ fail 
+delay writ fail 
+delay writ fail 
+resourc dev conflict mcfg tabl 
+oplock handl handl 
+oplock level cannot grant oplock low level 
+not complet success oplock brok cal ex oplock not brok 
+handl oplock clos oplock brok 
+access control entry ac not condit 
+access control entry ac invalid condit 
+access extend attribut deny 
+i o abort thread exit request 
+overlap i o ev not sign stat 
+overlap i o progress 
+invalid access mem loc 
+er perform inp 
+recurs deep stack overflow 
+cannot act mess 
+cannot complet funct 
+invalid flag 
+volum not recogn fil system 
+volum fil extern alt op fil no long valid 
+cannot perform ful screen mod 
+mad ref tok not ex 
+config reg databas corrupt 
+config reg key invalid 
+config reg key not op 
+config reg key not read 
+config reg key not writ 
+fil reg databas recov log altern cop recovery success 
+reg corrupt structure fil reg dat corrupt system's mem im fil corrupt fil not recov altern cop log abs corrupt 
+i o in reg fail unrecov reg not read writ flush fil system's im reg 
+system load rest fil reg fil not reg fil form 
+illeg reg key mark delet 
+system not alloc spac reg log 
+cannot cre symbol link reg key subkey valu 
+cannot cre stabl subkey volatil par key 
+not chang request complet inform not return caller's buff cal enum fil find 
+stop control serv run serv depend 
+control not valid serv 
+serv not respond start control request tim fash 
+thread not cre serv 
+serv databas lock 
+inst serv run 
+account invalid not ex password invalid account 
+serv cannot start dis no en dev 
+circul serv depend 
+serv not ex instal serv 
+serv cannot acceiv control mess tim 
+serv not start 
+serv process not connect serv control 
+exceiv occur serv handl control request 
+databas not ex 
+serv return serv spec er cod 
+process termin unexpect 
+depend serv group fail start 
+serv not start due logon fail 
+start serv hung start pend stat 
+serv databas lock invalid 
+serv mark delet 
+serv ex 
+system run good config 
+depend serv not ex mark delet 
+cur boot acceiv good control 
+no start serv mad boot 
+serv serv display 
+account serv account serv run sam process 
+fail act can win32 serv not driv 
+serv run sam process serv control man 
+no recovery program config serv 
+execut program serv config run not impl serv 
+serv cannot start saf mod 
+phys end tap reach 
+tap access reach filemark 
+begin tap partit encount 
+tap access reach end fil 
+no dat tap 
+tap not partit 
+access tap multivolum partit cur block siz incorrect 
+tap partit inform not found load tap 
+un lock med eject mech 
+un unload med 
+med driv chang 
+i o bus reset 
+no med driv 
+no map unicod charact ex target mult byt cod pag 
+dynam link libr dll init routin fail 
+system shutdown progress 
+un abort system shutdown no shutdown progress 
+request not perform i o dev er 
+no ser dev success init ser driv unload 
+un op dev shar interrupt request irq dev dev irq op 
+ser i o complet writ ser port 
+ser i o complet timeout period expir 
+no id address mark found floppy disk 
+mismatch floppy disk sect id field floppy disk control track address 
+floppy disk control report er not recogn floppy disk driv 
+floppy disk control return inconsist result reg 
+access hard disk recalibr fail retry 
+access hard disk disk fail retry 
+access hard disk disk control reset nee fail 
+phys end tap encount 
+not serv stor process command 
+pot deadlock condit detect 
+bas address fil offset not prop align 
+chang system pow stat veto driv 
+system bio fail chang system pow stat 
+mad cre link fil fil system support 
+program new vert window 
+program not window ms dos program 
+cannot start inst program 
+program writ ear vert window 
+libr fil nee run dam 
+no fil 
+er occur send command 
+libr fil nee run cannot found 
+cur process system allow handl man object 
+mess can synchron op 
+sourc el no med 
+destin el med 
+el not ex 
+el part magazin not pres 
+dev reinit due hardw er 
+dev cle op 
+dev door op 
+dev not connect 
+el not found 
+no match key index 
+property not ex object 
+point pass getmousemovepoint not buff 
+track workst serv not run 
+volum id not found 
+un remov fil replac 
+un mov replac fil fil replac fil replac retain origin 
+un mov replac fil fil replac fil replac renam backup 
+volum chang journ delet 
+volum chang journ not act 
+fil found not correct fil 
+journ entry delet journ 
+system shutdown scheduled 
+system shutdown cannot in us log comput 
+dev invalid 
+dev not connect rememb connect 
+loc dev rememb connect network 
+network path typ incorrect not ex network provid not retyp path contact network admin 
+network provid invalid 
+un op network connect profil 
+network connect profil corrupt 
+cannot enum noncontain 
+extend er occur 
+form group invalid 
+form comput invalid 
+form ev invalid 
+form domain invalid 
+form serv invalid 
+form network invalid 
+form shar invalid 
+form password invalid 
+form mess invalid 
+form mess destin invalid 
+multipl connect serv shar sam us us not allow disconnect prevy connect serv shar 
+mad est sess network serv sess est serv 
+workgroup domain comput network 
+network not pres not start 
+cancel us 
+cannot perform fil us map sect op 
+remot comput refus network connect 
+network connect grac clos 
+network transport endpoint address 
+address not network endpoint 
+nonex network connect 
+invalid act network connect 
+network loc cannot reach inform network troubleshoot window 
+network loc cannot reach inform network troubleshoot window 
+network loc cannot reach inform network troubleshoot window 
+no serv op destin network endpoint remot system 
+request abort 
+network connect abort loc system 
+not complet retry perform 
+connect serv not mad limit numb concur connect account reach 
+log unauth tim day account 
+account not auth log stat 
+network address not 
+serv reg 
+serv not ex 
+not perform us not auth 
+not perform us not log network serv not ex 
+continu work progress 
+mad init init complet 
+no loc dev 
+sit not ex 
+domain control ex 
+support connect serv 
+group policy framework cal extend no 
+us not valid profil 
+not support comput run window serv 2003 smal busy serv 
+serv machin shut 
+remot system not inform network troubleshoot window 
+sec ident provid not account domain 
+sec ident provid not domain compon 
+apphelp dialog cancel prev start 
+program block group policy inform contact system admin 
+program invalid reg caus uninit reg er itan spec 
+shar offlin not ex 
+kerbero protocol encount er valid kdc cert smartcard logon inform system ev log 
+kerbero protocol encount er util smartcard subsystem 
+system detect comprom sec ens can contact serv auth 
+machin lock cannot shut forc opt 
+defin callback gav invalid dat cal 
+group policy framework cal extend synchron foreground policy refresh 
+driv block load 
+dynam link libr dll ref mod dll process' execut im 
+window cannot op program dis 
+window cannot op program licens enforc system tamp corrupt 
+transact recov fail 
+cur thread convert fib 
+cur thread convert fib 
+system detect overrun stack bas buff overrun pot malicy us gain control 
+dat pres paramet funct can op 
+debug object fail object process delet 
+delay load dll funct address delay load dll fail 
+%1 16 bit not permit execut 16 bit apply check permit system admin 
+insufficy inform ex ident fail 
+paramet pass c runtim funct incorrect 
+occur valid dat leng fil 
+serv start fail serv sam process incompat serv sid typ set serv restrict serv sid typ can coex sam process serv restrict sid typ serv sid typ serv config host process restart ord start serv 
+process host driv dev termin 
+excess impl defin limit 
+target process target thread's process protect process 
+serv not cli lag cur stat serv machin 
+fil fail stor quot excess 
+fil fail stor policy block typ fil inform contact system admin 
+privileg serv funct prop not ex serv account config 
+thread involv appear unrespond 
+sec id not assign label object 
+not privileg group ref assign cal 
+map account nam sec id not 
+no system quot limit spec account 
+no encrypt key encrypt key return 
+password complex convert lan man password lan man password return nul string 
+revid level unknown 
+revid level incompat 
+sec id not assign own object 
+sec id not assign prim group object 
+mad op imperson tok thread not imperson cli 
+group not dis 
+no logon serv serv logon request 
+logon sess not ex termin 
+privileg not ex 
+privileg not held cli 
+provid not prop form account 
+account ex 
+account not ex 
+group ex 
+group not ex 
+us account memb group group cannot delet memb 
+us account not memb group account 
+remain admin account cannot dis delet 
+un upd password provid cur password incorrect 
+un upd password provid password valu not allow password 
+un upd password provid password not meet leng complex hist domain 
+logon fail unknown us bad password 
+logon fail us account restrict reason blank password not allow logon hour restrict policy restrict enforc 
+logon fail account logon tim restrict viol 
+logon fail us not allow log comput 
+logon fail account password expir 
+logon fail account dis 
+no map account nam sec id 
+loc us ident luid tim 
+no loc us ident luid 
+subauth part sec id invalid 
+access control list ac structure invalid 
+sec id structure invalid 
+sec describ structure invalid 
+inherit access control list ac access control entry ac not built 
+serv dis 
+serv en 
+provid invalid ident auth 
+no mem sec inform upd 
+attribut invalid incompat attribut group 
+imperson level not provid provid imperson level invalid 
+cannot op anonym level sec tok 
+valid inform class invalid 
+typ tok inappropry 
+un sec object no sec 
+config inform not read domain control machin unavail access deny 
+sec account man sam loc sec auth lsa serv wrong stat sec 
+domain wrong stat sec 
+allow prim domain control domain 
+domain not ex not contact 
+domain ex 
+mad excess limit numb domain serv 
+un complet catastroph med fail dat structure corrupt disk 
+intern er occur 
+gen access typ contain access mask map nong typ 
+sec describ not form absolv rel ). 
+act restrict logon process cal process not reg logon process 
+cannot start logon sess id 
+auth pack unknown 
+logon sess not stat consist 
+logon sess id 
+logon request contain invalid logon typ 
+un imperson nam pip dat read pip 
+transact stat reg subt incompat 
+intern sec databas corrupt encount 
+cannot built account 
+cannot built spec group 
+cannot built spec us 
+us cannot remov group group user's prim group 
+tok prim tok 
+loc group not ex 
+account not memb group 
+account memb group 
+loc group ex 
+logon fail us not grant logon typ comput 
+maxim numb secret stor singl system excess 
+leng secret excess maxim leng allow 
+loc sec auth databas intern inconsist 
+logon user's sec accum sec id 
+logon fail us not grant logon typ comput 
+cross encrypt password chang us password 
+memb not ad remov loc group memb not ex 
+memb not ad loc group memb wrong account typ 
+sec id 
+cross encrypt password chang us password 
+ac no inherit compon 
+fil direct corrupt unread 
+disk structure corrupt unread 
+no us sess key logon sess 
+serv access licens numb connect no connect can mad serv tim connect serv can acceiv 
+logon fail target account incorrect 
+mut auth fail server's password dat domain control 
+tim dat diff cli serv 
+cannot perform cur domain 
+invalid handl 
+invalid menu handl 
+invalid curs handl 
+invalid accel tabl handl 
+invalid hook handl 
+invalid handl multipl posit structure 
+cannot cre top level child 
+cannot find class 
+invalid belong thread 
+hot key reg 
+class ex 
+class not ex 
+class op window 
+invalid index 
+invalid icon handl 
+priv dialog word 
+list box ident not found 
+no wildcard found 
+thread not clipboard op 
+hot key not reg 
+not valid dialog 
+control id not found 
+invalid mess combo box not edit control 
+not combo box 
+height 256 
+invalid dev dc handl 
+invalid hook proc typ 
+invalid hook proc 
+cannot nonloc hook mod handl 
+hook proc can glob 
+journ hook proc instal 
+hook proc not instal 
+invalid mess singl select list box 
+lb_setcount non lazy list box 
+list box not support tab stop 
+cannot destroy object cre thread 
+child window cannot men 
+not system menu 
+invalid mess box styl 
+invalid system wid spi_ *) paramet 
+screen lock 
+handl window multipl posit structure sam par 
+not child 
+invalid gw_ command 
+invalid thread ident 
+cannot process mess not multipl docu interfac mdi 
+popup menu act 
+not scroll bar 
+scroll bar rang cannot gre maxlong 
+cannot show remov 
+insufficy system resourc ex complet serv 
+insufficy system resourc ex complet serv 
+insufficy system resourc ex complet serv 
+insufficy quot complet serv 
+insufficy quot complet serv 
+pag fil smal complet 
+menu item not found 
+invalid keyboard layout handl 
+hook typ not allow 
+interact stat 
+return timeout period expir 
+invalid monit handl 
+incorrect siz argu 
+symbol link cannot typ dis 
+not support cur symbol link 
+window un pars xml dat 
+er encount process xml digit sign 
+restart 
+cal mad connect request wrong rout compart 
+authip fail connect remot host 
+insufficy nvram resourc ex complet serv reboot 
+ev log fil corrupt 
+no ev log fil op ev log serv not start 
+ev log fil ful 
+ev log fil chang read op 
+task invalid 
+task index invalid 
+thread join task 
+window instal serv not access can occ window instal not correct instal contact support personnel assist 
+us cancel instal 
+fat er instal 
+instal suspend incomplet 
+act valid produc instal 
+feat id not reg 
+compon id not reg 
+unknown property 
+handl invalid stat 
+config dat produc corrupt contact support personnel 
+compon qual not pres 
+instal sourc produc not ver sourc ex can access 
+instal pack cannot instal window instal serv instal window serv pack new vert window instal serv 
+produc uninstal 
+sql query syntax invalid unsupport 
+record field not ex 
+dev remov 
+instal progress complet instal process instal 
+instal pack not op ver pack ex can access contact vend ver valid window instal pack 
+instal pack not op contact vend ver valid window instal pack 
+er start window instal serv us interfac contact support personnel 
+er op instal log fil ver log fil loc ex can writ 
+langu instal pack not support system 
+er apply transform ver transform path valid 
+instal forbid system policy contact system admin 
+funct not execut 
+funct fail execut 
+invalid unknown tabl 
+dat supply wrong typ 
+dat typ not support 
+window instal serv fail start contact support personnel 
+temp fold driv ful inaccess fre spac driv ver writ permit temp fold 
+instal pack not support process typ contact produc vend 
+compon not comput 
+upd pack not op ver upd pack ex can access contact vend ver valid window instal upd pack 
+upd pack not op contact vend ver valid window instal upd pack 
+upd pack cannot process window instal serv instal window serv pack new vert window instal serv 
+vert produc instal instal vert cannot continu config remov ex vert produc ad remov program control panel 
+invalid command lin argu consult window instal sdk detail command lin 
+admin permit ad remov config serv softw termin serv remot sess instal config softw serv contact network admin 
+complet success system restart can effect 
+upgrad cannot instal window instal serv program upgrad miss upgrad upd vert program ver program upgrad ex comput correct upgrad 
+upd pack not permit softw restrict policy 
+custom not permit softw restrict policy 
+window instal not permit instal remot desktop connect 
+uninstal upd pack not support 
+upd not apply produc 
+no valid sequ found upd 
+upd remov disallow policy 
+xml upd dat invalid 
+window instal not permit upd man advert produc feat produc instal apply upd 
+window instal serv not access saf mod comput not saf mod can system rest return machin prevy good stat 
+fail fast exceiv occur exceiv handl not invok process termin immedy 
+string bind invalid 
+bind handl not correct typ 
+bind handl invalid 
+rpc protocol sequ not support 
+rpc protocol sequ invalid 
+string univers un ident uuid invalid 
+endpoint form invalid 
+network address invalid 
+no endpoint found 
+timeout invalid 
+object univers un ident uuid not found 
+object univers un ident uuid reg 
+typ univers un ident uuid reg 
+rpc serv list 
+no protocol sequ reg 
+rpc serv not list 
+man typ unknown 
+interfac unknown 
+no bind 
+no protocol sequ 
+endpoint cannot cre 
+not resourc complet 
+rpc serv unavail 
+rpc serv busy complet 
+network opt invalid 
+no remot proc cal act thread 
+remot proc cal fail 
+remot proc cal fail not execut 
+remot proc cal rpc protocol er occur 
+access http proxy deny 
+transf syntax not support rpc serv 
+univers un ident uuid typ not support 
+tag invalid 
+array bound invalid 
+bind not entry 
+syntax invalid 
+syntax not support 
+no network address construct univers un ident uuid ). 
+endpoint duply 
+auth typ unknown 
+maxim numb cal smal 
+string long 
+rpc protocol sequ not found 
+proc numb rang 
+bind not auth inform 
+auth serv unknown 
+auth level unknown 
+sec invalid 
+auth serv unknown 
+entry invalid 
+serv endpoint cannot 
+no endpoint endpoint map 
+no interfac export 
+entry incomplet 
+vert opt invalid 
+no memb 
+noth unexport 
+interfac not found 
+entry ex 
+entry not found 
+serv unavail 
+network address famy invalid 
+not support 
+no sec imperson 
+intern er occur remot proc cal rpc ). 
+rpc serv integ divid 
+address er occur rpc serv 
+flo point rpc serv caus divid 
+flo point underflow occur rpc serv 
+flo point overflow occur rpc serv 
+list rpc serv bind auto handl exhaust 
+un op charact transl tabl fil 
+fil charact transl tabl few 512 byt 
+nul handl pass cli host remot proc cal 
+handl chang remot proc cal 
+bind handl pass remot proc cal not match 
+stub un remot proc cal handl 
+nul ref point pass stub 
+enum rang 
+byt count smal 
+stub receiv bad dat 
+supply us buff not valid 
+disk med not recogn not format 
+workst not trust secret 
+sec databas serv not comput account workst trust rel 
+trust rel prim domain trust domain fail 
+trust rel workst prim domain fail 
+network logon fail 
+remot proc cal progress thread 
+mad logon network logon serv not start 
+user's account expir 
+redirect cannot unload 
+print driv instal 
+port unknown 
+print driv unknown 
+print process unknown 
+sep fil invalid 
+pri invalid 
+print invalid 
+print ex 
+print command invalid 
+datatyp invalid 
+environ invalid 
+no bind 
+account interdomain trust account glob us account loc us account access serv 
+account comput account glob us account loc us account access serv 
+account serv trust account glob us account loc us account access serv 
+sec id sid domain inconsist trust inform domain 
+serv cannot unload 
+im fil not sect 
+typ cannot found im fil 
+cannot found im fil 
+langu id cannot found im fil 
+not quot process command 
+no interfac reg 
+remot proc cal cancel 
+bind handl not inform 
+commun fail occur remot proc cal 
+auth level not support 
+no princip reg 
+er not valid window rpc er cod 
+uuid valid comput alloc 
+sec pack spec er occur 
+thread not cancel 
+invalid encod decod handl 
+incompat vert ser pack 
+incompat vert rpc stub 
+rpc pip object invalid corrupt 
+invalid rpc pip object 
+unsupport rpc pip vert 
+http proxy serv reject connect cooky auth fail 
+group memb not found 
+endpoint map databas entry not cre 
+object univers un ident uuid nil uuid 
+tim invalid 
+form invalid 
+form siz invalid 
+print handl wait 
+print delet 
+stat print invalid 
+user's password chang log tim 
+not find domain control domain 
+ref account lock not log 
+object export not found 
+object not found 
+object resolv not found 
+dat remain request buff 
+invalid asynchron remot proc cal handl 
+invalid asynchron rpc cal handl 
+rpc pip object clos 
+rpc cal complet pip process 
+no dat rpc pip 
+no sit machin 
+fil cannot access system 
+fil cannot resolv system 
+entry not expect typ 
+not object uuid export entry 
+interfac not export entry 
+profil entry not ad 
+profil el not ad 
+profil el not remov 
+group el not ad 
+group el not remov 
+print driv not compat policy en comput block nt 4 0 driv 
+expir can no long 
+cur user's deleg trust cre quot excess 
+tot deleg trust cre quot excess 
+cur user's deleg trust delet quot excess 
+logon fail machin log protect auth firewal account not allow auth machin 
+remot connect print spool block policy machin 
+logon fail auth fail ntlm auth dis 
+pixel form invalid 
+driv invalid 
+styl class attribut invalid 
+metafil not support 
+transform not support 
+clip not support 
+col man mod invalid 
+col profil invalid 
+tag not found 
+tag not pres 
+tag pres 
+col profil not dev 
+col profil not found 
+col spac invalid 
+im col man not en 
+er delet col transform 
+col transform invalid 
+transform not match bitmap's col spac 
+nam col index not pres profil 
+profil intend dev typ dev 
+network connect mad success us prompt password origin 
+network connect mad success default cred 
+usernam invalid 
+network connect not ex 
+network connect fil op request pend 
+act connect ex 
+dev act process cannot disconnect 
+print monit unknown 
+print driv 
+spool fil not found 
+startdocprint cal not issu 
+addjob cal not issu 
+print process instal 
+print monit instal 
+print monit not funct 
+print monit 
+not allow job queu print 
+success not effect system reboot 
+success not effect serv restart 
+no print found 
+print driv unrely 
+print driv harm system 
+print driv pack 
+un find cor driv pack print driv pack 
+fail system reboot rol back mad 
+fail system reboot in rol back mad 
+print driv not found system download 
+print job fail print print system upd job resubmit 
+reissu cach io 
+win encount er process command 
+loc win cannot delet 
+import fil fail 
+backup fail ful backup 
+backup fail check direct back databas 
+not ex win databas 
+reply nonconfig partn not allow 
+vert supply cont inform not support 
+supply cont inform malform 
+dat cannot found loc peer cach 
+no dat 
+supply object not init 
+supply object init 
+shutdown progress 
+supply object invalid 
+el ex not replac 
+can not cancel complet 
+can not reqest carry 
+access dat bound valid dat 
+vert not support 
+config invalid 
+sku not licens 
+peerd serv init short 
+dhcp cli obtain ip address network loc interfac dis dhcp cli can obtain address 
+guid pass not recogn valid wmi dat provid 
+inst pass not recogn valid wmi dat provid 
+dat item id pass not recogn valid wmi dat provid 
+wmi request not complet retry 
+wmi dat provid not loc 
+wmi dat provid ref inst not reg 
+wmi dat block ev not en 
+wmi dat block no long 
+wmi dat serv not 
+wmi dat provid fail carry request 
+wmi mof inform not valid 
+wmi reg inform not valid 
+wmi dat block ev not dis 
+wmi dat item dat block read 
+wmi dat item dat block not chang 
+med ident not repres valid med 
+libr ident not repres valid libr 
+med pool ident not repres valid med pool 
+driv med not compat ex libr 
+med ex offlin libr onlin 
+cannot perform offlin libr 
+libr driv med pool empty 
+libr driv med pool empty 
+no med med pool libr 
+dis 
+med ident not repres valid cle 
+driv cannot cle not support cle 
+object ident not repres valid object 
+un read writ databas 
+databas ful 
+med not compat dev med pool 
+not ex 
+ident not valid 
+med not mount ready 
+dev not ready 
+op admin refus request 
+driv ident not repres valid driv 
+libr ful no slot 
+transport cannot access med 
+un load med driv 
+un retriev driv stat 
+un retriev slot stat 
+un retriev stat transport 
+cannot transport 
+un op clos inject eject port 
+un eject med driv 
+cle slot reserv 
+cle slot not reserv 
+cle cartridg perform maxim numb driv cle 
+unexpect med ident 
+remain item group cannot delet 
+mess provid excess maxim siz allow paramet 
+volum system pag fil 
+med typ cannot remov libr driv libr report can support med typ 
+offlin med cannot mount system no en driv pres can 
+cle cartridg pres tap libr 
+cannot inject eject port not empty 
+fil not comput 
+remot stor serv not op tim 
+remot stor serv encount med er 
+fil direct not repars point 
+repars point attribut cannot conflict ex attribut 
+dat pres repars point buff invalid 
+tag pres repars point buff invalid 
+mismatch tag request tag pres repars point 
+singl inst stor not volum 
+cannot complet resourc depend 
+clust depend cannot found 
+clust cannot mad depend depend 
+clust not onlin 
+clust nod not 
+clust not 
+clust not found 
+clust shut 
+clust nod cannot evict clust nod nod 
+object ex 
+object list 
+clust group not request 
+clust group not found 
+not complet clust group not onlin 
+fail clust nod not own nod not own 
+fail clust nod not own group nod not own group 
+clust not cre monit 
+clust not brought onlin monit 
+not complet clust onlin 
+clust not delet brought offlin quor 
+clust not mak quor not cap quor 
+clust softw shut 
+group not correct stat 
+property stor not effect tim brought onlin 
+clust not mak quor not belong shar stor class 
+clust not delet cor 
+quor fail onlin 
+quor log not cre mount success 
+clust log corrupt 
+record not writ clust log excess maxim siz 
+clust log excess maxim siz 
+no checkpoint record found clust log 
+minim disk spac nee log not 
+clust nod fail control quor own act nod 
+clust network not 
+clust nod not 
+clust nod run 
+clust fail 
+clust nod not valid 
+clust nod ex 
+nod process join clust 
+clust nod not found 
+clust loc nod inform not found 
+clust network ex 
+clust network not found 
+clust network interfac ex 
+clust network interfac not found 
+clust request not valid object 
+clust network provid not valid 
+clust nod 
+clust nod not reach 
+clust nod not memb clust 
+clust join not progress 
+clust network not valid 
+clust nod 
+clust ip address 
+clust nod not paus 
+no clust sec 
+clust network not config intern clust commun 
+clust nod 
+clust nod 
+clust network onlin 
+clust network offlin 
+clust nod memb clust 
+clust network config intern clust commun act clust nod intern commun cap cannot remov network 
+clust resourc depend network provid serv cli cli access cap cannot remov network 
+cannot perform clust quor not bring quor offlin mod own list 
+clust quor not allow depend 
+clust nod paus 
+clust cannot brought onlin own nod cannot run 
+clust nod not ready 
+clust nod shut 
+clust join abort 
+clust join fail due incompat softw vert join nod spons 
+cannot cre clust reach limit numb resourc can monit 
+system config chang clust join form join form abort 
+typ not found 
+nod not support typ due vert inconsist due abs dll nod 
+not support dll due bad chang supply dll 
+no auth pack reg rpc serv 
+cannot bring group onlin own group not prefer list group chang own nod group mov group 
+join fail clust databas sequ numb chang incompat lock nod hap join clust databas chang join 
+monit not fail perform cur stat hap pend stat 
+non lock cod request reserv lock mak glob upd 
+quor disk not loc clust serv 
+back clust databas poss corrupt 
+dfs root ex clust nod 
+mod property fail conflict ex property 
+incompat cur memb stat nod 
+quor not quor log 
+memb engin shutdown clust serv nod 
+join fail clust inst id join nod not match clust inst id spons nod 
+match clust network ip address not found 
+act dat typ property not match expect dat typ property 
+clust nod evict clust success nod not cle determin cleanup step fail recov failov clust ev log ev view 
+paramet valu 's property conflict 
+comput cannot mad memb clust 
+comput cannot mad memb clust not correct vert window instal 
+clust cannot cre clust clust clust 
+clust config act commit 
+clust config act not rol back 
+driv let assign system disk nod conflict driv let assign disk nod 
+nod clust run vert window not support 
+comput account match network 
+no network adapt 
+clust nod poison 
+group un acceiv request mov nod 
+typ cannot acceiv request busy perform 
+cal clust dll tim 
+address not valid ipv6 address glob ipv6 address match clust network compat address not permit 
+intern clust er occur cal invalid funct 
+paramet acceiv rang 
+network er occur send dat nod clust numb byt transmit 
+invalid clust reg 
+input string charact not prop termin 
+input string charact not valid form dat repres 
+intern clust er occur clust databas transact transact progress 
+intern clust er occur commit clust databas transact no transact progress 
+intern clust er occur dat not prop init 
+er occur read stream dat unexpect numb byt return 
+er occur writ stream dat numb byt not writ 
+er occur des stream clust dat 
+property valu conflict property valu depend s ). 
+quor clust nod not pres form clust 
+clust network not valid ipv6 address not match config address 
+clust network not valid ipv6 tunnel check config ip address ipv6 tunnel depend 
+quor cannot resid stor group 
+depend nest deeply 
+cal dll rais unhandl exceiv 
+rhs process fail init 
+failov clust feat not instal nod 
+resourc onlin sam nod 
+nod can not ad clust maxim numb nod 
+clust can not cre numb nod excess maxim allow limit 
+clust fail en comput object ex domain 
+clust cannot destroy non cor group delet clust can destroy 
+fil shar fil shar wit cannot host clust nod 
+evict nod invalid tim due quor nod evict result clust shutdown 
+inst typ allow clust 
+inst typ allow group 
+fail onlin due fail provid resourc 
+cannot onlin nod 
+cur cannot perform group tim 
+direct fil not loc clust shar volum 
+sec describ not meet clust 
+shar volum resourc config clust 
+group cannot direct manip 
+back progress wait backup complet 
+path not belong clust shar volum 
+clust shar volum not loc mount nod 
+clust watchdog termin 
+fil not encrypt 
+fil not decrypt 
+fil encrypt us not abl decrypt 
+no valid encrypt recovery policy config system 
+encrypt driv not load system 
+fil encrypt encrypt driv load 
+no ef key defin us 
+fil not encrypt 
+fil not defin ef export form 
+fil read 
+direct dis encrypt 
+serv not trust remot encrypt 
+recovery policy config system invalid recovery cert 
+encrypt algorithm sourc fil big key buff destin fil 
+disk partit not support fil encrypt 
+machin dis fil encrypt 
+new system decrypt encrypt fil 
+remot serv invalid respons fil op cli sid encrypt 
+cli sid encrypt not support remot serv claim support 
+fil encrypt op cli sid encrypt mod 
+encrypt fil cre ef provid 
+smb cli cse fsctl non cse fil 
+block policy inform contact system admin 
+list serv workgroup not 
+task scheduler serv config run system account funct prop individ task config run account 
+log serv encount invalid log sect 
+log serv encount log sect invalid block par 
+log serv encount remap log sect 
+log serv encount part incomplet log block 
+log serv encount access dat act log rang 
+log serv us marshal buff exhaust 
+log serv encount read marshal are invalid read 
+log serv encount invalid log restart are 
+log serv encount invalid log block vert 
+log serv encount invalid log block 
+log serv encount read log invalid read mod 
+log serv encount log stream no restart are 
+log serv encount corrupt metadat fil 
+log serv encount metadat fil not cre log fil system 
+log serv encount metadat fil inconsist dat 
+log serv encount erron alloc dispos reserv spac 
+log serv cannot delet log fil fil system contain 
+log serv reach maxim allow contain alloc log fil 
+log serv read writ backward past start log 
+log policy not instal policy sam typ pres 
+log policy quest not instal tim request 
+instal policy log invalid 
+policy log quest prev complet 
+log spac cannot reclaim log pin arch tail 
+log record not record log fil 
+numb reserv log record adjust numb reserv log record invalid 
+reserv log spac adjust log spac invalid 
+ex arch tail bas act log invalid 
+log spac exhaust 
+log not siz 
+log multiplex no direct writ phys log allow 
+fail log ded log 
+arch 
+log arch progress 
+non ephem log log ephem 
+log contain can read writ 
+log cli reg stream 
+log cli not reg stream 
+request mad handl log ful condit 
+log serv encount er read log contain 
+log serv encount er writ log contain 
+log serv encount er op log contain 
+log serv encount invalid contain stat act 
+log serv not correct stat act 
+log spac cannot reclaim log pin 
+log metadat flush fail 
+sec log contain inconsist 
+record append log reserv mad log not flush 
+log pin due reserv consum log spac fre reserv record mak spac 
+transact handl not valid 
+mad transact no long act 
+not valid transact object cur stat 
+cal cal respons ap respons not expect tm not issu request cal 
+lat transact abort 
+lat transact commit 
+transact man un success init transact op not support 
+resourcem mad no upd transact 
+man prep transact not success join 
+transact object supery enl cal cre supery singl supery enl 
+rm reg protocol ex 
+prop transact fail 
+prop protocol not reg crm 
+buff pass pushtransact pulltransact not valid form 
+cur transact thread not valid handl transact object 
+transact object not op not found 
+resourcem object not op not found 
+enl object not op not found 
+transactionm object not op not found 
+object not cre op transactionm not onlin transactionm brought ful onlin cal recovertransactionm recov end logfil object transact resourcem namespac can op addit er writ record logfil can transactionm offlin 
+transactionm un cre object contain logfil ob namespac transactionm un recov 
+cal cre supery enl transact object not complet transact object enl subordin branch transact root transact can enl supery 
+transact man man clos handl no long valid 
+not perform supery enl enl not cre complet respons notificationmask 
+not perform record log long can occ condit enl transact combin recoveryinform log behalf enl long 
+implicit transact not support 
+kernel transact man abort forget transact block forward progress 
+transactionm id supply not match record transactionmanager's log fil 
+snapshot cannot continu transact man cannot froz cur stat 
+transact cannot enl enlistmentmask transact complet preprep phas ord ens correct resourcem switch writ mod ceas cach dat transact enl subsequ transact phas success 
+transact not supery enl 
+commit transact complet port transact tre not commit success due heur dat mod transact not commit result transact inconsist check consist dat 
+funct reserv transact 
+transact support man not start shut due er 
+metadat rm corrupt rm not funct 
+direct not man 
+remot serv shar not support transact fil op 
+log siz invalid 
+object fil stream link handl delet transact savepoint rollback 
+fil minivert not found transact fil op 
+fil minivert found invalid transact savepoint rollback 
+minivert op transact cre 
+not op minivert mod access 
+not cre minivert stream 
+remot serv mismatch vert numb fid fil op transact 
+handl invalid transact pres mem map fil op handl transact end rol back savepoint 
+no transact metadat fil 
+log dat corrupt 
+fil can't recov handl op 
+transact outcom unavail man respons disconnect 
+request reject enl quest not supery enl 
+transact man consist recovery not nee 
+transact man start 
+fil cannot op transact id depend outcom unresolv transact 
+cannot perform transact depend fact property not chang 
+involv singl fil transact man not allow 
+txf direct empty success 
+leav transact man inconsist stat not allow 
+not complet transact man not log 
+rollback not scheduled prevy scheduled rollback execut queu execut 
+transact metadat attribut fil direct corrupt unread 
+encrypt not complet transact act 
+object not allow op transact 
+cre spac transact manager's log fail fail stat record ev log 
+mem map cre map sect remot fil transact not support 
+transact metadat pres fil cannot supers 
+transact scop not ent scop handl not init 
+promot ord man enl transact disallow 
+fil op mod unresolv transact op execut transact read 
+request thaw froz transact ign transact not prevy froz 
+transact cannot froz freez progress 
+target volum not snapshot volum valid volum mount snapshot 
+savepoint fail fil op transact not permit 
+window discov corrupt fil fil repair dat loss occur 
+spars not complet transact act fil 
+cal cre transactionm object fail tm id stor logfil not match tm id pass argu 
+i o sect object flo result transact end no valid dat 
+transact man cannot acceiv transact work due transy condit low resourc 
+transact man tranact outstand not abort transact mang shut 
+not complet due bad clust disk 
+compress not complet transact act fil 
+not complet volum dirty run chkdsk 
+link track not complet transact act 
+cannot perform transact 
+handl no long prop transact op transact man subsequ forc restart clos handl op 
+not perform man not enl transact 
+sess invalid 
+protocol driv invalid 
+protocol driv not found system path 
+termin connect driv not found system path 
+reg key ev log not cre sess 
+serv sam ex system 
+clos pend sess 
+no fre output buff 
+modem inf fil not found 
+modem not found modem inf 
+modem not acceiv command ver config modem match attach modem 
+modem not respond command ver modem prop cabl pow 
+carry detect fail carry drop due disconnect 
+dial ton not detect tim ver phon cabl prop attach funct 
+busy sign detect remot sit callback 
+voic detect remot sit callback 
+transport driv er 
+sess cannot found 
+sess 
+task can't complet remot desktop serv busy minut us log 
+mad connect sess video mod not support cur cli 
+en dos graph mod dos graph mod not support 
+interact logon privileg dis contact admin 
+can perform system consol result driv system dll direct consol access 
+cli fail respond serv connect mess 
+disconnect consol sess not support 
+reconnect disconnect sess consol not support 
+request control sess remot deny 
+sess access deny 
+termin connect driv invalid 
+sess cannot control remot 
+sess not config remot control 
+request connect termin serv reject termin serv cli licens numb us cal system admin obtain un licens numb 
+request connect termin serv reject termin serv cli licens numb not ent cop termin serv cli contact system admin 
+numb connect comput limit connect connect contact system admin 
+cli not licens system logon request deny 
+system licens expir logon request deny 
+remot control not termin sess not remot control 
+remot control consol termin display mod chang chang display mod remot control sess not support 
+act reset maxim numb tim instal act tim not clear 
+remot login dis 
+not prop encrypt level access sess 
+us %s\\%s log comput cur us admin can log comput 
+us %s\\%s log consol comput not permit log tim resolv issu contact %s\\%s log 
+un log account restrict 
+rdp protocol compon %2 detect er protocol stream disconnect cli 
+cli driv map serv connect termin connect 
+cli driv map serv disconnect termin connect 
+termin serv sec lay detect er protocol stream disconnect cli 
+target sess incompat cur sess 
+window can't connect sess problem occur window video subsystem connect contact serv admin assist 
+fil reply serv ap cal incorrect 
+fil reply serv cannot start 
+fil reply serv cannot stop 
+fil reply serv ap termin request ev log inform 
+fil reply serv termin request ev log inform 
+fil reply serv cannot contact ev log inform 
+fil reply serv cannot satisfy request us insufficy privileg ev log inform 
+fil reply serv cannot satisfy request auth rpc not ev log inform 
+fil reply serv cannot satisfy request us insufficy privileg domain control ev log inform 
+fil reply serv cannot satisfy request auth rpc not domain control ev log inform 
+fil reply serv cannot commun fil reply serv domain control ev log inform 
+fil reply serv domain control cannot commun fil reply serv comput ev log inform 
+fil reply serv cannot pop system volum intern er ev log inform 
+fil reply serv cannot pop system volum intern timeout ev log inform 
+fil reply serv cannot process request system volum busy prevy request 
+fil reply serv cannot stop reply system volum intern er ev log inform 
+fil reply serv detect invalid paramet 
+er occur instal direct serv inform ev log 
+direct serv evalu group memb loc 
+direct serv attribut not ex 
+attribut syntax direct serv invalid 
+attribut typ direct serv not defin 
+direct serv attribut ex 
+direct serv busy 
+direct serv unavail 
+direct serv un alloc rel ident 
+direct serv exhaust pool rel ident 
+not perform direct serv not mast typ 
+direct serv un init subsystem alloc rel ident 
+not satisfy constraint class object 
+direct serv can leaf object 
+direct serv cannot rdn attribut object 
+direct serv detect mod object class object 
+cross domain mov not perform 
+un contact glob catalog serv 
+policy object shar can mod root 
+policy object not ex 
+policy inform direct serv 
+domain control promot act 
+domain control promot not act 
+op er occur 
+protocol er occur 
+tim limit request excess 
+siz limit request excess 
+admin limit request excess 
+comp respons fals 
+comp respons tru 
+auth method not support serv 
+sec auth method serv 
+inappropry auth 
+auth mech unknown 
+refer return serv 
+serv not support crit extend 
+request sec connect 
+inappropry match 
+constraint viol occur 
+no object serv 
+alia problem 
+invalid dn syntax 
+object leaf object 
+alia deref problem 
+serv unwil process request 
+loop detect 
+nam viol 
+result larg 
+affect multipl dsa 
+serv not op 
+loc er occur 
+encod er occur 
+decod er occur 
+search filt cannot recogn 
+paramet illeg 
+method not support 
+no result return 
+control not support serv 
+refer loop detect cli 
+preset refer limit excess 
+search sort control 
+search result excess offset rang 
+root object head nam root object cannot instanty par 
+ad replic cannot perform nam writ ord cre replic 
+ref attribut not defin schema occur 
+maxim siz object excess 
+mad ad object direct 
+mad ad object class not rdn defin schema 
+mad ad object rdn not rdn defin schema 
+non attribut found object 
+us buff smal 
+attribut not pres object 
+illeg mod aspect mod not permit 
+object larg 
+inst typ not valid 
+perform mast dsa 
+object class attribut 
+attribut miss 
+mad mod object includ attribut not leg class 
+attribut pres object 
+attribut not pres no valu 
+multipl valu attribut can 
+attribut not acceiv rang valu 
+ex 
+attribut cannot remov not pres object 
+attribut cannot remov not pres object 
+root object cannot subref 
+chain not permit 
+chain evalu not permit 
+not perform object's par uninstanty delet 
+par alia not permit alias leaf object 
+object par sam typ mast replica 
+cannot perform child object ex can perform leaf object 
+direct object not found 
+alias object miss 
+object bad syntax 
+not permit alia ref alia 
+alia cannot deref 
+scop 
+cannot continu object process remov 
+dsa object cannot delet 
+direct serv er occur 
+can perform intern mast dsa object 
+object class dsa 
+insufficy access right 
+object cannot ad par not list supery 
+access attribut not permit attribut own sec account man sam ). 
+part 
+long 
+long 
+direct serv encount er pars 
+direct serv cannot attribut typ 
+not ident object ident phantom 
+sec describ short 
+sec describ invalid 
+fail cre delet object 
+par subref ex 
+object nam 
+not permit ad attribut own system 
+class object structural cannot instanty abstract class 
+schema object not found 
+loc object guid dead al ex 
+cannot perform back link 
+cross ref nam not found 
+not perform direct serv shut 
+direct serv request invalid 
+rol own attribut not read 
+fsmo fail cur fsmo hold not contact 
+mod dn nam not permit 
+attribut cannot mod own system 
+reply can funct 
+class not defin 
+class not subclass 
+ref invalid 
+cross ref ex 
+not permit delet mast cross ref 
+subt not support nc head 
+not filt complex 
+schema upd fail duply rdn 
+schema upd fail duply oid 
+schema upd fail duply map ident 
+schema upd fail duply schema id guid 
+schema upd fail duply ldap display 
+schema upd fail rang low rang up 
+schema upd fail syntax mismatch 
+schema delet fail attribut 
+schema delet fail attribut 
+schema upd fail attribut not ex 
+schema upd fail attribut not ex 
+schema upd fail class aux class list not ex not auxy class 
+schema upd fail class poss supery not ex 
+schema upd fail class subclassof list not ex not satisfy hierarchy rul 
+schema upd fail rdn at id wrong syntax 
+schema delet fail class auxy class 
+schema delet fail class class 
+schema delet fail class poss supery 
+schema upd fail recalc valid cach 
+tre delet not fin request mad continu delet tre 
+delet not perform 
+cannot read govern class ident schema record 
+attribut schema bad syntax 
+attribut not cach 
+class not cach 
+attribut not remov cach 
+class not remov cach 
+distinct attribut not read 
+no supery ref config direct serv direct serv un issu refer object forest 
+inst typ attribut not retriev 
+intern er occur 
+databas er occur 
+attribut governsid miss 
+expect attribut miss 
+nam miss cross ref 
+sec check er occur 
+schema not load 
+schema alloc fail check machin run low mem 
+fail obtain syntax attribut schema 
+glob catalog ver fail glob catalog not not support part direct not 
+reply fail schema mismatch serv involv 
+dsa object not found 
+nam not found 
+nam not found cach 
+child object not retriev 
+mod not permit sec reason 
+cannot replac hid record 
+hierarchy fil invalid 
+build hierarchy tabl fail 
+direct config paramet miss reg 
+count address book ind fail 
+alloc hierarchy tabl fail 
+direct serv encount intern fail 
+direct serv encount unknown fail 
+root object class 'top' 
+direct serv shut cannot own flo singl mast rol 
+direct serv miss mand config inform un determin own flo singl mast rol 
+direct serv un transf own flo singl mast rol serv 
+reply fail 
+invalid paramet reply 
+direct serv busy complet reply tim 
+distinct reply invalid 
+nam reply invalid 
+distinct reply ex 
+reply system encount intern er 
+reply encount databas inconsist 
+serv reply not contact 
+reply encount object invalid inst typ 
+reply fail alloc mem 
+reply encount er mail system 
+reply ref inform target serv ex 
+reply ref inform target serv not ex 
+nam cannot remov reply serv 
+reply encount databas er 
+nam process remov not reply serv 
+reply access deny 
+not support vert direct serv 
+reply remot proc cal cancel 
+sourc serv reject reply request 
+destin serv reject reply request 
+reply fail due collid object nam 
+reply sourc reinstal 
+reply fail par object miss 
+reply preempt 
+reply synchron abandon lack upd 
+reply termin system shut 
+synchron fail destin dc wait synchron part attribut sourc condit norm rec schema chang mod part attribut destin part attribut not subset sourc part attribut 
+reply synchron fail mast replic synt part replic 
+serv reply contact serv un contact addit serv nee complet 
+vert direct serv schema sourc forest not compat vert direct serv comput 
+schema upd fail attribut sam link ident ex 
+transl gen process er 
+transl not find insufficy 
+transl input map output 
+transl input found not output form 
+transl un resolv complet domain found 
+transl un pur syntact map cli wir 
+mod construct attribut not allow 
+om object class incorrect attribut syntax 
+reply request post wait reply 
+direct serv non 
+ldap display class attribut non asci charact 
+search support bas search 
+search fail retriev attribut databas 
+schema upd ad backward link attribut no forward link 
+sourc destin cross domain mov not agr object's epoch numb sourc destin not latest vert object 
+sourc destin cross domain mov not agr object's cur sourc destin not latest vert object 
+sourc destin cross domain mov id cal loc mov cross domain mov 
+sourc destin cross domain mov not agr nam context forest sourc destin not latest vert partit contain 
+destin cross domain mov not authorit destin nam 
+sourc destin cross domain mov not agr id sourc object sourc destin not latest vert sourc object 
+object mov domain delet destin serv sourc serv not latest vert sourc object 
+exclud access pdc fsmo progress 
+cross domain mov fail vert mov object ex sourc destin domain destin object remov rest system consist stat 
+object not mov domain bound cross domain mov class disallow object spec charact e.g. trust account restrict rid prev mov 
+can't mov object memb domain bound mov viol memb condit account group remov object account group memb retry 
+nam head child nam head not intery nod 
+direct cannot valid propos nam not hold replic nam propos nam ens domain nam mast rol held serv config glob catalog serv serv dat reply partn apply window 2000 domain nam mast 
+destin domain nat mod 
+cannot perform serv not infrastruct contain domain interest 
+cross domain mov non empty account group not allow 
+cross domain mov non empty group not allow 
+search flag attribut invalid anr bit valid attribut unicod teletex strings 
+tre delet start object nc head descend not allow 
+direct serv fail lock tre prep tre delet tre 
+direct serv fail ident list object delet tre delet 
+sec account man init fail er %1. 
+admin can mod memb list admin group 
+cannot chang prim group id domain control account 
+mad mod bas schema 
+ad mand attribut ex class delet mand attribut ex class ad opt attribut spec class top not backlink attribut direct inherit ad delet auxy class not allow 
+schema upd not allow dc dc not schema fsmo rol own 
+object class cannot cre schema contain can cre attribut schema class schema object schema contain 
+replic child instal fail objectvert attribut schema contain sourc dc attribut miss schema contain cred supply not permit read 
+replic child instal fail read objectvert attribut schema sect fil schema in system32 direct 
+group typ invalid 
+cannot nest glob group mix domain group sec en 
+cannot nest loc group mix domain group sec en 
+glob group cannot loc group memb 
+glob group cannot univers group memb 
+univers group cannot loc group memb 
+glob group cannot cross domain memb 
+loc group cannot cross domain loc group memb 
+group prim memb cannot chang sec dis group 
+schema cach load fail convert string default sd class schema object 
+dsa config glob catalog serv allow hold domain nam mast fsmo rol apply window 2000 serv 
+dsa un process dns lookup fail 
+process chang dns host object serv princip valu not synt 
+sec describ attribut not read 
+object not found object key found 
+syntax link attribut ad incorrect forward link can syntax 2 5 5 1 2 5 5 7 2 5 5 14 backlink can syntax 2 5 5 1 
+sec account man boot password 
+sec account man boot key floppy disk 
+direct serv cannot start 
+direct serv not start 
+connect cli serv packet priv 
+sourc domain not sam forest destin 
+destin domain forest 
+destin domain audit en 
+loc dc sourc domain 
+sourc object group us 
+sourc object's sid ex destin forest 
+sourc destin object sam typ 
+sec account man init fail er %1. 
+schema inform not includ reply request 
+reply not complet due schema incompat 
+reply not complet due prevy schema incompat 
+reply upd not apply sourc destin not receiv inform rec cross domain mov 
+domain not delet ex domain control host domain 
+can perform glob catalog serv 
+loc group can memb loc group sam domain 
+foreign sec princip cannot memb univers group 
+attribut not allow reply gc sec reason 
+checkpoint pdc not tak mod process 
+sourc domain audit en 
+sec princip object can cre insid domain nam context 
+serv princip spn not construct provid hostnam not form 
+filt pass construct attribut 
+unicodepwd attribut enclos doubl quot 
+comput not join domain excess maxim numb comput account allow cre domain contact system admin limit reset increas 
+sec reason run destin dc 
+sec reason sourc dc nt4sp4 gre 
+crit direct serv system object cannot delet tre delet op tre delet part perform 
+direct serv not start er %1. 
+sec account man init fail er %1. 
+vert op system incompat cur ad ds forest funct level ad lds config funct level upgrad vert op system serv can ad ds domain control ad ad lds inst ad ds forest ad lds config 
+vert op system instal incompat cur domain funct level upgrad vert op system serv can domain control domain 
+vert op system instal serv no long support cur ad ds forest funct level ad lds config funct level rais ad ds forest funct level ad lds config funct level serv can ad ds domain control ad lds inst forest config 
+vert op system instal serv no long support cur domain funct level rais domain funct level serv can domain control domain 
+vert op system instal serv incompat funct level domain forest 
+funct level domain forest cannot rais ex domain control domain forest low incompat funct level 
+forest funct level cannot rais domain mix domain mod domain forest nat mod rais forest funct level 
+sort ord not support 
+ex un ident 
+machin account cre pre nt4 account recr 
+databas vert stor 
+un continu multipl conflict control 
+un find valid sec describ ref domain partit 
+schema upd fail link ident reserv 
+schema upd fail no link ident 
+account group cannot univers group memb 
+renam mov op nam head read object not allow 
+mov op object schema nam not allow 
+system flag object not object mov renam 
+object not allow chang grandp contain mov not forbid object restrict sibl contain 
+un resolv complet refer forest gen 
+act not support standard serv 
+not access partit direct serv loc remot serv mak serv run partit quest 
+direct cannot valid propos nam partit not hold replic can contact replic nam propos nam ens par nam prop reg dns replic nam reach domain nam mast 
+thread limit request excess 
+glob catalog serv not closest sit 
+ds cannot der serv princip spn mut auth target serv serv object loc ds databas no serverref attribut 
+direct serv fail ent singl us mod 
+direct serv cannot pars script syntax er 
+direct serv cannot process script er 
+direct serv cannot serv involv reply epoch rel domain renam progress ). 
+direct serv bind renegoty due chang serv extend inform 
+not allow dis cross ref 
+schema upd fail no valu msds intid 
+schema upd fail duply msds intid retry 
+schema delet fail attribut rdnattid 
+direct serv fail auth request 
+direct serv cannot process script invalid 
+remot cre cross ref fail domain nam mast fsmo 's er extend dat 
+cross ref loc sam 
+ds cannot der serv princip spn mut auth target serv server's domain delet forest 
+writ ncs prev dc demot 
+object non un ident cannot retriev 
+insufficy attribut cre object object not ex delet garb collect 
+group cannot convert due attribut restrict group typ 
+cross domain mov non empty bas group not allow 
+cross domain mov non empty query bas group not allow 
+fsmo rol own not ver direct partit not reply success reply partn 
+target contain redirect object contain cannot spec contain 
+direct serv cannot domain renam progress 
+direct serv detect child partit partit partit hierarchy cre top method 
+direct serv cannot reply serv tim reply serv excess tombston lifetim 
+not allow object system contain 
+ldap serv network send queu fil cli not process result 's request fast no request process cli catch cli not catch disconnect 
+scheduled reply not plac system busy execut request schedule reply queu overload reduc numb partn decreas scheduled reply frequ 
+tim cannot determin branch reply policy hub domain control retry tim account reply lat 
+sit set object sit not ex 
+loc account stor not secret mat account 
+not find writ domain control domain 
+serv object domain control not ex 
+ntds set object domain control not ex 
+search not support asq search 
+audit ev not gen 
+search flag attribut invalid subt index bit valid singl valu attribut 
+search flag attribut invalid tupl index bit valid attribut unicod strings 
+address book nest deeply fail build hierarchy tabl 
+dat ness vect corrupt 
+request reply secret deny 
+schema upd fail map ident reserv 
+schema upd fail no map ident 
+reply fail attribut loc krbtgt object miss 
+domain trust domain ex forest 
+flat trust domain ex forest 
+us princip upn invalid 
+oid map group cannot memb 
+oid cannot found 
+reply fail target object refer link recyc 
+dns serv un interpret form 
+dns serv fail 
+dns not ex 
+dns request not support serv 
+dns refus 
+dns not ex ex 
+dns rr not ex ex 
+dns rr ex not ex 
+dns serv not authorit zon 
+dns upd prereq not zon 
+dns sign fail ver 
+dns bad key 
+dns sign valid expir 
+no record found dns query 
+bad dns packet 
+no dns packet 
+dns er check rcod 
+unsec dns packet 
+invalid dns typ 
+invalid ip address 
+invalid property 
+dns 
+record typ not un 
+dns not comply rfc spec 
+dns ful qual dns 
+dns dot mult label ). 
+dns singl part 
+dns invalid charact 
+dns num 
+not permit dns root serv 
+record not cre part dns namespac deleg serv 
+dns serv not find root hint 
+dns serv found root hint not consist adapt 
+smal paramet 
+larg paramet 
+not allow dns serv load zon background 
+not permit dns serv run read dc 
+no dat allow ex undernea dnam record 
+cred deleg 
+resolv policy tabl corrupt dns resolv fail fix contact network admin 
+dns zon not ex 
+dns zon inform not 
+invalid dns zon 
+invalid dns zon config 
+dns zon no start auth soa record 
+dns zon no serv ns record 
+dns zon lock 
+dns zon cre fail 
+dns zon ex 
+dns autom zon ex 
+invalid dns zon typ 
+second dns zon mast ip address 
+dns zon not second 
+second ip address 
+win init fail 
+win serv 
+nbtstat init cal fail 
+invalid delet start auth soa 
+condit forward zon ex 
+zon config mast dns serv ip address 
+cannot perform zon shutdown 
+prim dns zon datafil 
+invalid datafil dns zon 
+fail op datafil dns zon 
+fail writ datafil dns zon 
+fail read datafil dns zon 
+dns record not ex 
+dns record form er 
+nod cre fail dns 
+unknown dns record typ 
+dns record tim 
+not dns zon 
+cnam loop detect 
+nod cnam dns record 
+cnam record ex 
+record dns zon root 
+dns record ex 
+second dns zon dat er 
+not cre dns cach dat 
+dns not ex 
+not cre point ptr record 
+dns domain undelet 
+direct serv unavail 
+dns zon ex direct serv 
+dns serv not cre read boot fil direct serv integr dns zon 
+nod dnam dns record 
+dnam record ex 
+alia loop detect cnam dnam record 
+dns axfr zon transf complet 
+dns zon transf fail 
+ad loc win serv 
+sec upd cal continu upd request 
+tcp ip network protocol not instal 
+no dns serv config loc system 
+direct partit not ex 
+direct partit ex 
+dns serv not enl direct partit 
+dns serv enl direct partit 
+direct partit not tim wait minut 
+direct partit fail domain control hold domain nam mast rol un serv request not run window serv 2003 
+block interrupt cal wsacancelblockingcal 
+fil handl supply not valid 
+mad access socket forbid access permit 
+system detect invalid point address point argu cal 
+invalid argu supply 
+op socket 
+non block socket not complet immedy 
+block execut 
+non block socket progress 
+not socket 
+address omit socket 
+mess datagram socket larg intern mess buff network limit buff receiv datagram smal datagram 
+protocol socket funct cal not support sem socket typ 
+unknown invalid unsupport opt level getsockopt setsockopt cal 
+protocol not config system no impl ex 
+support socket typ not ex address famy 
+not support typ object ref 
+protocol famy not config system no impl ex 
+address incompat protocol 
+us socket address protocol network address port permit 
+address not valid 
+socket encount dead network 
+socket unreach network 
+connect brok due al act detect fail progress 
+est connect abort softw host machin 
+ex connect forc clos remot host 
+socket not perform system lack sufficy buff spac queu ful 
+connect request mad connect socket 
+request send receiv dat disallow socket not connect send datagram socket sendto cal no address supply 
+request send receiv dat disallow socket shut direct prevy shutdown cal 
+ref kernel object 
+connect fail connect party not prop respond period tim est connect fail connect host fail respond 
+no connect mad target machin act refus 
+cannot transl 
+compon long 
+socket fail destin host 
+socket unreach host 
+cannot remov direct not empty 
+window socket impl limit numb apply simult 
+ran quot 
+ran disk quot 
+fil handl ref no long 
+item not loc 
+wsastartup cannot funct tim und system provid network serv unavail 
+window socket vert not support 
+not cal wsastartup wsastartup fail 
+return wsarecv wsarecvfrom remot party in grac shutdown sequ 
+no result can return wsalookupservicenext 
+cal wsalookupserviceend mad cal process cal cancel 
+proc cal tabl invalid 
+serv provid invalid 
+serv provid not load init 
+system cal fail 
+no serv serv cannot found spac 
+class not found 
+no result can return wsalookupservicenext 
+cal wsalookupserviceend mad cal process cal cancel 
+databas query fail act refus 
+no host 
+temp er hostnam resolv mean loc serv not receiv respons authorit serv 
+non recov er occur databas lookup 
+valid no dat typ found 
+reserv ar 
+path ar 
+no send 
+no receiv 
+reserv confirm 
+er due lack resourc 
+reject admin reason bad cred 
+unknown conflict styl 
+problem part filterspec providerspec buff gen 
+problem part flowspec 
+gen qos er 
+invalid unrecogn serv typ found flowspec 
+invalid inconsist flowspec found qos structure 
+invalid qos provid spec buff 
+invalid qos filt styl 
+invalid qos filt typ 
+incorrect numb qos filterspec flowdescrib 
+object invalid objectleng field qos provid spec buff 
+incorrect numb flow describ qos structure 
+unrecogn object found qos provid spec buff 
+invalid policy object found qos provid spec buff 
+invalid qos flow describ found flow describ list 
+invalid inconsist flowspec found qos provid spec buff 
+invalid filterspec found qos provid spec buff 
+invalid shap discard mod object found qos provid spec buff 
+invalid shap rat object found qos provid spec buff 
+reserv policy el found qos provid spec buff 
+no host sec 
+bas ipsec policy not ad 
+quick mod policy ex 
+quick mod policy not found 
+quick mod policy 
+main mod policy ex 
+main mod policy not found 
+main mod policy 
+main mod filt ex 
+main mod filt not found 
+transport mod filt ex 
+transport mod filt not ex 
+main mod auth list ex 
+main mod auth list not found 
+main mod auth list 
+default main mod policy not found 
+default main mod auth list not found 
+default quick mod policy not found 
+tunnel mod filt ex 
+tunnel mod filt not found 
+main mod filt pend delet 
+transport filt pend delet 
+tunnel filt pend delet 
+main mod policy pend delet 
+main mod auth bundl pend delet 
+quick mod policy pend delet 
+main mod policy success ad off not support 
+quick mod policy success ad off not support 
+error_ipsec_ike_neg_status_begin 
+ik auth cred unacceiv 
+ik sec attribut unacceiv 
+ik negoty progress 
+gen process er 
+negoty tim 
+ik fail find valid machin cert contact network sec admin instal valid cert cert stor 
+ik sa delet peer est complet 
+ik sa delet est complet 
+negoty request sat queu long 
+negoty request sat queu long 
+negoty request sat queu long 
+negoty request sat queu long 
+no respons peer 
+negoty long 
+negoty long 
+unknown er occur 
+cert revoc check fail 
+invalid cert key us 
+invalid cert typ 
+ik negoty fail machin cert not priv key ipsec cert priv key contact network sec admin replac cert priv key 
+simult rekey detect 
+fail diffy hellm comput 
+process crit payload 
+invalid head 
+no policy config 
+fail ver sign 
+fail auth kerbero 
+peer's cert not publ key 
+er process er payload 
+er process sa payload 
+er process propos payload 
+er process transform payload 
+er process ke payload 
+er process id payload 
+er process cert payload 
+er process cert request payload 
+er process hash payload 
+er process sign payload 
+er process nont payload 
+er process not payload 
+er process delet payload 
+er process vendorid payload 
+invalid payload receiv 
+soft sa load 
+soft sa torn 
+invalid cooky receiv 
+peer fail send valid machin cert 
+cert revoc check peer's cert fail 
+policy invalid sas form policy 
+no main mod ik policy 
+fail en tcb privileg 
+fail load sec dll 
+fail obtain sec funct tabl dispatch address sspi 
+fail query kerbero pack obtain max tok siz 
+fail obtain kerbero serv cred isakmp error_ipsec_ike serv kerbero auth not funct reason lack domain memb norm comput memb workgroup 
+fail determin sspi princip isakmp error_ipsec_ike serv querycredentialsattribut ). 
+fail obtain spi inbound sa ipsec driv common driv not correct filt check policy ver filt 
+filt invalid 
+mem alloc fail 
+fail ad sec assocy ipsec driv common ik negoty long complet problem persist reduc load fault machin 
+invalid policy 
+invalid doi 
+invalid situ 
+diffy hellm fail 
+invalid diffy hellm group 
+er encrypt payload 
+er decrypt payload 
+policy match er 
+unsupport id 
+hash ver fail 
+invalid hash algorithm 
+invalid hash siz 
+invalid encrypt algorithm 
+invalid auth algorithm 
+invalid cert sign 
+load fail 
+delet rpc cal 
+temp stat cre reinit not real fail 
+lifetim receiv respond lifetim not window 2000 config minim fix policy peer machin 
+recipy cannot handl vert ik head 
+key leng cert smal config sec 
+max numb est mm sas peer excess 
+ik receiv policy dis negoty 
+reach maxim quick mod limit main mod main mod start 
+main mod sa lifetim expir peer main mod delet 
+main mod sa assum invalid peer stop respond 
+cert chain trust root ipsec policy 
+receiv unexpect mess id 
+receiv invalid auth off 
+dos cooky not in 
+ik serv shut 
+not ver bind cga address cert 
+er process nato payload 
+paramet main mod invalid quick mod 
+quick mod sa expir ipsec driv 
+dynam ad ikeext filt detect 
+error_ipsec_ike_neg_status_end 
+nap reau success delet dummy nap ikev2 tunnel 
+er assign ip address inty tunnel mod 
+config payload miss 
+negoty run sec principl issu connect progress 
+sa delet due ikev1 authip ex suppress check 
+incom sa request drop due peer ip address rat limit 
+peer not support mobik 
+sa est not auth 
+sa est not auth not sufficy strong pkinit bas cred 
+sa est not auth ent upd cred smartcard 
+sa est not auth not sufficy strong pkinit bas cred rel cert account map fail sa 
+error_ipsec_ike_neg_status_extended_end 
+spi packet not match valid ipsec sa 
+packet receiv ipsec sa lifetim expir 
+packet receiv ipsec sa not match packet charact 
+packet sequ numb replay check fail 
+ipsec head trail packet invalid 
+ipsec integr check fail 
+ipsec drop clear text packet 
+ipsec drop incom esp packet auth firewal mod drop benign 
+ipsec drop packet due dos throttling 
+ipsec dos protect match explicit block rul 
+ipsec dos protect receiv ipsec spec multicast packet not allow 
+ipsec dos protect receiv incorrect format packet 
+ipsec dos protect fail stat 
+ipsec dos protect fail cre stat maxim numb entry allow policy reach 
+ipsec dos protect receiv ipsec negoty packet key mod not allow policy 
+ipsec dos protect not en 
+ipsec dos protect fail cre intern ip rat limit queu maxim numb queu allow policy reach 
+sect not pres act 
+fail start sid sid config incorrect ev log command lin sxstrace ex tool detail 
+bind dat form invalid 
+ref assembl not instal system 
+manifest fil not begin tag form inform 
+manifest fil syntax er 
+act dis act 
+lookup key not found act act 
+compon vert conflict compon vert act 
+typ act sect not match query ap 
+lack system resourc isol act dis cur thread execut 
+process default act fail process default act 
+encod group ident not recogn 
+encod not recogn 
+manifest ref invalid ur 
+manifest ref depend assembl not instal 
+manifest assembl ref depend assembl not instal 
+manifest attribut assembl id not valid 
+manifest miss default namespac spec assembl el 
+manifest default namespac assembl el not urn schemas microsoft asm v1 ". 
+priv manifest prob cross path unsupport repars point 
+compon ref direct indirect manifest fil sam 
+compon ref direct indirect manifest class sam 
+compon ref direct indirect manifest sam serv clsids 
+compon ref direct indirect manifest proxy sam interfac iid 
+compon ref direct indirect manifest sam typ libr tlbids 
+compon ref direct indirect manifest sam progid 
+compon ref direct indirect manifest vert sam compon not permit 
+component's fil not match ver inform pres compon manifest 
+policy manifest syntax er 
+manifest pars er string lit expect no op quot charact found 
+manifest pars er incorrect syntax com 
+manifest pars er start invalid charact 
+manifest pars er contain invalid charact 
+manifest pars er string lit contain invalid charact 
+manifest pars er invalid syntax xml decl 
+manifest pars er invalid charact found text cont 
+manifest pars er whit spac miss 
+manifest pars er charact expect 
+manifest pars er sem colon charact expect 
+manifest pars er unb parenthes 
+manifest pars er intern er 
+manifest pars er whitespac not allow loc 
+manifest pars er end fil reach invalid stat cur encod 
+manifest pars er miss parenthes 
+manifest pars er singl doubl clos quot charact (\ \") miss 
+manifest pars er multipl colon not allow 
+manifest pars er invalid charact decim digit 
+manifest pars er invalid charact hexadecim digit 
+manifest pars er invalid unicod charact platform 
+manifest pars er expect whitespac 
+manifest pars er end tag not expect loc 
+manifest pars er tag not clos %1. 
+manifest pars er duply attribut 
+manifest pars er top level el allow xml docu 
+manifest pars er invalid top level docu 
+manifest pars er invalid xml decl 
+manifest pars er xml docu top level el 
+manifest pars er unexpect end fil 
+manifest pars er paramet ent cannot insid markup decl intern subset 
+manifest pars er el not clos 
+manifest pars er end el miss charact 
+manifest pars er string lit not clos 
+manifest pars er com not clos 
+manifest pars er decl not clos 
+manifest pars er cdat sect not clos 
+manifest pars er namespac prefix not allow start reserv string xml ". 
+manifest pars er system not support encod 
+manifest pars er switch cur encod encod not support 
+manifest pars er 'xml' reserv low cas 
+manifest pars er standalon attribut '' 'no' 
+manifest pars er standalon attribut cannot extern ent 
+manifest pars er invalid vert numb 
+manifest pars er miss eq sign attribut attribut 
+assembl protect er un recov assembl 
+assembl protect er publ key assembl short allow 
+assembl protect er catalog assembl not valid not match assembly's manifest 
+hresult not transl win32 er cod 
+assembl protect er catalog assembl miss 
+supply assembl id miss attribut pres 
+supply assembl id attribut nam charact not permit xml nam 
+ref assembl not found 
+act act stack run thread execut corrupt 
+isol metadat process thread corrupt 
+act deact not rec act 
+act deact not act cur thread execut 
+act deact deact 
+compon isol facil termin process 
+kernel mod compon releas ref act 
+act system default assembl not gen 
+attribut id not leg rang 
+attribut id not leg rang 
+id definit sam attribut 
+id string malform due trail comm unnam attribut miss attribut miss attribut 
+string loc substitut cont malform doll sign ($) left parenthes doll sign substitution's parenthes not found 
+publ key tok not correspond publ key 
+substitut string no map 
+compon lock mak request 
+compon stor corrupt 
+adv instal fail setup serv 
+charact encod xml decl not match encod docu 
+id manifest id cont 
+compon id 
+assembl not deploy 
+fil not part assembl 
+siz manifest excess maxim allow 
+set not reg 
+memb transact not pres 
+smi primit instal fail setup serv 
+gen command execut return result fail 
+compon miss fil ver inform manifest 
+channel path invalid 
+query invalid 
+publ metadat cannot found 
+templ ev definit cannot found er %1). 
+publ invalid 
+ev dat rais publ not compat ev templ definit publisher's manifest 
+channel not found check channel config 
+xml text not form extend er detail 
+cal subscrib direct channel not allow ev direct channel direct logfil cannot subscrib 
+config er 
+query result stal invalid due log clear rol query result cre us handl cod releas query result object reissu query 
+query result invalid posit 
+reg msxml support valid 
+express can chang scop evalu nod not part chang scop 
+can't step term not repres el 
+left hand sid argu bin op attribut nod vary hand sid argu const 
+step involv nod test cas pred algebra express test nod nod ident precess nod can evalu 
+dat typ unsupport 
+syntax er occur posit %1!d! 
+op unsupport impl filt 
+tok encount unexpect 
+cannot perform en direct channel channel dis perform 
+channel property %1!s! invalid invalid typ valid rang can't upd not support typ channel 
+publ property %1!s! invalid invalid typ valid rang can't upd not support typ publ 
+channel fail act 
+xpa express excess support complex sympl split simpl express 
+mess pres mess not found string mess tabl 
+mess id desir mess not found 
+substitut string insert index (%1) not found 
+describ string paramet ref (%1) not found 
+maxim numb replac reach 
+ev definit not found ev id (%1). 
+loc spec desir mess not pres 
+compat 
+compat 
+channel index %1!d! query can't op 
+publ dis not avay occ publ process uninstal upgrad 
+cre num typ valid rang 
+subscrib fail act 
+log subscrib dis stat can not forward ev log en subscrib can act 
+forward ev loc machin query subscrib can't target log subscrib 
+cred stor sav cred ful 
+cred subscrib can't found cred stor 
+no act channel found query 
+load fail find mui fil 
+load fail load mui fil fil fail pass valid 
+rc manifest corrupt garb dat unsupport vert miss item 
+rc manifest invalid cult 
+rc manifest invalid ultimatefallback 
+load cach load mui entry 
+us stop enum 
+ui langu instal fail 
+loc instal fail 
+monit return ddc ci cap string not comply access bus 3 0 ddc ci 1 1 mccs 2 revid 1 spec 
+monitor's vcp vert 0xdf vcp cod return invalid vert 
+monit not comply mccs spec claim support 
+mccs vert monitor's mccs_ver cap not match mccs vert monit report vcp vert 0xdf vcp cod 
+monit config ap work monit support mccs 1 0 spec mccs 2 0 spec mccs 2 0 revid 1 spec 
+intern monit config ap er occur 
+monit return invalid monit technolog typ crt plasm lcd tft exampl monit technolog typ er imply monit viol mccs 2 0 mccs 2 0 revid 1 spec 
+cal setmonitorcolortemp col temp cur monit not support er imply monit viol mccs 2 0 mccs 2 0 revid 1 spec 
+system dev cannot ident due multipl indistinct dev pot match id criter 
+system dev cannot found 
+hash gen hash vert hash typ not en serv 
+hash serv not no long valid 
+catastroph fail 
+not impl 
+ran mem 
+argu invalid 
+no interfac support 
+invalid point 
+invalid handl 
+abort 
+unspec er 
+gen access deny er 
+not impl 
+ran mem 
+argu invalid 
+no interfac support 
+invalid point 
+invalid handl 
+abort 
+unspec er 
+gen access deny er 
+dat complet not 
+thread loc stor fail 
+shar mem alloc fail 
+mem alloc fail 
+un init class cach 
+un init rpc serv 
+cannot thread loc stor channel control 
+not alloc thread loc stor channel control 
+us supply mem alloc unacceiv 
+ol serv mutex ex 
+ol serv fil map ex 
+un map view fil ol serv 
+fail launch ol serv 
+cal coinit tim singl threaded 
+remot act not allow 
+remot act serv provid invalid 
+class config run sec id cal 
+ole1 serv dde window dis 
+runa spec domain >\< us simply us 
+serv process not start pathnam incorrect 
+serv process not start config id pathnam incorrect unavail 
+serv process not start config id incorrect check usernam password 
+cli not allow launch serv 
+serv provid serv not start 
+comput un commun comput provid serv 
+serv not respond launch 
+reg inform serv inconsist incomplet 
+reg inform interfac inconsist incomplet 
+not support 
+dll load 
+microsoft softw instal er encount 
+act not occ cli 
+act serv paus 
+act serv not paus 
+compon compon dis 
+common langu runtim not 
+thread pool reject submit asynchron work 
+serv start not fin init tim fash 
+un complet cal no sec insid iobjectcontrol act 
+provid track config invalid 
+provid thread pool config invalid 
+provid sid sid config invalid 
+serv princip spn obtain sec negoty malform 
+invalid oleverb structure 
+invalid adv flag 
+can't enum dat miss 
+impl adv 
+no connect connect id 
+run object 
+no cach op 
+uninit object 
+link object's sourc class chang 
+not monik object 
+not bind sourc 
+object stat not allow 
+us cancel sav dialog 
+invalid rectangl 
+compobs dll ole2 dll init 
+invalid handl 
+object not inplac act stat 
+not convert object 
+not object not stor 
+invalid formatetc structure 
+invalid dvtargetdevice structure 
+invalid stdgmedium structure 
+invalid statdat structure 
+invalid lindex 
+invalid tym 
+invalid clipboard form 
+invalid aspect s 
+tdsize paramet dvtargetdevice structure invalid 
+object support iviewobject interfac 
+revok drop target not reg 
+reg drop target 
+invalid handl 
+class not support aggreg class object remot 
+classfact cannot supply class 
+class not licens 
+er draw view 
+not read key reg 
+not writ key reg 
+not find key reg 
+invalid reg 
+class not reg 
+interfac not reg 
+threading model entry not valid 
+catid not ex 
+describ not found 
+no pack softw instal dat act direct meet criter 
+delet break ref integr softw instal dat act direct 
+clsid not found softw instal dat act direct 
+softw instal dat act direct corrupt 
+no softw instal dat act direct 
+no softw instal dat object act direct 
+softw instal dat object act direct ex 
+path softw instal dat act direct not correct 
+network er interrupt 
+siz object excess maxim siz admin 
+schema softw instal dat act direct not match schema 
+er occur softw instal dat act direct 
+cach not upd 
+no verb ol object 
+invalid verb ol object 
+undo not 
+spac tool not 
+olestream method fail 
+olestream put method fail 
+cont olestream not correct form 
+er window gdi cal convert bitmap dib 
+cont ist not correct form 
+cont ist miss standard streams 
+er window gdi cal convert dib bitmap 
+openclipboard fail 
+emptyclipboard fail 
+setclipboard fail 
+dat clipboard invalid 
+closeclipboard fail 
+monik connect man 
+excess deadlin 
+monik gen 
+unavail 
+invalid syntax 
+no object monik 
+bad extend fil 
+intermedy fail 
+monik not bind 
+monik not bound 
+monik cannot op fil 
+us input success 
+monik class no invers 
+monik not ref stor 
+no common prefix 
+monik not enum 
+coinit not cal 
+coinit cal 
+class object cannot determin 
+invalid class string 
+invalid interfac string 
+not found 
+cannot run 
+er program 
+dll class not found 
+er dll 
+wrong os os vert 
+object not reg 
+object reg 
+object not connect serv 
+launch reg class fact 
+object releas 
+ev invok not subscrib 
+ev un invok subscrib 
+ev del no subscrib 
+syntax er occur evalu query string 
+invalid field query string 
+unexpect exceiv rais 
+unexpect intern er detect 
+own sid us subscrib ex 
+us supply compon subscrib rais exceiv 
+interfac method fir ev 
+subscrib cannot stor ev class ex 
+not object remov 
+not instal 
+cannot mod delet object not ad admin sdk 
+cannot mod delet object ad admin sdk 
+ev class subscrib invalid partit 
+own perus subscrib not log system 
+singl phas man enl transact 
+retain commit abort not support 
+transact fail commit unknown reason transact abort 
+cannot cal commit transact object cal not in transact 
+commit heur abort 
+abort heur commit 
+stat commit abort heur decid 
+stat commit abort heur decid 
+isol level not valid support 
+transact man support asynchron method 
+un enl transact 
+sem ret isol retain commit abort bound cannot support transact impl isofl not eq 
+no pres enl 
+transact fail commit due fail optim concur control man 
+transact implicit explicit commit abort 
+invalid combin flag 
+man id not transact transact man 
+method cal wrong stat 
+unit work not match unit work expect man 
+enl transact ex 
+import object transact not found 
+transact cooky invalid 
+transact stat doubt commun fail occur transact man man fail 
+tim tim out not support 
+progress transact 
+transact abort 
+transact man return log ful er 
+transact man not 
+connect transact man lost 
+request est connect transact man deny 
+man reenl determin transact stat tim 
+transact man fail est connect tip transact man 
+transact man encount protocol er tip transact man 
+transact man not prop transact tip transact man 
+transact man destin machin not 
+transact man dis support tip 
+transact man dis support remot network transact 
+partn transact man dis support remot network transact 
+transact man dis support xa transact 
+msdtc un read config inform 
+msdtc un load dtc proxy dll 
+loc transact abort 
+msdtc transact man un push transact destin transact man due commun problem firewal pres exceiv msdtc process machin cannot find netbio nam support network transact not en transact man 
+msdtc transact man un pul transact sourc transact man due commun problem firewal pres exceiv msdtc process machin cannot find netbio nam support network transact not en transact man 
+msdtc transact man dis support sna lu 6 2 transact 
+xact_e_clerknotfound 
+xact_e_clerkexists 
+xact_e_recoveryinprogress 
+xact_e_transactionclosed 
+xact_e_invalidlsn 
+xact_e_replayrequest 
+request connect transact coordin deny 
+maxim numb enl transact reach 
+man sam ident reg transact coordin 
+prep request not elig singl phas optim 
+recoverycomplet cal man 
+interfac cal mad incorrect cur stat protocol 
+xa_open cal fail xa 
+xa_recover cal fail xa 
+log unit work cannot found 
+log unit work ex 
+subordin cre fail log unit work not connect 
+transact ident ex 
+ 
+lu recovery process 
+remot sess lost 
+recov 
+mismatch driv recovery 
+er occur xa 
+asynchron begun outcom not 
+xact_s_defect 
+method cal success transact read 
+transact success abort coordin transact numb enl resourc abort outright not support abort retain sem 
+no mad cal sink chant sink mak 
+sink cont wish transact process mad resourc cal 
+sink mom wish transact process mad return ev sink sink chant 
+transact success abort abort non retain 
+abort progress 
+man perform singl phas commit transact 
+loc transact not abort 
+man coordin man transact 
+root transact want commit transact abort 
+mad method cal compon transact abort process abort 
+no mts object 
+compon config synchron method cal deadlock occ 
+compon config synchron thread tim wait ent 
+mad method cal compon transact commit abort 
+rol not config 
+un talk microsoft distribut transact coordin 
+unexpect er occur act 
+act fail check ev log inform 
+act fail due catalog config er 
+act fail act not complet amount tim 
+act fail init funct fail check ev log inform 
+jit cur not 
+cur transact not 
+compon threading model chang instal instal compon 
+ii intrins not start work ii 
+writ cooky fail 
+databas gen databas spec er 
+compon cre object pool work 
+compon cre object construct work correct 
+compon synchron not config 
+txisol level property compon cre stronger txisolationlevel root compon transact cre fail 
+compon mak cross cal invoc entertransactionscopeand exittransactionscop not allow cross cal cannot mad insid transact scop 
+compon mad cal entertransactionscop not mak cal exittransactionscop return 
+reg databas provid inform 
+success stat 
+macintosh clipboard form 
+success drop plac 
+drag drop cancel 
+default curs 
+dat sam formatetc 
+view froz 
+formatetc not support 
+sam cach 
+cach s not upd 
+invalid verb ol object 
+verb numb valid verb cannot 
+invalid handl pass 
+mess long trunt display 
+un convert olestream ist 
+monik reduc 
+common prefix monik 
+common prefix input monik 
+common prefix monik 
+monik reg run object tabl 
+task ready run scheduled tim 
+task run 
+task not run scheduled tim dis 
+task not run 
+no run scheduled task 
+property nee run task schedule not 
+run task termin us 
+task no trig ex trig dis not 
+ev trig run tim 
+trig not found 
+property nee run task not 
+no run inst task 
+task scheduler serv not instal comput 
+task object not op 
+object invalid task object not task object 
+no account inform found task scheduler sec databas task 
+un est ex account 
+corrupt detect task scheduler sec databas databas reset 
+task scheduler sec serv window nt 
+task object vert unsupport invalid 
+task config unsupport combin account set run tim opt 
+task scheduler serv not run 
+task xml unexpect nod 
+task xml el attribut unexpect namespac 
+task xml incorrect format rang 
+task xml miss el attribut 
+task xml malform 
+task reg not trig start task 
+task reg fail start batch logon privileg en task princip 
+task xml nod sam typ 
+task cannot start trigger's end bound 
+inst task run 
+task not run us not log 
+task im corrupt tamp 
+task scheduler serv not 
+task scheduler serv busy handl request 
+task scheduler serv run task task not run due constraint task definit 
+task scheduler serv ask task run 
+task dis 
+task property not compat prevy vert window 
+task set not task start demand 
+cre class object fail 
+ol serv not bind object 
+rpc commun fail ol serv 
+bad path object 
+serv execut fail 
+ol serv not commun object serv 
+monik path not norm 
+object serv stop ol serv contact 
+invalid root block point 
+alloc chain contain invalid link point 
+alloc siz larg 
+not interfac 
+machin not found cach 
+act display pres clsid key 
+act runa act act 
+class not config support elev act 
+unknown interfac 
+memb not found 
+paramet not found 
+typ mismatch 
+unknown 
+no nam argu 
+bad vary typ 
+exceiv occur 
+pres rang 
+invalid index 
+unknown langu 
+mem lock 
+invalid numb paramet 
+paramet not opt 
+invalid cal 
+not support collect 
+divid 
+buff smal 
+buff smal 
+field not defin record 
+form invalid typ libr 
+form invalid typ libr 
+er access ol reg 
+libr not reg 
+bound unknown typ 
+qual disallow 
+invalid forward ref ref uncompil typ 
+typ mismatch 
+el not found 
+ambigu 
+ex libr 
+unknown lcid 
+funct not defin dll 
+wrong mod kind 
+siz not excess 64k 
+duply id inherit hierarchy 
+incorrect inherit dep standard ol hmemb 
+typ mismatch 
+invalid numb argu 
+i o er 
+er cre un tmp fil 
+er load typ libr dll 
+inconsist property funct 
+circul depend typ mod 
+un 
+%1 not found 
+path %1 not found 
+insufficy resourc op fil 
+access deny 
+invalid object 
+insufficy mem complet 
+invalid point er 
+no entry return 
+disk writ protect 
+er occur seek 
+disk er occur writ 
+disk er occur read 
+shar viol occur 
+lock viol occur 
+%1 ex 
+invalid paramet er 
+insufficy disk spac complet 
+illeg writ non simpl property simpl property 
+ap cal exit abnorm 
+fil %1 not valid compound fil 
+%1 not valid 
+unexpect er occur 
+funct not impl 
+invalid flag er 
+object busy 
+stor chang commit 
+object ceas ex 
+can't sav 
+compound fil %1 produc incompat vert stor 
+compound fil %1 produc new vert stor 
+shar ex equ 
+illeg cal non fil bas stor 
+illeg cal object ext marshal 
+docfil corrupt 
+ole32 dll load wrong address 
+compound fil larg cur impl 
+compound fil not cre stgm_simple flag 
+fil download abort abnorm fil incomplet 
+fil download termin 
+und fil convert compound fil form 
+stor block dat 
+stor retry immedy 
+not ev sink not influ stor 
+multipl op prev consolid commit success ). 
+consolid stor fil fail commit success ). 
+consolid stor fil inappropry commit success ). 
+gen cop protect er 
+cop protect er dvd css auth fail 
+cop protect er sect not valid css key 
+cop protect er dvd sess key not est 
+cop protect er read fail sect encrypt 
+cop protect er cur dvd's reg not correspond reg set driv 
+cop protect er drive's reg set perm numb us reset exhaust 
+cal reject cal 
+cal cancel mess filt 
+cal dispatch intertask sendmess cal cannot cal postmess 
+cal dispatch asynchron cal cannot mak outgo cal behalf cal 
+illeg cal insid mess filt 
+connect termin bog stat cannot connect valid 
+cal serv not serv ]) not disappear connect invalid cal execut 
+cal cli disappear cal serv process cal 
+dat packet marshal paramet dat incorrect 
+cal not transmit prop mess queu ful not empty yield 
+cli cal cannot marshal paramet dat low mem 
+cli cal cannot unmarshal return dat low mem 
+serv cal cannot marshal return dat low mem 
+serv cal cannot unmarshal paramet dat low mem 
+receiv dat invalid serv cli dat 
+paramet invalid cannot marshal 
+no outgo cal sam channel dde convers 
+cal serv not serv ]) not disappear connect invalid cal not execut 
+system cal fail 
+not alloc mem ev ...) 
+mak cal thread singl threaded mod 
+interfac not reg serv object 
+rpc not cal serv not return result cal serv 
+serv threw exceiv 
+cannot chang thread mod 
+method cal not ex serv 
+object invok disconnect cli 
+object invok chos not process cal 
+mess filt busy 
+mess filt reject cal 
+cal control interfac cal invalid dat 
+outgo cal cannot mad dispatch input synchron cal 
+cal interfac marshal thread 
+coinit not cal cur thread 
+vert ol cli serv machin not match 
+ol receiv packet invalid head 
+ol receiv packet invalid extend 
+object interfac not ex 
+object not ex 
+ol request wait reply 
+ol wait retry request 
+cal cannot access cal complet 
+imperson unsec cal not support 
+sec init interfac marshal unmarshal cannot chang init 
+no sec pack instal machin us not log no compat sec pack cli serv 
+access deny 
+remot cal not allow process 
+marsh interfac dat packet objref invalid unknown form 
+no cal custom marshal cal cli sid cal 
+return timeout period expir 
+no synchron object wait 
+ful subject issu chain ssl princip expect serv 
+princip not valid msstd 
+un imperson dcom cli 
+un obtain server's sec 
+un op access tok cur thread 
+un obtain us info access tok 
+cli cal iaccesscontrol :: isaccesspermit not trust provid method 
+un obtain client's sec blanket 
+un discret ac sec describ 
+system funct accesscheck return fals 
+netaccessdel netaccessad return er cod 
+trust strings provid us not conform domain >\< syntax not "*" string 
+sec ident provid us invalid 
+un convert wid charact trust string multibyt trust string 
+un find sec ident correspond trust string provid us 
+system funct lookupaccountsid fail 
+un find trust correspond sec ident provid us 
+system funct lookupaccountnam fail 
+un reset ser handl 
+un obtain window direct 
+path long 
+un gen uuid 
+un cre fil 
+un clos ser handl fil handl 
+numb ac ac excess system limit 
+not deny_access ac arrang front grant_access ac stream 
+vert ac form stream not support impl iaccesscontrol 
+un op access tok serv process 
+un decod ac stream provid us 
+iaccesscontrol object not init 
+cal cancel dis 
+intern er occur 
+ev not audit 
+sid filt remov sid 
+busy rul scripts dis cal 
+bad uid 
+bad hash 
+bad key 
+bad leng 
+bad dat 
+invalid sign 
+bad vert provid 
+invalid algorithm 
+invalid flag 
+invalid typ 
+key not valid stat 
+hash not valid stat 
+key not ex 
+insufficy mem 
+object ex 
+access deny 
+object not found 
+dat encrypt 
+invalid provid 
+invalid provid typ 
+provider's publ key invalid 
+keyset not ex 
+provid typ not defin 
+provid typ reg invalid 
+keyset not defin 
+keyset reg invalid 
+provid typ not match reg 
+digit sign fil corrupt 
+provid dll fail init correct 
+provid dll not found 
+keyset paramet invalid 
+intern er occur 
+bas er occur 
+provid not act acquir sil 
+sec tok not stor spac addit contain 
+profil us temp profil 
+key paramet not csp fix paramet 
+supply handl invalid 
+paramet incorrect 
+buff supply funct smal 
+not support 
+no dat 
+supply buff overlap incorrect 
+dat not decrypt 
+intern consist check fail 
+input us 
+cryptograph provid not support hmac 
+not mem complet request 
+handl invalid 
+funct not support 
+target unknown unreach 
+loc sec auth cannot contact 
+sec pack not ex 
+cal not own desir cred 
+sec pack fail init cannot instal 
+tok supply funct invalid 
+sec pack not marshal logon buff logon fail 
+mess qual protect not support sec pack 
+sec not imperson cli 
+logon fail 
+cred supply pack not recogn 
+no cred sec pack 
+mess sign supply ver alt 
+mess supply ver sequ 
+no auth contact auth 
+funct complet success cal complet 
+funct complet success completetok cal 
+funct complet success completetok funct cal complet 
+logon complet no network auth logon mad loc inform 
+sec pack not ex 
+expir can no long 
+expir can no long 
+supply mess incomplet sign not ver 
+cred supply not complet not ver not init 
+buff supply funct smal 
+cred supply not complet not ver addit inform can return 
+dat renegoty peer 
+target princip incorrect 
+no lsa mod 
+clock cli serv machin skew 
+cert chain issu auth not trust 
+mess receiv unexpect bad format 
+unknown er occur process cert 
+receiv cert expir 
+dat not encrypt 
+dat not decrypt 
+cli serv cannot commun not possess common algorithm 
+sec not est due fail qual serv e.g. mut auth deleg ). 
+sec delet complet consid logon fail 
+cli negoty serv us us send tgt reply 
+un accompl task loc machin not ip address 
+supply cred handl not match cred sec 
+crypto system checks funct invalid funct unavail 
+numb maxim ticket refer excess 
+loc machin kerbero kdc domain control not 
+end sec negoty strong crypto not support loc machin 
+kdc reply contain princip 
+expect find pa dat hint etyp not found 
+cli cert not valid upn not match cli logon request contact admin 
+smartcard logon not 
+system shutdown progress 
+invalid request kdc 
+kdc un gen refer serv 
+encrypt typ not support kdc 
+unsupport preauth mech pres kerbero pack 
+cannot complet comput trust deleg cur us account config deleg 
+client's supply sspi channel bind incorrect 
+receiv cert map multipl account 
+sec_e_no_kerb_key 
+cert not valid us 
+system detect comprom sec ens can contact serv auth 
+smartcard cert auth revok contact system admin addit inform ev log 
+untrust cert auth detect process smartcard cert auth contact system admin 
+revoc stat smartcard cert auth not determin contact system admin 
+smartcard cert auth not trust contact system admin 
+smartcard cert auth expir contact system admin 
+kerbero subsystem encount er serv us protocol request mad domain control not support serv us 
+mad serv mak kerbero constrain deleg request target server's realm not support misconfig server's allow deleg list contact admin 
+revoc stat domain control cert smartcard auth not determin addit inform system ev log contact system admin 
+untrust cert auth detect process domain control cert auth addit inform system ev log contact system admin 
+domain control cert smartcard logon expir contact system admin cont system ev log 
+domain control cert smartcard logon revok contact system admin cont system ev log 
+sign perform us can auth 
+paramet pass funct invalid 
+cli policy not cred deleg target serv 
+cli policy not cred deleg target serv nltm auth 
+recipy reject renegoty request 
+sec not ex 
+pku2u protocol encount er util cert 
+id serv comput not ver 
+er occur perform cryptograph mess 
+unknown cryptograph algorithm 
+object ident poor format 
+invalid cryptograph mess typ 
+unexpect cryptograph mess encod 
+cryptograph mess not expect auth attribut 
+hash not correct 
+index not valid 
+cont cryptograph mess decrypt 
+cont cryptograph mess not decrypt 
+envelop dat mess not recipy 
+invalid control typ 
+invalid issu ser numb 
+cannot find origin sign 
+cryptograph mess not attribut 
+streamed cryptograph mess not ready return dat 
+streamed cryptograph mess dat complet decod 
+protect dat protect 
+leng output dat insufficy 
+er occur encod decod 
+er occur read writ fil 
+cannot find object property 
+object property ex 
+no provid stor object 
+cert sign 
+prevy cert crl delet 
+cannot find object 
+cert not property ref priv key 
+cannot find cert priv key decrypt 
+cannot find cert priv key decrypt 
+not cryptograph mess cryptograph mess not format correct 
+sign cryptograph mess not sign sign index 
+fin clos pend addit fre clos 
+cert revok 
+no dll export funct found ver revoc 
+revoc funct un check revoc cert 
+revoc funct un check revoc revoc serv offlin 
+cert not revoc server's databas 
+string non num charact 
+string non print charact 
+string charact not 7 bit asci charact 
+string invalid x500 attribut key oid delimit 
+dwvaluetype cert_name_value not charact strings cert_rdn_encoded_blob cert_tdn_octed_string 
+put cannot continu fil res sign pres complet sign 
+cryptograph fail due loc sec opt set 
+no dll export funct found ver subject us 
+cal funct un us check subject 
+serv offlin cal funct un complet us check 
+subject not found cert trust list ctl ). 
+non sign cryptograph mess cert trust list trust 
+publ key's algorithm paramet miss 
+oss cert encod decod er cod bas 
+oss asn 1 er output buff smal 
+oss asn 1 er sign integ encod unsign integ 
+oss asn 1 er unknown asn 1 dat typ 
+oss asn 1 er output buff smal decod dat trunt 
+oss asn 1 er invalid dat 
+oss asn 1 er invalid argu 
+oss asn 1 er encod decod vert mismatch 
+oss asn 1 er mem 
+oss asn 1 er encod decod er 
+oss asn 1 er intern er 
+oss asn 1 er invalid dat 
+oss asn 1 er invalid dat 
+oss asn 1 er unsupport ber indefinit leng encod 
+oss asn 1 er access viol 
+oss asn 1 er invalid dat 
+oss asn 1 er invalid dat 
+oss asn 1 er invalid dat 
+oss asn 1 er intern er 
+oss asn 1 er mult threading conflict 
+oss asn 1 er invalid dat 
+oss asn 1 er invalid dat 
+oss asn 1 er invalid dat 
+oss asn 1 er encod decod funct not impl 
+oss asn 1 er trac fil er 
+oss asn 1 er funct not impl 
+oss asn 1 er program link er 
+oss asn 1 er trac fil er 
+oss asn 1 er trac fil er 
+oss asn 1 er invalid dat 
+oss asn 1 er invalid dat 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er program link er 
+oss asn 1 er system er 
+oss asn 1 er trac fil er 
+asn1 cert encod decod er cod bas asn1 er valu offset crypt_e_asn1_error 
+asn1 intern encod decod er 
+asn1 unexpect end dat 
+asn1 corrupt dat 
+asn1 larg 
+asn1 constraint viol 
+asn1 mem 
+asn1 buff overflow 
+asn1 funct not support pdu 
+asn1 bad argu funct cal 
+asn1 bad real 
+asn1 bad tag met 
+asn1 bad cho 
+asn1 bad encod rul 
+asn1 bad unicod utf8 ). 
+asn1 bad pdu typ 
+asn1 not impl 
+asn1 skip unknown extend s ). 
+asn1 end dat expect 
+request subject invalid long 
+request not ex 
+request's cur stat not 
+property empty 
+cert authority's cert invalid dat 
+cert serv suspend databas rest 
+cert encod leng pot incompat old enrol softw 
+deny us multipl rol assign cert auth config enforc rol sep 
+deny can perform cert man allow man cert cur request 
+cannot arch priv key cert auth not config key arch 
+cannot arch priv key cert auth not ver key recovery cert 
+request incorrect format encrypt priv key unauth attribut outermost sign 
+sec princip permit man ca 
+request invalid renew cert attribut 
+mad op cert auth databas sess act sess serv config addit sess 
+mem ref caus dat align fault 
+permit cert auth not cur us enrol cert 
+permit cert templ not cur us enrol typ cert 
+contact domain control cannot support sign ldap traff upd domain control config cert serv ssl act direct access 
+request deny cert man ca admin 
+enrol policy serv cannot loc 
+cert templ not support ca 
+request no cert templ inform 
+request conflict templ inform 
+request miss subject altern extend 
+request miss priv key arch serv 
+request miss smim cap extend 
+request mad behalf subject cal cert templ config sign auth request 
+request templ vert new support templ vert 
+templ miss sign policy attribut 
+request miss sign policy inform 
+request miss sign 
+sign not includ issu policy request miss valid sign 
+request miss sign issu policy 
+upn unavail cannot ad subject altern 
+act direct guid unavail cannot ad subject altern 
+dns unavail cannot ad subject altern 
+request includ priv key arch serv key arch not en cert templ 
+publ key not meet minim siz cert templ 
+email unavail cannot ad subject subject altern 
+cert templ en cert auth not found 
+cert templ renew period long cert valid period templ reconfig ca cert renew 
+cert templ ra sign ra sign allow 
+key not export 
+cannot ad root ca cert loc stor 
+key arch hash attribut not found respons 
+unexpect key arch hash attribut found respons 
+key arch hash mismatch request respons 
+sign cert cannot includ smim extend 
+system level er occur ver trust 
+cert sign mess invalid not found 
+count sign invalid 
+sign cert cannot ver 
+timestamp sign cert not ver malform 
+digit sign object not ver 
+certificate's bas constraint extend not observ 
+cert not meet authenticod tm fin extend 
+ref part fil prop rang 
+not retriev object fil 
+not find head tabl fil 
+mag numb head tabl incorrect 
+offset tabl incorrect valu 
+duply tabl tag tag alphabet ord 
+tabl not start long word bound 
+tabl not head inform 
+tabl overlap 
+pad byt tabl pad byt not 0 
+fil smal tabl 
+tabl checks incorrect 
+fil checks incorrect 
+sign not correct attribut policy 
+fil not pass hint check 
+fil not opentyp fil 
+fail fil op map read writ ). 
+cal cryptoap funct fail 
+bad vert numb fil 
+structure dsig tabl incorrect 
+check fail part const tabl 
+kind structural er 
+cred confirm 
+unknown trust provid 
+trust ver act not support trust provid 
+form subject not support trust provid 
+subject not trust act 
+er due problem asn 1 encod process 
+er due problem asn 1 decod process 
+read writ extend attribut vis vers 
+unspec cryptograph fail 
+siz dat not determin 
+siz indefinit siz dat not determin 
+object not read writ siz dat 
+no sign pres subject 
+cert not valid period ver cur system clock timestamp sign fil 
+valid period cert chain not nest correct 
+cert can end ent ca vis vers 
+path leng constraint cert chain viol 
+cert unknown extend mark 'critical' 
+cert purpos ca 
+par cert fact not issu child cert 
+cert miss empty import field subject issu 
+cert chain process termin root cert not trust trust provid 
+cert chain not built trust root auth 
+gen trust fail 
+cert explicit revok issu 
+cert path termin test root not trust cur policy set 
+revoc process not continu cert s not check 
+certificate's cn not match pass 
+cert not valid us 
+cert explicit mark untrust us 
+cert chain process correct ca cert not trust policy provid 
+cert invalid policy 
+cert invalid not includ permit list explicit exclud 
+non empty lin encount inf start sect 
+sect mark inf not complet not ex lin 
+inf sect encount excess maxim sect leng 
+syntax inf invalid 
+styl inf 
+sect not found inf 
+lin not found inf 
+fil affect instal fil queu not back uninstal 
+inf dev inform el not instal class 
+inf dev inform el not match instal class 
+ex dev found duply dev man instal 
+no driv select dev inform el 
+dev reg key not ex 
+dev inst invalid 
+instal class not pres invalid 
+dev inst cannot cre ex 
+cannot perform dev inform el not reg 
+dev property cod invalid 
+inf driv list built not ex 
+dev inst not ex hardw tre 
+icon repres instal class cannot load 
+class instal reg entry invalid 
+class instal default act perform instal request 
+not fil cop 
+hardw profil not ex 
+no dev inform el select dev inform 
+cannot perform dev inform lock 
+cannot perform dev inform el lock 
+path not appl dev inf 
+no class instal paramet dev inform el 
+cannot perform fil queu lock 
+serv instal sect inf invalid 
+no class driv list dev inform el 
+instal fail funct driv not dev inst 
+pres no default dev interfac design interfac class 
+cannot perform dev interfac act 
+cannot perform dev interfac remov system 
+interfac instal sect inf invalid 
+interfac class not ex system 
+ref string supply interfac dev invalid 
+machin not conform unt nam conv 
+gen remot commun er occur 
+machin select remot commun not tim 
+plug play serv not remot machin 
+property pag provid reg entry invalid 
+dev interfac not pres system 
+device's instal addit work instal complet 
+device's instal invalid 
+no compat driv dev 
+no icon repres dev dev typ 
+log config inf invalid 
+class instal deny request instal upgrad dev 
+filt driv instal dev invalid 
+driv select dev not support vert window 
+driv select dev not support window 
+party inf not digit sign inform 
+invalid mad dev instal fil queu ver digit sign rel platform 
+dev cannot dis 
+dev not dynam remov 
+cannot cop target 
+driv not intend platform 
+not allow wow64 
+involv unsign fil cop rol back system rest point 
+inf cop window inf direct improp man 
+sec config edit sce ap dis embed produc 
+unknown exceiv encount 
+problem encount access plug play reg databas 
+not support remot machin 
+fil not instal oem inf 
+dev pres instal inf 
+dev instal obsolet 
+fil not ver not catalog sign authenticod tm ). 
+authenticod tm sign ver not support inf 
+inf sign authenticod tm catalog trust publ 
+publ authenticod tm sign catalog not est trust 
+publ authenticod tm sign catalog not est trust 
+softw test comply window logo vert window not compat vert 
+fil valid catalog sign authenticod tm ). 
+instal dev cannot instal tim 
+problem encount ad driv stor 
+instal dev forbid system policy contact system admin 
+instal driv forbid system policy contact system admin 
+inf wrong typ 
+hash fil not pres catalog fil fil corrupt victim tamp 
+problem encount delet driv stor 
+unrecov stack overflow encount 
+no instal compon detect 
+intern consist check fail 
+act cancel scardcancel request 
+supply handl invalid 
+supply paramet not prop interpret 
+reg startup inform miss invalid 
+not mem complet command 
+intern consist tim expir 
+dat buff receiv return dat smal return dat 
+read not recogn 
+us timeout expir 
+smart card cannot access connect outstand 
+smart card no smart card dev 
+smart card not recogn 
+system not dispos med man 
+protocol incompat protocol smart card 
+read smart card not ready acceiv command 
+supply paramet valu not prop interpret 
+act cancel system log shut 
+intern commun er detect 
+intern er detect sourc unknown 
+at obtain reg not valid at string 
+mad end non ex transact 
+read not 
+abort serv exit 
+pci receiv buff smal 
+read driv not meet minim support 
+read driv not produc un read 
+smart card not meet minim support 
+smart card man not run 
+smart card man shut 
+unexpect card er occur 
+no prim provid can found smart card 
+ord object cre not support 
+smart card not support feat 
+ident direct not ex smart card 
+ident fil not ex smart card 
+supply path not repres smart card direct 
+supply path not repres smart card fil 
+access deny fil 
+smartcard not mem stor inform 
+er smart card fil object point 
+supply pin incorrect 
+unrecogn er cod return lay compon 
+cert not ex 
+cert not obtain 
+cannot find smart card read 
+commun er smart card detect retry 
+key contain not ex smart card 
+smart card man busy complet 
+smart card pin cach expir 
+smart card pin cannot cach 
+smart card read cannot writ 
+read cannot commun smart card due at config conflict 
+smart card not respond reset 
+pow remov smart card commun not 
+smart card reset shar stat inform invalid 
+smart card remov commun not 
+access deny sec viol 
+card cannot access wrong pin pres 
+card cannot access maxim numb pin entry reach 
+end smart card fil reach 
+act cancel us 
+no pin pres smart card 
+item not found cach 
+cach item delet cach 
+cach item excess maxim item siz defin cach 
+er occur access object errorinfo collect detail 
+object's property miss invalid 
+object not found catalog 
+object reg 
+er occur writ fil 
+er occur read fil 
+invalid vert numb fil 
+fil path invalid 
+instal 
+rol ex 
+er occur cop fil 
+us not valid 
+us fil not valid 
+component's clsid miss corrupt 
+component's progid miss corrupt 
+un auth level upd request 
+id password not valid 
+fil clsids iid not match dlls 
+interfac inform miss chang 
+dllregisterserver fail compon instal 
+no serv fil shar 
+dll not load 
+reg typelib id not valid 
+instal direct not found 
+er occur compon registr 
+fil not ex 
+dll not load 
+getclassobject fail dll 
+dll not support compon list typelib 
+typelib not load 
+fil not compon compon inform 
+object object dis 
+delet funct dis object 
+serv catalog vert not support 
+compon mov disallow sourc destin system lock 
+compon mov fail destin no long ex 
+system un reg typelib 
+cannot perform system 
+compon registr ref fil not 
+compon sam dll instal 
+serv not instal 
+property set invalid conflict 
+object ad renam ex 
+compon ex 
+reg fil corrupt 
+property larg 
+object not found reg 
+object not pool 
+clsid sam guid id instal machin 
+rol assign compon interfac method not ex 
+compon ord start 
+not en platform 
+proxy not export 
+fail start libr proxy 
+system not export 
+cannot subscrib compon compon import 
+ev class cannot subscrib compon 
+libr apply proxy incompat 
+funct valid bas partit 
+cannot start dis 
+partit comput 
+partit invalid check vis charact 
+partit cannot delet default partit us 
+partit cannot export compon partit sam fil 
+apply import compon cannot instal non bas partit 
+not un cannot resolv id 
+partit not un cannot resolv partit id 
+reg databas not init 
+reg databas not op 
+reg databas detect system er 
+reg databas run 
+vert reg databas cannot migr 
+schema vert migr not found reg databas 
+typ mismatch bin 
+bin unknown invalid typ provid 
+typ mismatch bin 
+cannot paus resum 
+catalog serv threw exceiv execut 
+apply mark queu can invok queu monik 
+interfac mark queu ord cre queu compon inst queu monik 
+msmq not instal 
+un marsh interfac not support ipersiststream 
+mess improp format dam transit 
+unauth mess receiv acceiv auth mess 
+mess requeu mov us not qc trust us rol 
+cannot cre duply typ distribut transact coordin 
+object insert upd not belong valid par collect 
+object cannot found 
+not run 
+partit s not valid 
+apply run nt serv not pool recyc 
+us assign loc partit 
+libr apply not recyc 
+apply run nt serv not recyc 
+process recyc 
+paus process not recyc 
+libr apply not nt serv 
+progid provid cop invalid progid reg clsid 
+partit default not memb partit 
+recyc process not paus 
+access partit deny 
+fil (*. msi fil can instal partit 
+apply leg compon not export 1 0 form 
+leg compon not ex non bas partit 
+compon cannot mov cop system proxy non chang 
+compon cannot mov cop system proxy non chang 
+priv compon cannot mov cop libr bas partit 
+bas partit ex partit set cannot remov 
+ala ev class compon cannot alias 
+access deny compon priv 
+saf level invalid 
+us cannot writ system reg 
+partit dis 
+io complet filt 
+handl not defin filt 
+defin object 
+asynchron request not valid 
+disallow fast io path 
+invalid request mad cannot retriev tim 
+post work thread process not saf tim lead system deadlock 
+filt man not init filt reg mak filt man load driv 
+filt not ready attach volum not fin init fltstartfiltering not cal ). 
+filt cleanup spec tim remov system complet low driv 
+filt man intern er cannot recov fail result filt return invalid pre callback 
+object act process delet act cannot complet tim 
+non pag pool typ 
+duply handl definit provid 
+callback dat queu dis 
+not attach filt volum tim 
+not detach filt volum tim 
+inst ex altitud volum 
+inst ex volum 
+system not find filt 
+system not find volum 
+system not find inst 
+no reg alloc definit found request 
+invalid paramet reg 
+not found filt manager's cach not retriev fil system 
+dev object not ex volum 
+volum mount 
+transact enl transact 
+specifiec attach object 
+no wait pres filter's reply mess 
+display driv stop respond 
+desktop composit dis 
+desktop composit ap not support remot 
+no dwm redirect surfac 
+dwm not queu pres 
+adapt luid not found 
+gdi redirect surfac return 
+monit describ not obtain 
+form obtain monit describ not support releas 
+checks obtain monit describ invalid 
+monit describ invalid standard tim block 
+wmi dat block reg fail msmonitorclass wmi subclass 
+provid monit describ block corrupt not monitor's detail ser numb 
+provid monit describ block corrupt not monitor's us friend 
+no monit describ dat offset siz reg 
+monit describ invalid detail tim block 
+monit describ invalid manufact dat 
+exclud mod own nee cre unm prim alloc 
+driv dma buff spac ord complet 
+display adapt handl invalid 
+display adapt stat reset 
+driv stack match expect driv model 
+pres hap end chang desktop mod 
+noth pres due desktop occlud 
+not pres due den desktop access 
+not pres col convert 
+kernel driv detect vert mismatch us mod driv 
+buff not big entir dataset part dat pop siz buff cal provid buff siz part pop buffer's cont interfac spec ). 
+pres redirect dis desktop window man subsystem ). 
+prevy exclud vidpn sourc own releas own 
+not video mem complet 
+prob lock und mem alloc 
+alloc busy 
+object ref reach maxim ref count can't ref 
+problem solv due ex condit problem 
+problem solv due ex condit problem immedy 
+alloc invalid 
+no unswizzl apert 
+cur alloc can't unswizzl apert 
+request fail pin alloc can't evict 
+alloc can't 's cur seg loc 
+lock alloc can't cur command buff 
+alloc ref clos perm 
+invalid alloc inst ref 
+invalid alloc handl ref 
+alloc ref belong cur dev 
+alloc lost cont 
+gpu exceiv detect dev dev not scheduled 
+vidpn topolog invalid 
+vidpn topolog valid not support model display adapt 
+vidpn topolog valid not support display adapt tim due cur alloc resourc 
+vidpn handl invalid 
+video pres sourc invalid 
+video pres target invalid 
+vidpn mod not support e.g. pin mod not cofunct ). 
+no mod pin vidpn sourc target 
+vidpn sourc mod invalid 
+vidpn target mod invalid 
+video sign frequ invalid 
+video sign act reg invalid 
+video sign tot reg invalid 
+video pres sourc mod invalid 
+video pres target mod invalid 
+pin mod remain vidpn's cofunct mod enum 
+video pres path vidpn's topolog 
+mod mod 
+video pres sourc invalid 
+video pres target invalid 
+video pres sourc video pres sourc 
+video pres target video pres target 
+vidpn pres path invalid 
+miniport no recommend aug vidpn's topolog 
+monit frequ rang invalid 
+monit frequ rang invalid 
+frequ rang not monit frequ rang 
+mod not pref mod 
+frequ rang monit frequ rang 
+mod stal reacquir mod 
+monit sourc mod invalid 
+monit sourc mod invalid 
+miniport not recommend request provid funct vidpn cur display adapt config 
+id mod mod 
+system fail determin mod support display adapt monit connect 
+numb video pres target gre eq numb video pres sourc 
+pres path not vidpn's topolog 
+display adapt video pres sourc 
+display adapt video pres target 
+monit describ invalid 
+monit describ invalid 
+describ not monit describ 
+describ monit describ 
+id monit describ describ 
+video pres target subset typ invalid 
+resourc not rel defin interfac sem 
+id video pres sourc sourc 
+id video pres target target 
+vidpn sourc cannot no vidpn target connect 
+new ar monit not display adapt 
+display adapt quest not vidpn man 
+vidpn man display adapt quest not act vidpn 
+vidpn topolog stal reacquir topolog 
+no monit connect video pres target 
+sourc not part vidpn's topolog 
+prim surfac siz invalid 
+vis reg siz invalid 
+stride invalid 
+pixel form invalid 
+col bas invalid 
+pixel access mod invalid 
+target not part vidpn's topolog 
+fail acquir display mod man interfac 
+vidpn sourc own dmm cli cannot cli releas 
+vidpn act cannot access 
+vidpn pres path import ordin invalid 
+vidpn pres path cont geometry transform invalid 
+cont geometry transform not support respect vidpn pres path 
+gamm ramp invalid 
+gamm ramp not support respect vidpn pres path 
+mult sampl not support respect vidpn pres path 
+mod not mod 
+dat e.g. mod frequ rang describ topolog .) empty 
+dat e.g. mod frequ rang describ topolog .) not el 
+vidpn topolog recommend reason invalid 
+vidpn pres path cont typ invalid 
+vidpn pres path cop protect typ invalid 
+no unassign mod can ex tim vidpn sourc target 
+cont transform not pin vidpn pres path 
+scanlin ord typ invalid 
+topolog not allow vidpn 
+import ordin topolog 
+prim surfac priv form attribut cur prim surfac 
+mod prun algorithm invalid 
+monit cap origin invalid 
+monit frequ rang constraint invalid 
+maxim support numb pres path reach 
+miniport aug cancel sourc vidpn's topolog 
+cli typ not recogn 
+cli vidpn not adapt e.g. no us mod in mod plac adapt ). 
+display adapt child dev extern dev connect 
+display adapt child dev not support describ expos 
+child dev pres not rely detect 
+display adapt not link adapt 
+lead adapt link config not enum 
+chain adapt link config not enum 
+chain link adapt not ready start unknown fail 
+mad start lead link display adapt chain link not start 
+mad pow lead link display adapt chain link pow 
+adapt link found inconsist stat not adapt expect pnp pow stat 
+start leadlink adapt defer temp 
+driv start not sam driv post display adapt 
+display adapt pol childr frequ sam pol level 
+start adapt defer temp 
+display adapt quiesc stat 
+driv not support opm 
+driv not support cop 
+driv not support uab 
+encrypt paramet invalid 
+gdi display dev pass funct not act video output 
+intern er caus fail 
+funct fail cal pass invalid opm us mod handl 
+cert not return cert buff pass funct smal 
+video output not cre fram buff span mod 
+video output not cre fram buff the mod 
+funct fail display adapter's hardw funct scan fail valid graph hardw 
+hdcp system renew mess pass funct not comply sect 5 hdcp 1 1 spec 
+video output cannot en high bandwid digit cont protect hdcp system not support hdcp 
+video output cannot en analog cop protect acp not support acp 
+video output cannot en cont gen man system analog cgms protect technolog not support cgms 
+iopmvideooutput :: getinform method cannot return vert srm success pass srm video output 
+iopmvideooutput :: config method cannot en output protect technolog output's screen resolv high 
+iopmvideooutput :: config method cannot en hdcp display adapter's hdcp hardw phys output 
+op system asynchron destroy opm video output op system's stat chang er typ occ monit pdo video output remov monit pdo video output stop video output's sess non consol sess video output's desktop inact desktop 
+method fail sess chang typ no iopmvideooutput method can cal sess chang typ typ sess consol disconnect remot 
+iopmvideooutput :: coppcompatiblegetinform iopmvideooutput :: getinform iopmvideooutput :: config method fail er return cal cop spec command video output opm sem 
+iopmvideooutput :: getinform iopmvideooutput :: coppcompatiblegetinform method return er pass sequ numb not expect sequ numb pass omac invalid 
+method fail unexpect er occur insid display driv 
+iopmvideooutput :: coppcompatiblegetinform iopmvideooutput :: getinform iopmvideooutput :: config method fail er return cal opm spec command video output cop sem 
+iopmvideooutput :: coppcompatiblegetinform iopmvideooutput :: config method fail display driv not support opm_get_acp_and_cgmsa_signaling opm_set_acp_and_cgmsa_signaling guid 
+iopmvideooutput :: config funct return er cod pass sequ numb not expect sequ numb pass omac invalid 
+monit connect video output not i2c bus 
+no dev i2c bus address 
+er occur transmit dat dev i2c bus 
+er occur receiv dat dev i2c bus 
+monit not support vcp cod 
+dat receiv monit invalid 
+funct fail monit return invalid tim stat byt op system ddc ci tim report tim mess command tim report monit 
+monit return ddc ci cap string not comply access bus 3 0 ddc ci 1 1 mccs 2 revid 1 spec 
+intern monit config ap er occ 
+fail ddc ci mess invalid command field 
+er occur field leng ddc ci mess contain invalid 
+er occur checks field ddc ci mess not match message's comput checks er imply dat corrupt transmit monit comput 
+funct fail invalid monit handl pass 
+op system asynchron destroy monit correspond handl op system's stat chang er typ occ monit pdo handl remov monit pdo handl stop display mod chang occur display mod chang occ window send wm_displaychange window mess apply 
+continu vcp code's cur gre maxim er cod monit return invalid 
+monitor's vcp vert 0xdf vcp cod return invalid vert 
+monit not comply mccs spec claim support 
+mccs vert monitor's mccs_ver cap not match mccs vert monit report vcp vert 0xdf vcp cod 
+monit config ap work monit support mccs 1 0 spec mccs 2 0 spec mccs 2 0 revid 1 spec 
+monit return invalid monit technolog typ crt plasm lcd tft exampl monit technolog typ er imply monit viol mccs 2 0 mccs 2 0 revid 1 spec 
+setmonitorcolortemp 's cal pass col temp cur monit not support er imply monit viol mccs 2 0 mccs 2 0 revid 1 spec 
+funct can program run loc consol sess cannot program run remot desktop sess termin serv sess 
+funct cannot find act gdi display dev correspond gdi display dev 
+funct fail gdi display dev not attach window desktop 
+funct not support gdi mir display dev gdi mir display dev not phys monit 
+funct fail invalid point paramet pass point paramet invalid nul point invalid address point kernel mod address not correct align 
+funct fail gdi dev not monit 
+array pass funct cannot hold dat funct cop array 
+intern er caus fail 
+funct fail cur sess chang typ funct cannot cal cur sess chang typ typ sess consol disconnect remot 
+er mask convert tpm hardw er win er 
+auth fail 
+index pcr dir reg incorrect 
+paramet bad 
+complet success audit fail 
+clear dis flag clear op phys access 
+act trust platform mod tpm ). 
+en trust platform mod tpm ). 
+target command dis 
+fail 
+ordin unknown inconsist 
+abl instal own dis 
+key handl cannot interpret 
+key handl point invalid key 
+unacceiv encrypt scheme 
+migr auth fail 
+pcr inform not interpret 
+no room load key 
+no stor root key srk 
+encrypt blob invalid not cre tpm 
+trust platform mod tpm own 
+tpm insufficy intern resourc act 
+random string short 
+tpm not spac 
+nam pcr not match cur pcr 
+params argu command incorrect 
+no ex sha 1 thread 
+calc un process ex sha 1 thread encount er 
+tpm hardw dev report fail intern test restart comput resolv problem problem continu replac tpm hardw motherboard 
+auth key 2 key funct fail auth 
+tag command invalid 
+io er occur transmit inform tpm 
+encrypt process problem 
+decrypt process not complet 
+invalid handl 
+tpm not endors key ek instal 
+us key not allow 
+submit ent typ not allow 
+command receiv wrong sequ rel tpm_init subsequ tpm_startup 
+sign dat cannot includ addit der inform 
+key property tpm_key_parms not support tpm 
+migr property key incorrect 
+sign encrypt scheme key incorrect not permit situ 
+siz dat blob paramet bad inconsist ref key 
+mod paramet bad capare subcapare tpm_getcapability phsicalpresence paramet tpm_physicalpresence migrationtyp tpm_createmigrationblob 
+physicalpres physicalpresencelock bit wrong 
+tpm cannot vert cap 
+tpm not wrap transport sess 
+tpm audit construct fail und command return fail cod 
+tpm audit construct fail und command return success 
+reset pcr reg not reset attribut 
+reset pcr reg loc loc mod not part command transport 
+mak id blob not prop typ 
+sav ident typ not match act 
+tpm execut command fip mod 
+command invalid famy id 
+permit manip nv stor not 
+sign command 
+wrong load nv key 
+nv_loadkey blob own blob auth 
+nv are lock not writ 
+loc incorrect 
+nv are read can't writ 
+no protect writ nv are 
+famy count not match 
+nv are writ 
+nv are attribut conflict 
+structure tag vert invalid inconsist 
+key control tpm own can evict tpm own 
+count handl incorrect 
+writ not complet writ are 
+gap sav count larg 
+maxim numb nv writ own excess 
+no op authdat 
+point not load 
+deleg admin lock 
+man famy deleg famy 
+deleg tabl man not en 
+command execut exclud transport sess 
+sav own evict control key 
+daa command no resourc availbl execut command 
+consist check daa paramet inputdata0 fail 
+consist check daa paramet inputdata1 fail 
+consist check daa_issuersettings fail 
+consist check daa_tpmspecific fail 
+atom process submit daa command not expect process 
+issuer's valid check detect inconsist 
+consist check w fail 
+handl incorrect 
+deleg not correct 
+blob invalid 
+context held tpm 
+migr auth sign valid fail 
+migr destin not auth 
+migr sourc incorrect 
+incorrect migr auth 
+revok ek ek not revoc 
+bad sign cmk ticket 
+no room list addit context 
+command block 
+handl not found 
+tpm return duply handl command resubmit 
+command transport block 
+command transport not support 
+tpm busy respond command immedy command resubmit tim 
+selftestful not run 
+tpm execut ful selftest 
+tpm defend dict attack tim period 
+intern softw er detect 
+input paramet bad 
+output point bad 
+handl not ref valid 
+output buff smal 
+er occur commun tpm 
+paramet invalid 
+tbs serv not run not start 
+not cre op context 
+virt not cre op virt resourc 
+tbs serv start not run 
+phys pres interfac not support 
+command cancel 
+input output buff larg 
+compat trust platform mod tpm sec dev cannot found comput 
+tbs serv dis 
+no tcg ev log 
+command buff not correct stat 
+command buff not dat satisfy request 
+command buff cannot dat 
+output paramet nul invalid 
+input paramet invalid 
+not mem satisfy request 
+buff smal 
+intern er detect 
+cal not right 
+auth inform invalid 
+handl not valid 
+er occur commun tbs 
+tpm return unexpect result 
+mess larg encod scheme 
+encod blob not recogn 
+key siz not valid 
+encrypt fail 
+key paramet structure not valid 
+supply dat not valid migr auth blob 
+pcr index invalid 
+dat not valid deleg blob 
+paramet not valid 
+dat not valid key blob 
+pcr dat invalid 
+form own au dat invalid 
+random numb gen not pass fip rng check 
+tcg ev log not dat 
+entry tcg ev log invalid 
+tcg sep not found 
+digest tcg log entry not match hash dat 
+buff smal 
+not cle 
+handl invalid 
+invalid paramet 
+er occur commun tpm 
+no entry key found 
+virt handl match virt handl 
+point return handl loc nul invalid 
+paramet invalid 
+rpc subsystem not init 
+tbs scheduler not run 
+command cancel 
+not mem fulfil request 
+list empty it reach end list 
+item not found list 
+tpm not spac load 
+tpm context 
+tpm command fail 
+tbs not recogn ordin 
+no long 
+typ not match 
+no resourc can unload 
+no entry can ad hash tabl 
+tbs not cre op context 
+virt not cre op virt resourc 
+phys pres interfac not support 
+tbs not compat vert tpm found system 
+no tcg ev log 
+gen er detect acquir bios' respons phys pres command 
+us fail confirm tpm request 
+bio fail prev success execut tpm e.g. invalid tpm request bio commun er tpm ). 
+bio not support phys pres interfac 
+dat collect not found 
+dat collect depend 
+un start dat collect fold 
+not fre disk spac start dat collect 
+dat collect ex 
+property ign 
+property conflict 
+cur config dat collect dat collect 
+us account ord commit cur dat collect property 
+dat collect not run 
+conflict detect list includ exclud ap not sam ap includ list exclud list 
+execut path ref network shar unt path 
+execut path config ap trac 
+execut path not ex ver path correct 
+dat collect ex 
+wait dat collect start not tim 
+wait dat collect start tim 
+wait report gen tool fin tim 
+duply item not allow 
+execut trac ful path execut not filenam 
+sess provid invalid 
+ev log channel microsoft window diagnos pla op en 
+ev log channel microsoft window tasksched en 
+execut rul man fail 
+er occur compress extract dat 
+driv lock bitlock driv encrypt unlock driv control panel 
+driv not encrypt 
+bio not correct commun trust platform mod tpm ). contact comput manufact bio upgrad instruct 
+bio not correct commun mast boot record mbr ). contact comput manufact bio upgrad instruct 
+tpm meas miss boot cd dvd comput remov restart comput turn bitlock problem persist ens mast boot record dat 
+boot sect driv not compat bitlock driv encrypt bootrec ex tool window recovery environ upd repair boot man bootmgr ). 
+boot man op system not compat bitlock driv encrypt bootrec ex tool window recovery environ upd repair boot man bootmgr ). 
+sec key protect perform 
+bitlock driv encrypt not en driv turn bitlock 
+bitlock driv encrypt cannot act condit occ request issu sam tim wait mom act 
+act direct domain serv forest not attribut class host bitlock driv encrypt trust platform mod inform contact domain admin ver bitlock act direct schema extend instal 
+typ dat obtain act direct not expect bitlock recovery inform miss corrupt 
+siz dat obtain act direct not expect bitlock recovery inform miss corrupt 
+attribut read act direct not valu bitlock recovery inform miss corrupt 
+attribut not ver log domain account abl writ inform act direct object 
+attribut cannot found act direct domain serv contact domain admin ver bitlock act direct schema extend instal 
+bitlock metadat encrypt driv not valid can repair driv rest access 
+driv cannot encrypt not fre spac delet unnecess dat driv cre addit fre spac 
+driv cannot encrypt system boot inform cre sep partit system driv boot inform partit op system driv encrypt op system driv 
+driv cannot encrypt fil system not support 
+fil system siz larg partit siz partit tabl driv corrupt tamp bitlock reform partit 
+driv cannot encrypt 
+dat not valid 
+dat driv not autom unlock cur comput cannot unlock autom 
+init trust platform mod tpm can bitlock driv encrypt 
+cannot perform op system driv 
+buff supply funct insufficy return dat increas buff siz run funct 
+read fail convert driv driv not convert en bitlock 
+writ fail convert driv driv not convert en bitlock 
+bitlock key protect cannot delet key driv 
+clust config not support bitlock driv encrypt 
+driv config autom unlock cur comput 
+op system driv not protect bitlock driv encrypt 
+bitlock driv encrypt suspend driv bitlock key protect config driv effect dis driv autom unlock unencrypt clear key 
+driv lock not key protect encrypt bitlock protect suspend en bitlock lock driv 
+bitlock cannot trust platform mod tpm protect dat driv tpm protect can op system driv 
+bitlock metadat encrypt driv cannot upd lock upd process process 
+auth dat stor root key srk trust platform mod tpm not incompat bitlock init tpm bitlock 
+driv encrypt algorithm cannot sect siz 
+driv cannot unlock key provid confirm provid correct key 
+driv not op system driv 
+bitlock driv encrypt cannot turn op system driv auto unlock feat dis fix dat driv remov dat driv comput 
+system partit boot sect not trust platform mod tpm meas bootrec ex tool window recovery environ upd repair boot sect 
+bitlock driv encrypt op system driv format ntfs fil system ord encrypt convert driv ntfs turn bitlock 
+group policy set recovery password encrypt driv 
+driv encrypt algorithm key cannot prevy encrypt driv encrypt driv bitlock driv encrypt remov prevy encrypt turn bitlock 
+bitlock driv encrypt cannot encrypt driv encrypt key not ad key protect encrypt driv 
+bitlock driv encrypt detect boot med cd dvd comput remov med restart comput config bitlock 
+key protect cannot ad key protect typ allow driv 
+recovery password fil not found rel path recovery password sav ful qual path environ vary config comput can path 
+key protect not found driv key protect 
+recovery key provid corrupt cannot access driv altern recovery method recovery password dat recovery ag backup vert recovery key recov access driv 
+form recovery password provid invalid bitlock recovery password 48 digit ver recovery password correct form 
+random numb gen check test fail 
+group policy set fip comply prev loc recovery password gen bitlock driv encrypt op fip comply mod bitlock recovery opt can recovery key stor usb driv recovery dat recovery ag 
+group policy set fip comply prev recovery password sav act direct op fip comply mod bitlock recovery opt can recovery key stor usb driv recovery dat recovery ag check group policy set config 
+driv ful decrypt complet 
+key protect cannot 
+no key protect ex driv hardw test 
+bitlock startup key recovery password cannot found usb dev ver correct usb dev usb dev plug comput act usb port restart comput problem persist contact comput manufact bio upgrad instruct 
+bitlock startup key recovery password fil provid corrupt invalid ver correct startup key recovery password fil 
+bitlock encrypt key cannot obtain startup key recovery password ver correct startup key recovery password 
+trust platform mod tpm dis tpm en init valid own can bitlock driv encrypt 
+bitlock config driv cannot man comput op saf mod saf mod bitlock driv encrypt can recovery purpos 
+trust platform mod tpm not unlock driv system boot inform chang pin not provid correct ver driv not tamp system boot inform caus trust sourc ver driv saf access bitlock recovery consol unlock driv suspend resum bitlock upd system boot inform bitlock assocy driv 
+bitlock encrypt key cannot obtain trust platform mod tpm ). 
+bitlock encrypt key cannot obtain trust platform mod tpm pin 
+boot chang bitlock driv encrypt en 
+boot config dat bcd set chang bitlock driv encrypt en 
+group policy set fip comply prohibit unencrypt key prev bitlock suspend driv contact domain admin inform 
+driv cannot encrypt bitlock driv encrypt fil system not extend end driv repartit driv 
+bitlock driv encrypt cannot en op system driv contact comput manufact bio upgrad instruct 
+vert window not includ bitlock driv encrypt bitlock driv encrypt upgrad op system 
+bitlock driv encrypt cannot crit bitlock system fil miss corrupt window startup repair rest fil comput 
+driv cannot lock driv 
+access tok cur thread not imperson tok 
+bitlock encrypt key cannot obtain ver trust platform mod tpm en own tak comput not tpm ver usb driv insert 
+restart comput continu bitlock driv encrypt 
+driv encrypt cannot occ boot debug en bcdedit command lin tool turn boot debug 
+no act tak bitlock driv encrypt raw access mod 
+bitlock driv encrypt cannot ent raw access mod driv driv 
+path boot config dat bcd bitlock driv encrypt integr protect incorrect ver correct bcd set 
+bitlock driv encrypt can recovery purpos comput run window recovery environ 
+auto unlock mast key not op system driv 
+system firmw fail en clear system mem comput restart 
+hid driv cannot encrypt 
+bitlock encrypt key ign driv transy stat 
+publ key bas protect not allow driv 
+bitlock driv encrypt perform driv complet op continu 
+vert window not support feat bitlock driv encrypt feat upgrad op system .. 
+group policy set bitlock startup opt conflict cannot apply contact system admin inform 
+group policy set not permit cre recovery password 
+group policy set cre recovery password 
+group policy set not permit cre recovery key 
+group policy set cre recovery key 
+group policy set not permit pin startup choos bitlock startup opt 
+group policy set pin startup choos bitlock startup opt 
+group policy set not permit startup key choos bitlock startup opt 
+group policy set startup key choos bitlock startup opt 
+group policy set not permit startup key pin choos bitlock startup opt 
+group policy set startup key pin choos bitlock startup opt 
+group policy not permit tpm startup choos bitlock startup opt 
+group policy set tpm startup choos bitlock startup opt 
+pin provid not meet minim maxim leng 
+key protect not support vert bitlock driv encrypt driv upgrad driv ad key protect 
+group policy set not permit cre password 
+group policy set cre password 
+group policy set fip comply prev password gen contact system admin inform 
+password cannot ad op system driv 
+bitlock object ident oid driv appear invalid corrupt man bde reset oid driv 
+driv smal protect bitlock driv encrypt 
+select discovery driv typ incompat fil system driv bitlock discovery driv cre fat format driv 
+select discovery driv typ not allow computer's group policy set ver group policy set cre discovery driv bitlock 
+group policy set not permit us cert smart card bitlock driv encrypt 
+group policy set valid us cert smart card bitlock driv encrypt 
+group policy set smart card bas key protect bitlock driv encrypt 
+group policy set not permit bitlock protect fix dat driv autom unlock 
+group policy set not permit bitlock protect remov dat driv autom unlock 
+group policy set not permit config bitlock driv encrypt remov dat driv 
+group policy set not permit turn bitlock driv encrypt remov dat driv contact system admin turn bitlock 
+group policy set not permit turn bitlock driv encrypt remov dat driv contact system admin turn bitlock 
+password not meet minim password leng default password 8 charact leng check system admin password leng org 
+password not meet complex system admin ad up lowercas charact numb symbol 
+driv cannot encrypt reserv window system recovery opt 
+bitlock driv encrypt cannot apply driv conflict group policy set bitlock cannot config autom unlock fix dat driv us recovery opt dis bitlock protect fix dat driv autom unlock key valid occur system admin resolv set conflict en bitlock 
+bitlock driv encrypt cannot apply driv conflict group policy set bitlock cannot config autom unlock remov dat driv us recovery opt dis bitlock protect remov dat driv autom unlock key valid occ system admin resolv set conflict en bitlock 
+enh key us eku attribut cert not permit bitlock driv encrypt bitlock not cert eku attribut config object ident oid match oid config bitlock 
+bitlock driv encrypt cannot apply driv config group policy set cert provid driv encrypt sign cur group policy set not permit sign cert obtain cert cert auth en bitlock 
+bitlock encrypt cannot apply driv conflict group policy set writ access driv not protect bitlock deny usb startup key cannot system admin resolv policy conflict en bitlock 
+bitlock driv encrypt fail recov abrupt termin convert due convert log corrupt med writ protect 
+virt siz big 
+bitlock driv encrypt cannot apply driv conflict group policy set recovery opt op system driv stor recovery inform act direct domain serv cannot gen recovery password not permit system admin resolv policy conflict en bitlock 
+bitlock driv encrypt cannot apply driv conflict group policy set recovery opt fix dat driv stor recovery inform act direct domain serv cannot gen recovery password not permit system admin resolv policy conflict en bitlock 
+bitlock driv encrypt cannot apply driv conflict group policy set recovery opt remov dat driv stor recovery inform act direct domain serv cannot gen recovery password not permit system admin resolv policy conflict en bitlock 
+key us ku attribut cert not permit bitlock driv encrypt bitlock not cert ku attribut config key enciph key agr 
+priv key cert cannot auth priv key auth not provid provid auth invalid 
+remov dat recovery ag cert cert snap 
+driv encrypt vert bitlock driv encrypt includ window vist window serv 2008 not support org ident org ident driv upgrad driv encrypt latest vert man bde upgrad command 
+driv cannot lock autom unlock comput remov autom unlock protect lock driv 
+default bitlock key der funct sp800 56a ecc smart card not support smart card group policy set fip comply prev bitlock key der funct encrypt fip comply smart card fip restrict environ 
+bitlock encrypt key not obtain trust platform mod tpm enh pin pin num 
+tpm pin invalid charact 
+man inform stor driv contain unknown typ vert window access driv latest vert 
+callout not ex 
+filt condit not ex 
+filt not ex 
+lay not ex 
+provid not ex 
+provid not ex 
+sublay not ex 
+object not ex 
+object guid luid ex 
+object ref object cannot delet 
+cal not allow dynam sess 
+cal mad wrong sess cannot complet 
+cal mad explicit transact 
+cal not allow explicit transact 
+explicit transact forc cancel 
+sess cancel 
+cal not allow read transact 
+cal tim wait acquir transact lock 
+collect network diagnost ev dis 
+not support lay 
+cal allow kernel mod cal 
+cal assocy object incompat lifetim 
+object built cannot delet 
+maxim numb callout reach 
+not not del mess queu maxim capac 
+traff paramet not match sec assocy 
+cal not allow cur sec assocy stat 
+point nul 
+enum not valid 
+flag field invalid 
+network mask not valid 
+fwp_range not valid 
+tim interv not valid 
+array el leng 
+displaydat field cannot nul 
+act typ not allow act typ filt 
+filt weight not valid 
+filt condit match typ not compat operand 
+fwp_value fwpm_condition_value wrong typ 
+integ allow rang 
+reserv field non 
+filt cannot multipl condit op singl field 
+policy cannot sam key mod 
+act typ not compat lay 
+act typ not compat sublay 
+raw provid not compat lay 
+raw provid not compat callout 
+auth method not compat policy typ 
+diffy hellm group not compat policy typ 
+ik policy cannot extend mod policy 
+enum templ subscrib match object 
+provid wrong typ 
+paramet incorrect 
+maxim numb sublay reach 
+not funct callout return er 
+ipsec auth transform not valid 
+ipsec ciph transform not valid 
+packet drop no icmp 
+ipsec ciph transform not compat policy 
+combin ipsec transform typ not valid 
+policy cannot sam au method 
+funct cal complet asynchron 
+no mess channel 
+input dat not expect form not expect 
+not complet object fault stat due prevy er 
+not complet lead num overflow 
+not allow due cur stat object 
+abort 
+access deny remot endpoint 
+not complet tim allot 
+abandon 
+quot excess 
+inform not langu 
+sec ver not success receiv dat 
+address 
+address not valid 
+remot endpoint not ex not loc 
+remot endpoint not serv loc 
+remot endpoint not process request 
+remot endpoint not reach 
+not support remot endpoint 
+remot endpoint un process request due overload 
+mess fault receiv remot endpoint 
+connect remot endpoint termin 
+http proxy serv not process request 
+access deny http proxy serv 
+feat not platform 
+http proxy serv http auth scheme 'basic' 
+http proxy serv http auth scheme 'digest' 
+http proxy serv http auth scheme 'ntlm' 
+http proxy serv http auth scheme 'negotiate' 
+remot endpoint http auth scheme 'basic' 
+remot endpoint http auth scheme 'digest' 
+remot endpoint http auth scheme 'ntlm' 
+remot endpoint http auth scheme 'negotiate' 
+endpoint address url invalid 
+unrecogn er occ window web serv framework 
+sec tok reject serv expir 
+sec fail window web serv framework 
+bind network interfac clos 
+invalid vert 
+invalid charact tabl 
+fail find network interfac network interfac not ready 
+fail op network interfac 
+network interfac encount intern unrecov fail 
+multicast list network interfac ful 
+mad ad duply multicast address list 
+mad remov multicast address ad 
+netowork interfac abort request 
+network interfac can not process request reset 
+netword interfac not support request 
+mad send invalid packet network interfac 
+network interfac not ready complet 
+leng buff submit not valid 
+dat not valid 
+leng buff submit smal 
+network interfac not support oid object ident 
+network interfac remov 
+network interfac not support med typ 
+mad remov tok ring group address compon 
+mad map fil can not found 
+er occ ndi map fil 
+mad map fil alreay map 
+alloc hardw fail compon 
+i o fail network med disconnect wireless access point rang 
+network address request invalid 
+request not valid target dev 
+offload network interfac paus 
+network interfac not found 
+revid numb structure not support 
+port not ex network interfac 
+cur stat port network interfac not support 
+miniport adapt low pow stat 
+wireless loc are network interfac auto config mod support paramet chang 
+wireless loc are network interfac busy can not 
+wireless loc are network interfac pow support 
+list wak lan pattern ful 
+list low pow protocol offload ful 
+request complet ndi stat ind 
+tcp connect not offload loc policy set 
+tcp connect not offload chimney offload target 
+ip path object not offload stat 
+hyperv not support hypercal cod not support 
+hyperv not support encod hypercal input reg not support 
+hyperv not beacus paramet invalid align 
+hyperv not beacus invalid paramet 
+access object deny 
+hyperv not partit ent invalid stat 
+not allow cur stat 
+hyperv not recogn partit property 
+partit property rang viol inv 
+not mem hyperv pool complet 
+maxim partit dep excess partit hierarchy 
+partit partit id not ex 
+hyperv not vp index invalid 
+hyperv not port ident invalid 
+hyperv not connect ident invalid 
+not buff supply send mess 
+prevy virt interrupt not acknowledg 
+prevy virt interrupt acknowledg 
+partit not valid stat sav rest 
+hyperv not complet feat synthet interrupt control syn dis 
+hyperv not object purpos not permit complet 
+proxim domain inform invalid 
+retriev debug dat fail non 
+phys connect debugg not record receiv act 
+not resourc complet 
+hyperv feat not us 
+no hyperv pres system 
+handl virt infrastruct driv reg restart virt machin fix problem problem persist restart phys comput 
+numb reg handl virt infrastruct driv excess maxim restart virt machin fix problem problem persist restart phys comput 
+mess queu virt infrastruct driv ful cannot acceiv mess restart virt machin fix problem problem persist restart phys comput 
+no handl ex handl mess virt infrastruct driv restart virt machin fix problem problem persist restart phys comput 
+partit mess queu virt infrastruct driv invalid restart virt machin fix problem problem persist restart phys comput 
+partit virt infrastruct driv excess maxim 
+mess queu virt infrastruct driv excess maxim 
+cannot cre partit virt infrastruct driv partit sam ex 
+virt infrastruct driv encount er partit not ex restart virt machin fix problem problem persist restart phys comput 
+virt infrastruct driv encount er not find partit restart virt machin fix problem problem persist restart phys comput 
+mess queu sam ex virt infrastruct driv 
+mem block pag virt infrastruct driv cannot map pag map limit reach restart virt machin fix problem problem persist restart phys comput 
+mem block virt infrastruct driv cannot destroy 
+cannot unlock pag array guest op system mem address not match prevy lock request restart virt machin fix problem problem persist restart phys comput 
+non uniform mem access num nod set not match system num topolog ord start virt machin mod num config detail inform http :// microsoft fwlink /? linkid 92362 
+non uniform mem access num nod index not match valid index system num topolog 
+mem block virt infrastruct driv mess queu 
+handl not valid mem block handl virt infrastruct driv 
+request excess mem block pag limit virt infrastruct driv restart virt machin fix problem problem persist restart phys comput 
+handl not valid mess queu handl virt infrastruct driv 
+handl not valid pag rang handl virt infrastruct driv 
+cannot instal cli not no mess queu virt infrastruct driv mem block 
+request lock map mem block pag fail virt infrastruct driv mem block limit reach restart virt machin fix problem problem persist restart phys comput 
+handl not valid par partit map handl virt infrastruct driv 
+not cannot cre mem block 
+mess queu virt infrastruct driv clos restart virt machin fix problem problem persist restart phys comput 
+cannot ad virt process partit maxim reach 
+cannot stop virt process immedy pend interceiv 
+invalid stat virt process restart virt machin fix problem problem persist restart phys comput 
+maxim numb kernel mod cli virt infrastruct driv reach restart virt machin fix problem problem persist restart phys comput 
+kernel mod interfac virt infrastruct driv init restart virt machin fix problem problem persist restart phys comput 
+cannot reset mem block property virt infrastruct driv restart virt machin fix problem problem persist restart phys comput 
+mem map i o pag rang no long ex restart virt machin fix problem problem persist restart phys comput 
+lock unlock request invalid guest op system mem address restart virt machin fix problem problem persist restart phys comput 
+cannot destroy reus reserv pag virt infrastruct driv restart virt machin fix problem problem persist restart phys comput 
+reserv pag virt infrastruct driv smal lock request restart virt machin fix problem problem persist restart phys comput 
+cannot lock map mem block pag virt infrastruct driv lock reserv pag pag restart virt machin fix problem problem persist restart phys comput 
+cannot cre mem block virt infrastruct driv numb pag excess limit restart virt machin fix problem problem persist restart phys comput 
+cannot rest virt machin sav stat dat cannot read delet sav stat dat start virt machin 
+cannot rest virt machin item read sav stat dat not recogn delet sav stat dat start virt machin 
+cannot rest virt machin sav stat hyperv incompat delet sav stat dat start virt machin 
+virt machin run mem alloc multipl num nod not problem perform virt machin unus slow expery perform problem mod num config detail inform http :// microsoft fwlink /? linkid 92362 
+reg not cop dat act plex due bad sect 
+disk not ful migr target pack not reimport fix hardw problem 
+config databas ful 
+config dat disk corrupt 
+config disk not insynt mem config 
+maj disk fail upd config 
+disk non simpl volum 
+sam disk migr list 
+disk dynam 
+disk id invalid no disk disk id 
+disk invalid disk cannot complet invalid disk 
+disk s cannot remov remain vot 
+disk invalid disk layout 
+disk layout non bas partit bas parit invalid disk layout 
+disk layout partit not cylind align 
+disk layout partit saml minim siz 
+disk layout prim partit log driv invalid disk layout 
+disk layout maxim numb support partit 
+disk miss cannot complet miss disk 
+disk not empty 
+not us spac 
+forc revect bad sect fail 
+disk invalid sect siz 
+disk volum ex disk 
+disk volum layout ext memb plex 
+disk volum layout ext plex 
+dynam disk not support system 
+ext volum 
+volum retain can extend contigu ext ext grow volum not contigu volum 
+volum ext not publ reg disk 
+spec volum ext not sect align 
+parit overlap ebr track extend partit mbr disk ). 
+ext length cannot construct volum leng 
+system not support fault tol volum 
+interleav leng invalid 
+maxim numb reg us 
+memb synt act memb not reg 
+sam memb index 
+memb index gre eq numb memb volum plex 
+memb miss cannot reg 
+memb not detach cannot replac memb not detach 
+memb reg 
+disk belong pack fail 
+no reg us not task numb irrelev reg us 
+not us not ex fail unreg us not 
+not reset not cur us invalid unreg reg not 
+numb memb invalid 
+numb plex invalid 
+sourc target pack id 
+pack id invalid no pack pack id 
+pack invalid pack cannot complet invalid pack 
+pack invalid 
+pack offlin 
+pack quor healthy disk 
+pack not quor healthy disk 
+disk unsupport partit styl mbr gpt partit styl support 
+fail upd disk's partit layout 
+plex synt act plex not reg 
+sam plex index 
+plex index gre eq numb plex volum 
+plex act plex volum plex cannot remov volum offlin 
+plex miss 
+plex reg 
+plex typ invalid 
+support raid 5 plex 
+support simpl plex 
+siz field vm_volume_layout input structure incorrect 
+pend request not wait ex request return request not 
+transact process 
+unexpect layout chang occur volum man 
+volum miss disk 
+volum id invalid no volum volum id 
+volum leng invalid 
+siz volum not multipl sect siz 
+support mir volum 
+volum not retain partit 
+volum offlin 
+volum retain partit 
+numb ext invalid 
+disk particip volum sam sect siz 
+boot disk expery fail 
+config pack offlin 
+config pack onlin 
+pack not prim pack 
+disk fail upd cont log 
+numb disk plex invalid 
+numb disk plex memb invalid 
+not support mir volum 
+support simpl span plex 
+pack no valid log cop 
+prim pack pres 
+numb disk invalid 
+system not support mir volum 
+system not support raid 5 volum 
+bcd entry not import correct bcd stor 
+entry enum excess allow threshold 
+bcd entry not synchron correct firmw 
+virt hard disk corrupt virt hard disk driv foot miss 
+virt hard disk corrupt virt hard disk driv foot checks not match disk checks 
+virt hard disk corrupt virt hard disk driv foot virt hard disk corrupt 
+system not recogn fil form virt hard disk 
+vert not support vert fil form 
+virt hard disk corrupt spars head checks not match disk checks 
+system not support vert virt hard disk vert spars head not support 
+virt hard disk corrupt spars head virt hard disk corrupt 
+fail writ virt hard disk fail system fail alloc block virt hard disk 
+virt hard disk corrupt block alloc tabl virt hard disk corrupt 
+system not support vert virt hard disk block siz invalid 
+virt hard disk corrupt block bitmap not match block dat pres virt hard disk 
+chain virt hard disk brok system cannot loc par virt hard disk diff disk 
+chain virt hard disk corrupt mismatch ident par virt hard disk diff disk 
+chain virt hard disk corrupt tim stamp par virt hard disk not match tim stamp diff disk 
+fail read metadat virt hard disk 
+fail writ metadat virt hard disk 
+siz virt hard disk not valid 
+fil siz virt hard disk not valid 
+virt disk support provid fil not found 
+disk not virt disk 
+chain virt hard disk inaccess process not grant access right par virt hard disk diff disk 
+chain virt hard disk corrupt mismatch virt siz par virt hard disk diff disk 
+chain virt hard disk corrupt diff disk par chain 
+chain virt hard disk inaccess er op virt hard disk chain 
+not complet due virt disk system limit virt disk support ntfs volum uncompress unencrypt 
+cannot perform virt disk typ 
+cannot perform virt disk cur stat 
+sect siz phys disk virt disk resid not support 
+virt stor subsystem gen er 
+cancel 
+er occur run powershel script 
+er occur interact powershel runtim 
+er occur scripted diagnost man host 
+troubleshoot pack not ver complet ver 
+troubleshoot pack cannot execut system 
+scripted diagnost dis group policy 
+trust valid troubleshoot pack fail 
+troubleshoot pack cannot execut system 
+vert troubleshoot pack not support 
+cannot load 
+troubleshoot pack report inform root ad root 
+not act 
+bad sim insert 
+dat class not ava 
+access point apn access string incorrect 
+max act context reach 
+dev packet detach stat 
+provid not vis 
+radio pow 
+mbn subscrib not act 
+sim not insert 
+voic cal progress 
+vis provid cach invalid 
+dev not reg 
+provid not found 
+pin not support 
+pin 
+pin dis 
+gen fail 
+profil invalid 
+default profil ex 
+sms encod not support 
+sms filt not support 
+invalid sms mem index 
+sms langu not support 
+sms mem fail occur 
+sms network timeout hap 
+unknown smsc address 
+sms form not support 
+sms not allow 
+dev sms mem ful 
+object not cre 
+shutdown cal object object own 
+method cannot cal typ callback 
+object seal chang no long allow 
+ 
+cannot determin 
+callback return invalid output paramet 
+callback return success cod s_ok s_false 
+paramet own object own object 
+item match search criter 
+flo point overflow occur 
+method can cal thread cre object 
+storyboard schedule 
+storyboard not play 
+start keyfram occ end keyfram 
+not determin end keyfram tim start keyfram reach 
+rep port storyboard overlap 
+transit ad storyboard 
+transit not ad storyboard 
+transit eclips begin transit storyboard 
+tim ear tim pass upd 
+cli connect tim 
